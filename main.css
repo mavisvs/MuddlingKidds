@@ -1,0 +1,59 @@
+#title {
+    font-family: "Palatino Linotype", Serif;
+    font-size: 5vw;
+    text-shadow: 2px 2px 5px black;
+    margin: 0px;
+}
+
+#about-us {
+    font-family: "Palatino Linotype", Serif;
+    text-shadow: 2px 2px 5px black;
+    font-size:2vw;
+}
+
+.page-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.text-center{
+    text-align: center;
+}
+
+
+.spacing {
+    text-indent: 12px;
+    margin: 20px;
+    font: "Palatino Linotype";
+
+}
+
+.background-img {
+    height: max(100vh, 100vw);
+    width: auto;
+    background-attachment: fixed;
+}
+
+.green-button {
+    font-family: Arial;
+    font-size: 1vw;
+    background: white;
+    border: 2px black inset;
+    color: black;
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+    padding: 10px;
+    transition: background-color 0.2s;
+    text-decoration: none;
+}
+
+.green-button:hover {
+    background-color: lightgreen;
+    cursor: pointer;
+}
