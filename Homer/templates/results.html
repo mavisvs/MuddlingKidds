@@ -4,26 +4,33 @@
     <head>
         <title>Results!</title>
         <link rel="stylesheet" href="../static/main.css">
-        <link rel="extraStuff" href="../static/main.js">
+        <link rel="extraStuff1" href="../static/main.js">
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+        <!-- <script src="../static/script.js"></script> -->
+        <!-- <script src="../static/api.js"></script> -->
+        <link rel="extraStuff2" href="../static/api.js">
+        <script type="text/javascript" src="{{
+            url_for('static', filename='../static/api.js') }}"></script>
     </head>
     
-    <body style = "background-color: #ffffcc;">
+    <body id= "results-body" style = "background-color: #ffffcc;">
 
-        <a href="index.html" class="green-button">Return to Search</a>
+        <a href="/" class="green-button">Return to Search</a>
         <!-- <form id = "back-button" class = "green-button" action="index.html">
             <input type="submit" value="Return to Search">
         </form> -->
 
+        
         <h1>Prevalent Natural Disasters</h1>
-            <p> </p>
+            <p>{{data["natDis"][0]}}{% for disaster in data["natDis"][1:] %}, {{disaster}}{% endfor %}</p>
         <h1>Health Hazards</h1>
             <!-- Includes local toxic waste sites, seasonal AQI info, the carbon ppm -->
             <!-- include default messages depending on AQI value-->
-            <h2 class= "spacing">Local Toxic Waste</h2>
+            <h2 class= "spacing">Local Toxic Waste: {{data["waste"]}}</h2>
             <p></p>
-            <h2 class= "spacing">Seasonal AQI</h2>
+            <h2 class= "spacing">Seasonal AQI: {{data["AQI"]}}</h2> <div id="AQI-div"></div>
             <p></p>
-            <h2 class="spacing">Carbon ppm</h2>
+            <h2 class="spacing">Carbon ppm: {{data["carbon"]}}</h2>
             <p></p>
     
         <h1>School Information</h1>
