@@ -5,7 +5,7 @@ from flask import render_template, request, redirect
 
 @app.route("/")
 def index():
-    return render_template( "index.html")
+    return render_template("index.html")
 
 @app.route("/results", methods = ["GET", "POST"])
 def results():
