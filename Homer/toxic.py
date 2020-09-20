@@ -1,7 +1,7 @@
 #Save the name, coordinates, site score, and site url
 import pandas as pd
 import numpy as np
-from scraper import coordinates
+from scraper import coordinate
 from scraper import locationData
 from flask import Flask, render_template, request
 zipcode = ""
@@ -43,7 +43,7 @@ OldToxicData.to_csv("short-toxic.csv")
 # Searching for local superfund sites 
 
 def toxicSites(zipcode):
-    latitude, longitude = coordinates(zipcode) 
+    latitude, longitude = coordinate(zipcode) 
     lat = locationData['Latitude'] == latitude
     lon = locationData['Longitude'] == longitude
     localSites = lat[locationData]

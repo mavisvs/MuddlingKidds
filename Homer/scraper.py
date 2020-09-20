@@ -47,7 +47,7 @@ def plant_scrape(zipcode):
     # options = html.find_all(string=lambda text: bool(re.match("^[-+]?\d+(\.\d+)?$", str(text))))
     # [print(option) for option in options]
 
-plant_scrape("94560")
+print(plant_scrape(zipcode))
 
 
 
