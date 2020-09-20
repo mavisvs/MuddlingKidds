@@ -5,3 +5,4 @@ import scraper.py
 import views.py
 
 def final_results():
+    return 0

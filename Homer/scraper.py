@@ -22,9 +22,104 @@ def scrape_conversionWebsite(zipcode):
     # html = html_bytes.decode("utf-8")
     page = requests.get("https://public.opendatasoft.com/explore/dataset/us-zip-code-latitude-and-longitude/table/?q=" + zipcode)
     html = BeautifulSoup(page.content, 'html.parser')
+    words = []
+    for text in html:
+        words.append(text.split())
     # print(html)
     # print(re.findall("<span", html))
-    options = html.find_all('span', string=lambda text: bool(re.match("^[-+]?\d+(\.\d+)?$", str(text))))
-    print(options)
+    options = html.find_all(string=lambda text: text != None)
+    # options = html.find_all(string=lambda text: bool(re.match("^[-+]?\d+(\.\d+)?$", str(text))))
+    [print(option) for option in options]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 scrape_conversionWebsite("94602")

@@ -10,9 +10,9 @@ ourUrl += "&list_filter=all&max_distance=10&family_id=&latitude=&longitude=&coun
 
 pageRecycle = urlopen(ourUrl) #returns an HTTPResponse object
 html_bytes = pageRecycle.read()
-#html = html_bytes.decode("utf-8")
+html = html_bytes.decode("utf-8")
 
-numResults = hmtl_bytes.count("result-item")
+numResults = html.count("result-item")
 print(numResults)
 
 
