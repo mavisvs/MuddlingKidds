@@ -11,6 +11,7 @@ ourUrl = "https://search.earth911.com/?what=CFLs%2C+desktop+computers%2C+cell+ph
 #zipcode = request.form['zip']
 @app.route('/results', method="post")
 zipcode = request.form['zip']
+zipcode = request.forms.get('zip')
 ourUrl += zipcode
 #TODO: Switch to an actual variable
 ourUrl += "&list_filter=all&max_distance=10&family_id=&latitude=&longitude=&country=&province=&city=&sponsor="

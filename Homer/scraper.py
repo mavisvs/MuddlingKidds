@@ -45,5 +45,5 @@ plant_scrape("94560")
 [35801]
 
 def disaster_scrape():
-    zip_url = "https://www.unitedstateszipcodes.org/94602/"
+    zip_url = "https://www.unitedstateszipcodes.org/" + zipcode + "/"
     url = "http://www.usa.com/94602-ca-natural-disasters-extremes.htm"
