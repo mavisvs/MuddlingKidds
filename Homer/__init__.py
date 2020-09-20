@@ -11,3 +11,4 @@ import Homer.views
 def getZip():
     global zipcode
     zipcode = request.forms.get('zip')
+    return zipcode

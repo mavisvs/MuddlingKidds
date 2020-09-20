@@ -3,17 +3,10 @@ import pandas as pd
 import numpy as np
 from scraper import coordinate
 from scraper import locationData
-from flask import Flask, render_template, request
-zipcode = ""
-app = Flask(__name__)
+import Homer
+
 # from scraper import scrape_conversionWebsite
-
-# zipcode = 
-
-@app.route('/results', methods=["POST"])
-def getZip():
-    global zipcode
-    zipcode = request.forms.get('zip')
+zipcode = Homer.getZip() 
 
 # Importing superfund site list 
 # OldToxicData = pd.read_csv("toxic.csv")
@@ -46,7 +39,8 @@ dropCols = ['X', 'Y', 'FID', 'OBJECTID',
 
 def toxicSites(zipcode):
     sites = []
-    latitude, longitude = coordinate(zipcode) 
+    latitude = coordinate(zipcode)[0]
+    longitude = coordinate(zipcode)[1] 
     lat = locationData['Latitude'] == latitude
     lon = locationData['Longitude'] == longitude
     localSites = lat[toxicData]

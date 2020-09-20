@@ -2,11 +2,8 @@
 from urllib.request import urlopen
 import re
 import Homer 
-from flask import Flask, render_template, request
-zipcode = ""
-app = Flask(__name__)
 ourUrl = "https://search.earth911.com/?what=CFLs%2C+desktop+computers%2C+cell+phones%2C+etc...&where="
-getZip()
+zipcode = Homer.getZip()
 
 #@app.route('/results', methods=["POST"])
 #def getZip():
@@ -21,4 +18,4 @@ html_bytes = pageRecycle.read()
 html = html_bytes.decode("utf-8")
 
 numResults = html.count("result-item")
-print(numResults)
+#TODO: print(numResults)

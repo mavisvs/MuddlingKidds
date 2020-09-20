@@ -15,8 +15,8 @@
                 const aqiLabel = document.getElementById("aqi-label");
                 let aqi = res["data"][0]["aqi"];
                 aqiLabel.append(aqi);
-                let city = res["city_name"]
-                let state = res["state_code"]
+                let city = res["data"][0]["city_name"]
+                let state = res["data"][0]["state_code"]
                 const locLabel = document.getElementById("location");
                 locLabel.innerHTML = city+", "+state;
             });</script>
