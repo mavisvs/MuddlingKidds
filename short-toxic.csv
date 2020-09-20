@@ -1,0 +1,1811 @@
+,Site_Name,Site_Score,SITS_ID,Longitude,Latitude
+0,Alaska Battery Enterprises,30.98,1116,-147.7038,64.8203
+1,Fort Wainwright,42.4,1232,-147.6106,64.82300000000001
+2,Elmendorf Air Force Base,45.91,1233,-149.7917,61.254169
+3,Standard Steel & Metal Salvage Yard (USDOT),46.25,1234,-149.8324,61.2279
+4,Eielson Air Force Base,48.14,1237,-147.0492,64.67145
+5,Arctic Surplus,42.24,1284,-147.5643,64.8122
+6,Adak Naval Air Station,51.37,1358,-176.6525,51.8775
+7,Fort Richardson (USARMY),50.0,1401,-149.7,61.25833299999999
+8,Salt Chuck Mine,50.0,1812,-132.558853,55.626442000000004
+9,Mowbray Engineering Co.,53.67,382,-86.61305,31.831669
+10,Perdido Ground Water Contamination,30.29,383,-87.625,31.0125
+11,Triana/Tennessee River,61.42,384,-86.638194,34.508888
+12,Ciba-Geigy Corp. (McIntosh Plant),53.42,385,-87.9955,31.279
+13,Olin Corp. (McIntosh Plant),39.71,386,-87.99445,31.263889000000002
+14,Stauffer Chemical Co. (LeMoyne Plant),32.34,387,-88.0175,30.969439
+15,Stauffer Chemical Co. (Cold Creek Plant),46.77,388,-88.021389,30.975
+16,Alabama Army Ammunition Plant,36.83,390,-86.3268,33.3381
+17,Interstate Lead Co. (ILCO),42.86,391,-86.633333,33.688889
+18,"Redwing Carriers, Inc. (Saraland)",30.83,1121,-88.073061,30.808331
+19,T.H. Agriculture & Nutrition Co. (Montgomery Plant),44.46,1194,-86.3791,32.3761
+20,Redstone Arsenal (USARMY/NASA),50.0,1396,-86.673055,34.646944
+21,American Brass,55.61,1538,-85.404167,31.325
+22,Capitol City Plume,50.0,1593,-86.306,32.382
+23,"Alabama Plating Company, Inc.",30.2,1610,-86.405,33.399722
+24,Anniston Army Depot (Southeast Industrial Area),51.91,1690,-85.96943900000001,33.659439
+25,35th Avenue,50.0,1897,-86.79967099999999,33.557464
+26,Cecil Lindsey,35.6,743,-91.2255,35.6349
+27,Gurley Pit,40.13,745,-90.3116,35.1209
+28,Industrial Waste Control,30.31,746,-94.3525,35.2402
+29,Mid-South Wood Products,45.87,747,-94.2566,34.5697
+30,Midland Products,30.77,748,-93.203889,35.025
+31,"Vertac, Inc.",65.46,749,-92.1312,34.878
+32,"Arkwood, Inc.",28.95,750,-93.1964,36.445
+33,Jacksonville Municipal Landfill,29.64,751,-92.07166099999999,34.863331
+34,Rogers Road Municipal Landfill,29.64,752,-92.0778,34.8627
+35,Monroe Auto Equipment Co. (Paragould Pit),46.01,1292,-90.575,36.020831
+36,Frit Industries,39.47,1294,-90.94166899999999,36.105
+37,South 8th Street Landfill,50.27,1346,-90.169444,35.124444
+38,"Popile, Inc.",50.03,1347,-92.673333,33.1825
+39,Mountain Pine Pressure Treating,41.93,1556,-93.302222,34.984167
+40,Ouachita Nevada Wood Treater,50.0,1583,-93.104258,33.759453
+41,Cedar Chemical Corporation,0.0,1863,-90.6517,34.5206
+42,MacMillan Ring Free Oil,50.0,1884,-92.65688,33.30836
+43,Taputimu Farm,0.0,894,-170.77200000000002,-14.3601
+44,Indian Bend Wash Area,42.24,895,-111.9083,33.466669
+45,Phoenix-Goodyear Airport Area,45.91,897,-112.3653,33.429719
+46,Mountain View Mobile Home Estates,0.0,898,-110.7332,33.3728
+47,Tucson International Airport Area,57.8,899,-110.9333,32.105561
+48,Nineteenth Avenue Landfill,54.27,900,-112.0917,33.416669
+49,Hassayampa Landfill,42.79,902,-112.7483,33.368331
+50,Luke Air Force Base,37.93,1135,-112.3567,33.54
+51,Yuma Marine Corps Air Station,32.24,1138,-114.5888,32.654581
+52,Williams Air Force Base,37.93,1263,-111.6519,33.30695
+53,"Motorola, Inc. (52nd Street Plant)",40.83,1703,-111.9708,33.461669
+54,Apache Powder Co.,39.09,1704,-110.24,31.88
+55,Iron King Mine - Humboldt Smelter,52.69,1779,-112.25,34.5
+56,Aerojet General Corp.,54.63,905,-121.2,38.608331
+57,Celtor Chemical Works,30.31,906,-123.6911,41.1027
+58,Coast Wood Preserving,44.73,907,-123.193,39.1125
+59,Iron Mountain Mine,56.16,908,-122.5278,40.671669
+60,Jibboom Junkyard,28.94,909,-121.5033,38.591669
+61,Liquid Gold Oil Corp.,43.32,910,-122.325,37.908333
+62,McColl,41.77,911,-117.9712,33.8953
+63,MGM Brakes,34.7,912,-123.0109,38.784
+64,"Purity Oil Sales, Inc.",43.27,913,-119.7467,36.6874
+65,Selma Treating Co.,48.83,914,-119.6017,36.556669
+66,Stringfellow,0.0,915,-117.45833,34.023056
+67,Westinghouse Electric Corp. (Sunnyvale Plant),39.93,916,-122.0225,37.3787
+68,"Valley Wood Preserving, Inc.",32.01,918,-120.8239,37.4727
+69,"Koppers Co., Inc. (Oroville Plant)",33.73,919,-121.5643,39.470831
+70,McClellan Air Force Base (Ground Water Contamination),57.93,920,-121.3994,38.66
+71,Atlas Asbestos Mine,45.55,921,-120.5867,36.321669
+72,Coalinga Asbestos Mine,45.55,922,-120.5283,36.31
+73,Del Norte Pesticide Storage,35.79,923,-124.2317,41.773331
+74,San Gabriel Valley (Area 1),42.24,924,-118.0,34.125
+75,San Gabriel Valley (Area 2),42.24,925,-117.9361,34.073611
+76,San Gabriel Valley (Area 3),28.9,926,-118.125,34.1
+77,San Gabriel Valley (Area 4),28.9,927,-117.9583,34.016669
+78,South Bay Asbestos Area,44.68,931,-121.9811,37.429860999999995
+79,"Operating Industries, Inc., Landfill",57.22,932,-118.105556,34.033333
+80,San Fernando Valley (Area 1),42.24,933,-118.3514,34.19
+81,San Fernando Valley (Area 2),42.24,934,-118.286,34.163139
+82,San Fernando Valley (Area 3),42.24,935,-118.4135,34.2276
+83,San Fernando Valley (Area 4),35.57,936,-118.2539,34.112080999999996
+84,Montrose Chemical Corp.,32.1,937,-118.2983,33.848331
+85,Sharpe Army Depot,42.24,938,-121.2672,37.829169
+86,Norton Air Force Base,39.65,939,-117.2372,34.098061
+87,Castle Air Force Base (6 Areas),37.93,940,-120.5636,37.367360999999995
+88,Mather Air Force Base,28.9,941,-121.2972,38.55695
+89,Lawrence Livermore Laboratory (USDOE),42.24,942,-121.7047,37.688061
+90,Firestone Tire & Rubber Co. (Salinas Plant),45.91,944,-121.5901,36.6249
+91,Beckman Instruments (Porterville Plant),34.21,946,-119.0201,36.049
+92,Louisiana-Pacific Corp.,33.73,947,-121.5703,39.4743
+93,T.H. Agriculture & Nutrition Co.,42.24,948,-119.660501,36.764728000000005
+94,"Advanced Micro Devices, Inc.",37.93,949,-122.0086,37.3825
+95,Applied Materials,31.94,950,-121.9777,37.3777
+96,Intel Magnetics,31.94,952,-121.9801,37.3756
+97,Intel Corp. (Santa Clara III),31.94,953,-121.9717,37.3737
+98,Monolithic Memories,35.57,955,-121.9968,37.3816
+99,National Semiconductor Corp.,35.57,956,-121.9989,37.375281
+100,Revere Textile Prints Corp.,41.06,7,-71.829169,41.708331
+101,Nutmeg Valley Road,42.69,8,-72.9986,41.5748
+102,Durham Meadows,33.94,9,-72.681388,41.48111
+103,Cheshire Ground Water Contamination,35.57,1031,-72.910833,41.5575
+104,Linemaster Switch Corp.,33.71,1095,-71.966939,41.940560999999995
+105,Barkhamsted-New Hartford Landfill,38.05,1206,-73.04722199999999,41.980556
+106,Gallup's Quarry,46.29,1209,-71.924161,41.665281
+107,Precision Plating Corp.,49.1,1216,-72.447911,41.84975
+108,New London Submarine Base,36.53,1267,-72.08708100000001,41.400139
+109,"Raymark Industries, Inc.",0.0,1408,-73.117222,41.201278
+110,Scovill Industrial Landfill,50.0,1591,-73.010639,41.550389
+111,Broad Brook Mill,54.35,1613,-72.54722199999999,41.916667
+112,Washington Navy Yard,48.57,1503,-76.9875,38.875
+113,Army Creek Landfill,69.92,247,-75.608331,39.653061
+114,Delaware Sand & Gravel Landfill,46.6,248,-75.60278100000001,39.651389
+115,Delaware City PVC Plant,30.55,249,-75.649439,39.586110999999995
+116,"Harvey & Knott Drum, Inc.",30.77,250,-75.770839,39.573331
+117,New Castle Steel,30.4,251,-75.57776899999999,39.657781
+118,New Castle Spill,38.33,252,-75.561669,39.670281
+119,Tybouts Corner Landfill,0.0,253,-75.653339,39.6125
+120,Wildcat Landfill,30.61,254,-75.5,39.120831
+121,Coker's Sanitation Service Landfills,52.15,257,-75.611389,39.227219
+122,NCR Corp. (Millsboro Plant),38.21,258,-75.283061,38.5775
+123,Halby Chemical Co.,30.9,259,-75.537219,39.718610999999996
+124,"Standard Chlorine of Delaware, Inc.",35.42,260,-75.63583100000001,39.599581
+125,Tyler Refrigeration Pit,33.94,261,-75.618889,39.295281
+126,Dover Gas Light Co.,35.57,263,-75.5277,39.1558
+127,"E.I. du Pont de Nemours & Co., Inc. (Newport Pigment Plant Landfill)",51.91,264,-75.609169,39.708331
+128,Sussex County Landfill No. 5,28.9,265,-75.61416899999999,38.535
+129,Sealand Limited,33.1,1064,-75.71,39.5126
+130,"Koppers Co., Inc. (Newport Plant)",33.56,1072,-75.624169,39.704719
+131,Dover Air Force Base,35.89,1684,-75.466669,39.127781
+132,"Chem-Solv, Inc.",37.93,1685,-75.5764,39.2216
+133,Millsboro TCE,50.0,1804,-75.298061,38.588158
+134,Newark South Ground Water Plume,50.0,1929,-75.735,39.653889
+135,Hockessin Groundwater,50.0,1933,-75.696513,39.78752
+136,Blades Groundwater,50.0,1954,-75.610467,38.631644
+137,Alpha Chemical Corp.,43.24,392,-82.00971899999999,28.100831
+138,American Creosote Works (Pensacola Plant),58.41,393,-87.236661,30.404719
+139,Brown Wood Preserving,45.51,394,-83.01305,30.3025
+140,Coleman-Evans Wood Preserving Co.,46.18,395,-81.842781,30.313889
+141,Davie Landfill,57.86,396,-80.3426,26.0696
+142,Florida Steel Corp.,45.92,397,-80.506111,27.041110999999997
+143,Gold Coast Oil Corp.,57.8,398,-80.3112,25.7434
+144,Hollingsworth Solderless Terminal,44.53,399,-80.15221899999999,26.198331
+145,Kassauf-Kimerling Battery Disposal,53.42,400,-82.39,27.967219
+146,Miami Drum Services,53.56,401,-80.313061,25.837219
+147,Munisport Landfill,32.37,402,-80.154169,25.908331
+148,Northwest 58th Street Landfill,49.43,403,-80.347219,25.833331
+149,Parramore Surplus,37.61,404,-84.69375,30.660689
+150,Pickettville Road Landfill,42.94,405,-81.738889,30.368610999999998
+151,Pioneer Sand Co.,51.97,406,-87.351389,30.474169
+152,Reeves Southeastern Galvanizing Corp.,58.75,407,-82.341939,27.9725
+153,Sapp Battery Salvage,47.7,408,-85.3925,30.728331
+154,Schuylkill Metals Corp.,59.16,409,-82.143061,28.010831
+155,Sherwood Medical Industries,39.83,410,-81.265,29.060831
+156,Taylor Road Landfill,51.37,411,-82.29305,28.009719
+157,Tower Chemical Co.,44.03,412,-81.684719,28.551389
+158,Varsol Spill,44.46,413,-80.2772,25.8047
+159,Whitehouse Oil Pits,52.58,414,-81.8513,30.3201
+160,Zellwood Ground Water Contamination,51.91,415,-81.613331,28.73195
+161,Sixty-Second Street Dump,49.09,416,-82.38638900000001,27.969439
+162,Cabot/Koppers,36.69,417,-82.323061,29.675
+163,Dubose Oil Products Co.,34.18,420,-87.37695,30.618060999999997
+164,Hipps Road Landfill,31.94,421,-81.805561,30.216939
+165,Peak Oil Co./Bay Drum Co.,58.15,422,-82.3404,27.9708
+166,"Pepper Steel & Alloys, Inc.",31.92,423,-80.35333100000001,25.873611
+167,Sydney Mine Sludge Ponds,38.93,424,-82.209166,27.929166
+168,"Tri-City Oil Conservationist, Inc.",39.3,425,-82.4015,28.0318
+169,Wingate Road Municipal Incinerator Dump,31.72,428,-80.1847,26.1444
+170,Piper Aircraft Corp./Vero Beach Water & Sewer Department,31.13,429,-80.415555,27.647499
+171,Harris Corp. (Palm Bay Plant),35.57,430,-80.601389,28.030281
+172,Petroleum Products Corp.,40.11,431,-80.1696,25.9926
+173,Yellow Water Road Dump,30.26,432,-81.9717,30.2803
+174,"Anodyne, Inc.",31.03,433,-80.221531,25.923189
+175,Beulah Landfill,38.17,434,-87.345139,30.513060999999997
+176,Airco Plating Co.,42.47,435,-80.2559,25.8152
+177,Standard Auto Bumper Corp.,42.79,436,-80.289721,25.844444
+178,"B&B Chemical Co., Inc.",35.35,1049,-80.300139,25.839581
+179,Woodbury Chemical Co. (Princeton Plant),39.43,1071,-80.4124,25.5367
+180,Madison County Sanitary Landfill,37.93,1103,-83.39375,30.501110999999998
+181,"Chemform, Inc.",37.93,1111,-80.141374,26.219054999999997
+182,Agrico Chemical Co.,44.98,1130,-87.2256,30.4512
+183,"Wilson Concepts of Florida, Inc.",37.93,1139,-80.142768,26.218675
+184,BMI-Textron,35.34,1185,-80.0738,26.7937
+185,Anaconda Aluminum Co./Milgo Electronics Corp.,31.03,1217,-80.25653100000001,25.843061
+186,Jacksonville Naval Air Station,32.08,1240,-81.682777,30.221109999999996
+187,Cecil Field Naval Air Station,31.99,1245,-81.902777,30.238609999999998
+188,Pensacola Naval Air Station,42.4,1256,-87.283054,30.357221999999997
+189,Homestead Air Force Base,42.4,1264,-80.39694399999999,25.489444
+190,Stauffer Chemical Co. (Tarpon Springs),50.0,1328,-82.775694,28.166665999999996
+191,Helena Chemical Co. (Tampa Plant),30.19,1332,-82.374813,27.963931
+192,Whiting Field Naval Air Station,50.0,1423,-87.02041700000001,30.709721999999996
+193,Chevron Chemical Co. (Ortho Division),50.0,1425,-81.408889,28.578889
+194,Escambia Wood - Pensacola,50.0,1435,-87.2317,30.4553
+195,Normandy Park Apartments,49.98,1448,-82.394722,28.049444
+196,MRI Corp (Tampa),37.62,1471,-82.35583299999999,27.96
+197,Stauffer Chemical Co (Tampa),59.81,1473,-82.37055600000001,27.963055999999998
+198,Tyndall Air Force Base,50.0,1474,-85.586667,30.0875
+199,Florida Petroleum Reprocessors,50.0,1491,-80.215556,26.081944
+200,"Mid-Atlantic Wood Preservers, Inc.",42.31,270,-76.69833100000001,39.163610999999996
+201,Southern Maryland Wood Treating,34.21,271,-76.5882,38.3589
+202,Kane & Lombard Street Drums,30.15,272,-76.5419,39.2956
+203,"Chemical Metals Industries, Inc.",0.0,273,-76.6325,39.265419
+204,Aberdeen Proving Ground (Michaelsville Landfill),31.09,274,-76.1414,39.4606
+205,Aberdeen Proving Ground (Edgewood Area),53.57,275,-76.30773,39.395404
+206,Woodlawn County Landfill,48.13,276,-76.09,39.641669
+207,Bush Valley Landfill,40.3,277,-76.26195,39.467219
+208,"Spectron, Inc.",51.42,1351,-75.877778,39.691249
+209,"Ordnance Products, Inc.",32.15,1371,-75.923889,39.630833
+210,Beltsville Agricultural Research Center (USDA),50.0,1386,-76.88458299999999,39.029166
+211,Patuxent River Naval Air Station,50.0,1419,-76.419444,38.270694
+212,Indian Head Naval Surface Warfare Center,50.0,1453,-77.174306,38.591389
+213,Central Chemical (Hagerstown),50.0,1468,-77.723611,39.656667
+214,Fort George G. Meade,51.44,1487,-76.715278,39.083333
+215,Andrews Air Force Base,50.0,1511,-76.875,38.791667
+216,Brandywine DRMO,50.15,1512,-76.845,38.698056
+217,Curtis Bay Coast Guard Yard,50.0,1645,-76.572694,39.2
+218,68th Street Dump,50.0,1680,-76.517886,39.307967
+219,Fort Detrick Area B Ground Water,49.52,1782,-77.44676899999999,39.434442
+220,Dwyer Property Ground Water Plume,50.0,1825,-75.844474,39.612007
+221,Sauer Dump,50.0,1833,-76.45271,39.270267
+222,McKin Co.,60.97,31,-70.2942,43.8841
+223,O'Connor,31.86,32,-69.736944,44.301916
+224,Pinette's Salvage Yard,33.98,33,-68.1701,46.7782
+225,Saco Municipal Landfill,29.49,34,-70.4815,43.5302
+226,Saco Tannery Waste Pits,43.19,35,-70.426389,43.56055
+227,Winthrop Landfill,35.62,36,-69.988331,44.275831
+228,Brunswick Naval Air Station,43.38,37,-69.933986,43.90634
+229,Loring Air Force Base,34.49,38,-67.883888,46.944444
+230,Portsmouth Naval Shipyard,50.0,1393,-70.74166600000001,43.084167
+231,West Site/Hows Corners,50.0,1452,-69.182222,44.740278
+232,Eastern Surplus,50.0,1454,-67.358333,45.038889000000005
+233,Eastland Woolen Mill,70.71,1547,-69.261111,44.921667
+234,Callahan Mine,50.0,1646,-68.810139,44.351639
+235,"Union Chemical Co., Inc.",32.11,1683,-69.189027,44.21444
+236,Leeds Metal,32.25,1849,-70.08025,44.237083
+237,Keddy Mill,50.0,1885,-70.424514,43.734953000000004
+238,Anderson Development Co.,31.02,559,-84.017219,41.893611
+239,"Auto Ion Chemicals, Inc.",32.07,560,-85.567219,42.293889
+240,Berlin & Farro,66.74,561,-83.8348,42.903999999999996
+241,Burrows Sanitation,30.59,562,-86.1502,42.2233
+242,Butterworth #2 Landfill,50.31,563,-85.700281,42.952219
+243,"Cannelton Industries, Inc.",30.16,564,-84.393061,46.488889
+244,Cemetery Dump,34.16,565,-83.610281,42.725281
+245,Charlevoix Municipal Well,37.94,566,-85.266669,45.317781
+246,Chem Central,38.2,567,-85.674161,42.91
+247,Clare Water Supply,38.43,568,-84.7625,43.815
+248,Cliff/Dow Dump,34.5,569,-87.42,46.574439
+249,Duell & Gardner Landfill,34.68,570,-86.208339,43.319439
+250,"Avenue ""E"" Ground Water Contamination",31.19,571,-85.5775,44.750719000000004
+251,Electrovoice,35.36,572,-86.3545,41.8206
+252,Forest Waste Products,38.64,573,-83.545831,43.198331
+253,G&H Landfill,49.09,574,-83.07776899999999,42.664719
+254,Grand Traverse Overall Supply Co.,35.53,575,-85.6382,44.7944
+255,Gratiot County Golf Course,40.22,576,-84.623469,43.416419
+256,Gratiot County Landfill,0.0,577,-84.595281,43.395
+257,Hedblum Industries,37.29,578,-83.3469,44.4113
+258,Ionia City Landfill,31.31,579,-85.046111,42.976669
+259,K&L Avenue Landfill,38.1,580,-85.718889,42.283331
+260,Kentwood Landfill,35.39,581,-85.5906,42.8738
+261,"Liquid Disposal, Inc.",63.28,582,-83.073611,42.652781
+262,Mason County Landfill,34.18,584,-86.4292,43.9185
+263,McGraw Edison Corp.,33.42,585,-84.73306099999999,42.252219000000004
+264,Northernaire Plating,57.93,586,-85.41,44.265
+265,Novaco Industries,38.2,587,-83.6443,41.7856
+266,"Organic Chemicals, Inc.",32.93,588,-85.7475,42.9178
+267,Ossineke Ground Water Contamination,33.78,589,-83.442219,44.903331
+268,Ott/Story/Cordova Chemical Co.,53.41,590,-86.25666899999999,43.303331
+269,Packaging Corp. of America,51.91,591,-86.273331,44.226389000000005
+270,Petoskey Municipal Well Field,42.68,592,-84.964,45.376000000000005
+271,Rasmussen's Dump,31.8,593,-83.7693,42.4544
+272,Rose Township Dump,50.92,594,-83.631939,42.720831
+273,SCA Independent Landfill,34.75,595,-86.1425,43.201111
+274,Shiawassee River,31.01,596,-83.963611,42.622780999999996
+275,Southwest Ottawa County Landfill,39.66,597,-86.18521899999999,42.820419
+276,Sparta Landfill,32.0,598,-85.68195,43.1525
+277,Spartan Chemical Co.,41.05,599,-85.72778100000001,42.915831
+278,Spiegelberg Landfill,53.61,600,-83.77221899999999,42.454169
+279,Springfield Township Dump,51.97,601,-83.5419,42.7044
+280,Tar Lake,48.55,602,-85.073,44.8866
+281,U.S. Aviex,33.66,603,-86.1968,41.8309
+282,Velsicol Chemical Corp.(Michigan),52.29,604,-84.618611,43.410561
+283,Verona Well Field,46.86,605,-85.143331,42.341669
+284,Wash King Laundry,40.03,606,-85.853,43.8532
+285,Whitehall Municipal Wells,35.45,607,-86.328889,43.412219
+286,Metamora Landfill,35.51,608,-83.274439,42.94695
+287,Sturgis Municipal Wells,42.24,609,-85.4256,41.7988
+288,"Thermo-Chem, Inc.",53.36,611,-86.136669,43.210831
+289,Torch Lake,46.72,612,-88.39778100000001,47.169719
+290,North Bronson Industrial Area,33.93,613,-85.193339,41.880281
+291,Michigan Disposal Service (Cork Street Landfill),37.93,614,-85.5433,42.2545
+292,"Motor Wheel, Inc.",48.91,616,-84.535,42.760831
+293,South Macomb Disposal Authority (Landfills #9 and #9A),33.67,617,-82.907389,42.682081
+294,Waste Management of Michigan (Holland Lagoons),37.2,618,-86.189389,42.824219
+295,"Roto-Finish Co., Inc.",40.7,619,-85.5443,42.2292
+296,"H. Brown Co., Inc.",39.88,621,-85.67833900000001,43.003331
+297,Rockwell International Corp. (Allegan Plant),52.15,622,-85.85,42.536669
+298,Kent City Mobile Home Park,33.62,625,-85.753331,43.216669
+299,Folkertsma Refuse,33.12,626,-85.703331,43.001669
+300,Pagel's Pit,45.91,518,-89.056661,42.158331
+301,Joliet Army Ammunition Plant (Manufacturing Area),32.08,520,-88.1563,41.3762
+302,H.O.D. Landfill,34.68,522,-88.0819,42.4753
+303,"Tri-County Landfill Co./Waste Management of Illinois, Inc.",42.76,523,-88.2712,41.9832
+304,Parsons Casket Hardware Co.,55.58,524,-88.836,42.2692
+305,Yeoman Creek Landfill,33.23,526,-87.848611,42.388889
+306,DuPage County Landfill/Blackwell Forest,35.57,1035,-88.1787,41.8326
+307,Southeast Rockford Ground Water Contamination,42.24,1075,-89.071111,42.230689
+308,Amoco Chemicals (Joliet Landfill),39.44,1078,-88.172781,41.441669
+309,"Interstate Pollution Control, Inc.",46.01,1090,-89.098,42.24100000000001
+310,Central Illinois Public Service Co.,28.95,1165,-89.2975,39.5404
+311,Ilada Energy Co.,34.21,1166,-89.4635,37.2584
+312,Woodstock Municipal Landfill,50.1,1167,-88.4402,42.2923
+313,MIG/Dewane Landfill,49.91,1189,-88.806944,42.255917
+314,"Lenz Oil Service, Inc.",42.33,1202,-87.9422,41.7068
+315,Adams County Quincy Landfills 2&3,34.21,1203,-91.268472,39.929444000000004
+316,Beloit Corp.,52.08,1204,-89.06555,42.468610999999996
+317,Ottawa Radiation Areas,50.0,1303,-88.836111,41.351667
+318,Jennison-Wright Corporation,40.3,1461,-90.1525,38.708333
+319,Circle Smelting Corp,70.71,1475,-89.420833,38.608333
+320,DePue/New Jersey Zinc/Mobil Chemical Corp.,70.71,1486,-89.304167,41.327778
+321,Indian Refinery-Texaco Lawrenceville,56.67,1516,-87.682222,38.715556
+322,Chanute Air Force Base,48.3,1615,-88.138611,40.288610999999996
+323,Matthiessen and Hegeler Zinc Company,50.0,1635,-89.083067,41.34215
+324,Sauget Area 1,50.0,1654,-90.172917,38.585833
+325,Sauget Area 2,50.0,1655,-90.182222,38.597361
+326,Savanna Army Depot Activity,42.2,1694,-90.313331,42.21
+327,Joliet Army Ammunition Plant (Load-Assembly-Packing Area),35.23,1695,-88.0772,41.3662
+328,Hegeler Zinc,50.0,1729,-87.650092,40.076322
+329,Lake Calumet Cluster,30.0,1743,-87.568889,41.679444000000004
+330,ASARCO Taylor Springs,30.0,1749,-89.50545799999999,39.118677000000005
+331,Eagle Zinc Co Div T L Diamond,50.0,1757,-89.476417,39.161167
+332,Chemetco,30.0,1808,-90.098,38.799
+333,Sandoval Zinc Company,30.0,1839,-89.108251,38.613061
+334,Bautsch-Gray Mine,48.97,1861,-90.398569,42.357422
+335,Estech General Chemical Company,30.0,1901,-87.526905,41.628303
+336,Old American Zinc Plant,30.0,1907,-90.09899999999999,38.648
+337,Schroud Property,50.0,1952,-87.543503,41.662606
+338,Envirochem Corp.,46.44,527,-86.278339,40.03
+339,Fisher-Calo,52.05,528,-86.6709,41.5081
+340,Fort Wayne Reduction Dump,42.47,529,-85.06666899999999,41.075
+341,Lake Sandy Jo (M&M Landfill),38.21,530,-87.382231,41.570839
+342,Lemon Lane Landfill,29.31,531,-86.5598,39.1731
+343,Main Street Well Field,42.49,532,-85.979161,41.696389
+344,Marion (Bragg) Dump,35.25,533,-85.633061,40.537781
+345,MIDCO I,46.44,534,-87.4284,41.5895
+346,MIDCO II,30.16,535,-87.408611,41.622780999999996
+347,Neal's Dump (Spencer),36.55,536,-86.7968,39.2381
+348,Neal's Landfill (Bloomington),42.93,537,-86.6405,39.1667
+349,Ninth Avenue Dump,40.32,538,-87.429,41.5934
+350,Reilly Tar & Chemical Corp. (Indianapolis Plant),34.03,540,-86.218331,39.740281
+351,Seymour Recycling Corp.,0.0,541,-85.9213,38.9352
+352,Wayne Waste Oil,42.33,542,-85.476111,41.1525
+353,"Wedzeb Enterprises, Inc.",31.27,543,-86.4723,40.0453
+354,"American Chemical Service, Inc.",34.98,544,-87.4191,41.5142
+355,Bennett Stone Quarry,32.55,545,-86.5612,39.1902
+356,"Northside Sanitary Landfill, Inc.",46.04,546,-86.273331,40.028331
+357,Poer Farm,37.38,547,-85.605281,39.844719
+358,International Minerals & Chemicals Corp. (Terre Haute East Plant),57.8,548,-87.391389,39.437781
+359,"Waste, Inc., Landfill",50.63,549,-86.88,41.721669
+360,Tri-State Plating,29.28,552,-85.9007,39.2164
+361,Columbus Old Municipal Landfill #1,45.31,553,-85.926,39.1974
+362,Southside Sanitary Landfill,41.94,554,-86.205,39.716111
+363,"Douglass Road/Uniroyal, Inc., Landfill",36.61,555,-86.1926,41.7132
+364,Himco Dump,42.31,556,-86.0084,41.7073
+365,"Tippecanoe Sanitary Landfill, Inc",42.24,558,-86.872219,40.456111
+366,"Lakeland Disposal Service, Inc.",34.1,1037,-85.91721899999999,41.1475
+367,Whiteford Sales & Service Inc./Nationalease,51.87,1041,-86.280281,41.663889000000005
+368,Conrail Rail Yard (Elkhart),42.24,1085,-86.0115,41.6634
+369,Continental Steel Corp.,31.85,1164,-86.156299,40.474169
+370,Galen Myers Dump/Drum Salvage,42.24,1183,-86.0875,41.695839
+371,Carter Lee Lumber Co.,35.4,1197,-86.1918,39.7654
+372,Cam-Or Inc.,58.91,1499,-86.89930600000001,41.546528
+373,Prestolite Battery Division,40.63,1696,-87.501661,38.691669
+374,Jacobsville Neighborhood Soil Contamination,35.52,1711,-87.563989,37.979296999999995
+375,Elm Street Ground Water Contamination,50.0,1752,-87.41431899999999,39.476586
+376,Lusher Street Ground Water Contamination,50.0,1763,-85.996225,41.672922
+377,"U.S. Smelter and Lead Refinery, Inc.",58.31,1788,-87.464046,41.616758000000004
+378,Lane Street Ground Water Contamination,40.53,1800,-85.921006,41.716846999999994
+379,Gary Development Landfill,30.0,1840,-87.426447,41.614061
+380,Pike and Mulberry Streets PCE Plume,50.0,1867,-86.431789,39.428661
+381,Beck's Lake,50.0,1875,-86.297514,41.676581
+382,Garden City Ground Water Plume,50.0,1876,-85.930472,39.186075
+383,Keystone Corridor Ground Water Contamination,50.0,1877,-86.121667,39.834722
+384,North Shore Drive,50.0,1893,-86.055,41.684722
+385,Kokomo Contaminated Ground Water Plume,50.0,1898,-86.11412800000001,40.479444
+386,Riverside Ground Water Contamination,50.0,1915,-86.185825,39.781898999999996
+387,Broadway Street Corridor Groundwater Contamination,50.0,1937,-85.6789,40.1184
+388,Franklin Street Groundwater Contamination,50.0,1938,-86.7645,39.2849
+389,Cliff Drive Groundwater Contamination,50.0,1948,-86.3803,40.7432
+390,Arkansas City Dump,0.0,820,-97.05166899999999,37.051669
+391,Doepke Disposal (Holliday),47.46,821,-94.8,39.033331
+392,Johns' Sludge Pond,35.94,822,-97.3156,37.7371
+393,Cherokee County,58.15,823,-94.82388900000001,37.003889
+394,Big River Sand Co.,32.56,824,-97.40083100000001,37.726110999999996
+395,Strother Field Industrial Park,33.62,826,-97.03193900000001,37.170831
+396,Obee Road,33.62,827,-97.851389,38.063889
+397,29th & Mead Ground Water Contamination,35.35,1133,-97.3266,37.7336
+398,Hydro-Flex Inc.,42.79,1152,-95.726111,39.086939
+399,Pester Refinery Co.,30.16,1162,-96.8574,37.8438
+400,Teledyne Semiconductor,35.35,960,-122.0797,37.4108
+401,"TRW Microwave, Inc. (Building 825)",31.94,961,-122.0085,37.3846
+402,Fairchild Semiconductor Corp. (Mountain View Plant),31.94,963,-122.0542,37.4012
+403,Sacramento Army Depot,44.46,964,-121.3958,38.520281
+404,Intel Corp. (Mountain View Plant),29.76,965,-122.0566,37.3962
+405,Raytheon Corp.,29.76,966,-122.0533,37.3975
+406,Moffett Naval Air Station,29.49,967,-122.0522,37.411389
+407,"Waste Disposal, Inc.",34.6,968,-118.055,33.95
+408,Riverbank Army Ammunition Plant,63.94,1025,-120.9181,37.71695
+409,Southern California Edison Co. (Visalia Poleyard),48.91,1026,-119.2767,36.333331
+410,Watkins-Johnson Co. (Stewart Division Plant),28.9,1029,-122.029028,37.051111
+411,Fresno Municipal Sanitary Landfill,35.57,1030,-119.8261,36.704169
+412,Barstow Marine Corps Logistics Base,37.93,1104,-116.9389,34.878331
+413,"Sola Optical USA, Inc.",33.39,1106,-122.5931,38.2332
+414,United Heckathorn Co.,38.49,1107,-122.3654,37.9226
+415,"Brown & Bryant, Inc. (Arvin Plant)",53.36,1109,-118.822,35.203061
+416,Newmark Ground Water Contamination,35.57,1119,-117.3131,34.171811
+417,Hewlett-Packard (620-640 Page Mill Road),29.76,1124,-122.1434,37.4214
+418,Fort Ord,42.24,1125,-121.75,36.625
+419,"CTS Printex, Inc.",33.62,1126,-122.0872,37.4165
+420,Camp Pendleton Marine Corps Base,33.79,1128,-117.3408,33.306669
+421,Solitron Microwave,50.0,1505,-80.199167,27.136667
+422,Intersil Inc./Siemens Components,28.9,1129,-122.0015,37.3361
+423,Sulphur Bank Mercury Mine,44.42,1136,-122.6703,39.00555
+424,March Air Force Base,31.94,1140,-117.2557,33.906389000000004
+425,"Spectra-Physics, Inc.",37.2,1141,-122.0786,37.40805
+426,Crazy Horse Sanitary Landfill,37.93,1142,-121.6186,36.8026
+427,El Toro Marine Corps Air Station,37.43,1143,-117.7176,33.676669
+428,George Air Force Base,33.62,1144,-117.3833,34.595
+429,"Advanced Micro Devices, Inc. (Building 915)",31.94,1145,-122.0066,37.3868
+430,"Synertek, Inc. (Building 1)",31.94,1146,-121.9719,37.3773
+431,Modesto Ground Water Contamination,28.9,1151,-120.9964,37.6591
+432,Jasco Chemical Corp.,35.36,1205,-122.0882,37.3988
+433,Pacific Coast Pipe Lines,46.01,1207,-118.9028,34.404169
+434,Hunters Point Naval Shipyard,48.77,1247,-122.36731999999999,37.72229
+435,Lawrence Livermore National Laboratory (Site 300) (USDOE),31.58,1266,-121.57666699999999,37.644306
+436,Tracy Defense Depot (USARMY),37.16,1268,-121.3911,37.715281
+437,Travis Air Force Base,29.49,1269,-121.9332,38.26445
+438,Edwards Air Force Base,33.62,1272,-117.8857,34.949439
+439,Western Pacific Railroad Co.,39.79,1273,-121.5525,39.483061
+440,Industrial Waste Processing,51.13,1283,-119.8094,36.8425
+441,Stoker Company,70.94,1299,-115.544444,32.910278000000005
+442,Ralph Gray Trucking Co.,35.04,1300,-118.0,33.75
+443,McCormick & Baxter Creosoting Co.,74.86,1339,-121.30663500000001,37.947851
+444,Jet Propulsion Laboratory (NASA),50.0,1342,-118.16743400000001,34.201184999999995
+445,Concord Naval Weapons Station,50.0,1344,-122.0,38.049444
+446,Laboratory for Energy-Related Health Research/Old Campus Landfill (USDOE),50.0,1410,-121.75125,38.51875
+447,Frontier Fertilizer,35.04,1413,-121.67333300000001,38.553055
+448,Pemaco Maywood,45.23,1517,-118.17125,33.985417
+449,Lava Cap Mine,33.66,1524,-120.96986100000001,39.228056
+450,Omega Chemical Corporation,30.94,1527,-118.042222,33.969722
+451,Alameda Naval Air Station,50.0,1560,-122.33,37.788889000000005
+452,Leviathan Mine,50.0,1580,-119.65611100000001,38.703889000000004
+453,Alark Hard Chrome,50.5,1603,-117.367186,33.991886
+454,Del Amo,47.12,1621,-118.289472,33.846639
+455,Cooper Drum Company,50.0,1627,-118.179694,33.946971999999995
+456,Casmalia Resources,30.0,1639,-120.544303,34.863125
+457,AMCO Chemical,50.0,1669,-122.29375,37.8025
+458,Fairchild Semiconductor Corp. (South San Jose Plant),44.46,1705,-121.7748,37.2326
+459,Lorentz Barrel & Drum Co.,33.94,1706,-121.8644,37.318611
+460,J.H. Baxter & Co.,34.78,1707,-122.3707,41.4364
+461,Klau/Buena Vista Mine,50.0,1732,-120.8967,35.6259
+462,Halaco Engineering Company,58.31,1760,-119.181944,34.138889
+463,"Rockets, Fireworks, and Flares (RFF)",50.0,1790,-117.41656699999999,34.153683
+464,New Idria Mercury Mine,31.66,1842,-120.67251100000001,36.418392
+465,Blue Ledge Mine,50.28,1843,-123.10744199999999,41.959961
+466,Jervis B. Webb Co.,45.76,1846,-118.178017,33.950325
+467,Southern Avenue Industrial Area,50.0,1847,-118.17692199999999,33.946178
+468,Argonaut Mine,58.31,1913,-120.78575,38.353333
+469,Orange County North Basin,50.0,1942,-117.93058899999998,33.854828000000005
+470,Copper Bluff Mine,50.0,1951,-123.686,41.109972
+471,California Gulch,55.84,853,-106.2692,39.236111
+472,"Central City, Clear Creek",51.39,854,-105.5,39.75
+473,Denver Radium Site,44.11,855,-105.0,39.716669
+474,Marshall Landfill,0.0,856,-105.2,39.95
+475,Sand Creek Industrial,59.65,857,-104.9361,39.791669
+476,Woodbury Chemical Co.,44.87,858,-104.9424,39.795
+477,Broderick Wood Products,35.13,859,-104.9989,39.8148
+478,Lincoln Park,31.31,860,-105.2333,38.4
+479,Lowry Landfill,48.36,861,-104.7083,39.643330999999996
+480,Eagle Mine,47.19,862,-106.3917,39.533331
+481,Smuggler Mountain,31.31,863,-106.8107,39.191669
+482,Uravan Uranium Project (Union Carbide Corp.),43.53,864,-108.7483,38.366661
+483,Rocky Flats Plant (USDOE),64.32,865,-105.2017,39.894169
+484,Rocky Mountain Arsenal (USARMY),58.15,866,-104.8842,39.835561
+485,Chemical Sales Co.,37.93,1091,-104.9136,39.780831
+486,Air Force Plant PJKS,42.93,1114,-105.1337,39.514219
+487,Smeltertown Site,58.56,1338,-106.026944,38.551944
+488,Summitville Mine,50.0,1366,-106.585,37.43
+489,Vasquez Boulevard and I-70,50.0,1545,-104.95833300000001,39.791667
+490,Captain Jack Mill,50.56,1674,-105.503611,40.055833
+491,Standard Mine,50.0,1740,-107.07388999999999,38.879166999999995
+492,Nelson Tunnel/Commodore Waste Rock,48.03,1778,-106.94,37.870833000000005
+493,Colorado Smelter,50.0,1892,-104.60799999999999,38.2491
+494,Bonita Peak Mining District,50.0,1914,-107.616619,37.904030999999996
+495,Beacon Heights Landfill,46.77,1,-73.03528100000001,41.43195
+496,"Laurel Park, Inc.",0.0,2,-73.07166099999999,41.476939
+497,Solvents Recovery Service of New England,44.93,3,-72.878,41.6196
+498,Yaworski Waste Lagoon,36.72,4,-71.964161,41.66945
+499,Kellogg-Deering Well Field,39.92,5,-73.43195,41.13055
+500,Old Southington Landfill,54.35,6,-72.881939,41.579169
+501,Fort Riley,33.79,1258,-96.75,39.166669
+502,57th and North Broadway Streets Site,50.0,1335,-97.31666700000001,37.775
+503,"Trans Circuits, Inc.",50.0,1576,-80.07388900000001,26.795278000000003
+504,Landia Chemical Company,50.0,1581,-81.979167,28.039444
+505,"Chemical Commodities, Inc.",50.0,1427,-94.80555600000001,38.878194
+506,Alaric Area Ground Water Plume,41.91,1582,-82.375139,27.964083000000002
+507,Ace Services,50.0,1449,-101.039167,39.396944
+508,Callaway & Son Drum Service,46.22,1584,-81.714722,28.098056
+509,Wright Ground Water Contamination,50.0,1464,-99.888889,37.780556
+510,Tri-County Public Airport,50.0,1609,-96.811583,38.696121999999995
+511,"Plating, Inc.",50.0,1764,-98.84946,38.346542
+512,Former United Zinc & Associated Smelters,50.0,1868,-95.3859,37.92228
+513,Caney Residential Yards,50.0,1958,-95.934889,37.013135999999996
+514,A.L. Taylor (Valley of Drums),0.0,447,-85.725,38.081939
+515,Airco,33.29,448,-88.3225,37.0496
+516,B.F. Goodrich,33.01,449,-88.3234,37.0503
+517,Distler Brickyard,44.77,450,-85.951389,37.989719
+518,Distler Farm,34.62,451,-85.931111,38.006939
+519,Howe Valley Landfill,36.73,452,-86.1242,37.6685
+520,Lee's Lane Landfill,39.52,453,-85.883061,38.191111
+521,Maxey Flats Nuclear Disposal,31.71,454,-83.5692,38.2608
+522,Newport Dump,37.63,455,-84.491228,39.070725
+523,Smith's Farm,32.69,456,-85.733331,38.0375
+524,"Green River Disposal, Inc.",29.12,457,-86.973611,37.88945
+525,"Caldwell Lace Leather Co., Inc.",34.21,1039,-86.74638900000001,36.8725
+526,Brantley Landfill,52.73,1099,-87.156111,37.44625
+527,Fort Hartford Coal Co. Stone Quarry,43.84,1102,-86.70276899999999,37.538889000000005
+528,Red Penn Sanitation Co. Landfill,38.1,1112,-85.4654,38.2881
+529,General Tire & Rubber Co. (Mayfield Landfill),32.94,1163,-88.6358,36.7906
+530,Tri-City Disposal Co.,33.82,1186,-85.768331,38.047781
+531,National Electric Coil Co./Cooper Industries,50.0,1304,-83.37138900000001,36.843889000000004
+532,National Southwire Aluminum Co.,50.0,1305,-86.787778,37.944998999999996
+533,Paducah Gaseous Diffusion Plant (USDOE),56.95,1383,-88.811111,37.120138
+534,Bayou Bonfouca,29.78,753,-89.784161,30.282219
+535,Bayou Sorrel,34.69,754,-91.4095,30.2244
+536,Cleve Reber,48.8,755,-90.873339,30.155
+537,Old Inger Oil Refinery,0.0,756,-90.9955,30.1647
+538,"Petro-Processors of Louisiana, Inc.",41.44,757,-91.24333100000001,30.583331
+539,Dutchtown Treatment Plant,36.41,760,-90.98,30.256669
+540,Gulf Coast Vacuum Services,42.78,761,-92.1857,29.9581
+541,"D.L. Mud, Inc.",32.37,762,-92.1867,29.9555
+542,"PAB Oil & Chemical Service, Inc.",38.94,1024,-92.1154,30.0159
+543,"American Creosote Works, Inc. (Winnfield Plant)",50.7,1348,-92.634722,31.918611
+544,Agriculture Street Landfill,50.0,1441,-90.040165,29.98866
+545,Gulf State Utilities-North Ryan Street,50.43,1445,-93.219167,30.240833000000002
+546,Highway 71/72 Refinery,50.0,1446,-93.711667,32.516667
+547,Southern Shipbuilding,50.0,1447,-89.800833,30.2725
+548,Madisonville Creosote Works,48.01,1477,-90.198611,30.427221999999997
+549,Delatte Metals,50.0,1522,-90.410833,30.4225
+550,Central Wood Preserving Co.,48.53,1542,-91.00944399999999,30.758889
+551,Ruston Foundry,43.17,1543,-92.439583,31.297220000000003
+552,Marion Pressure Treating,50.0,1578,-92.252944,32.908333
+553,Mallard Bay Landing Bulk Plant,48.55,1601,-92.655469,29.934014
+554,Louisiana Army Ammunition Plant,30.26,1698,-93.421,32.5422
+555,"Combustion, Inc.",33.79,1699,-90.8939,30.5129
+556,Devil's Swamp Lake,50.0,1717,-91.220556,30.561944
+557,EVR-Wood Treating/Evangeline Refining Company,48.2,1864,-92.6175,30.248056
+558,Delta Shipyard,48.05,1894,-90.705141,29.565818
+559,Colonial Creosote,50.0,1902,-89.863889,30.768056
+560,SBA Shipyard ,50.0,1909,-92.612236,30.160603000000002
+561,American Creosote DeRidder,50.0,1930,-93.276863,30.831692999999998
+562,Baird & McGuire,66.35,10,-71.028611,42.149719
+563,Cannon Engineering Corp. (CEC),39.89,11,-71.0256,41.9727
+564,Charles-George Reclamation Trust Landfill,47.2,12,-71.443339,42.66945
+565,Groveland Wells,40.74,13,-71.038889,42.753331
+566,Hocomonco Pond,44.8,14,-71.65083100000001,42.272781
+567,Industri-Plex,72.42,15,-71.141669,42.516669
+568,New Bedford Site,0.0,16,-70.919887,41.643171
+569,Nyanza Chemical Waste Dump,69.22,17,-71.473611,42.258611
+570,Plymouth Harbor/Cannon Engineering Corp.,54.82,18,-70.6854,41.9796
+571,PSC Resources,38.66,19,-72.330281,42.153331
+572,"Re-Solve, Inc.",47.71,20,-71.033889,41.688061
+573,Rose Disposal Pit,33.03,21,-73.2748,42.5055
+574,Silresim Chemical Corp.,42.72,22,-71.313889,42.628889
+575,"W.R. Grace & Co., Inc. (Acton Plant)",59.31,23,-71.42778100000001,42.45055
+576,Wells G&H,42.71,24,-71.130839,42.494719
+577,Haverhill Municipal Landfill,30.29,25,-71.046669,42.753889
+578,Iron Horse Park,42.93,26,-71.26526899999999,42.583331
+579,Shpack Landfill,29.45,27,-71.235,41.943331
+580,Sullivan's Ledge,32.77,28,-70.957219,41.654719
+581,Norwood PCBs,29.43,29,-71.1925,42.180831
+582,Salem Acres,34.94,30,-70.9313,42.503
+583,Otis Air National Guard Base/Camp Edwards,45.92,1096,-70.521388,41.651666
+584,Atlas Tack Corp.,42.6,1097,-70.89445,41.635560999999996
+585,Fort Devens,42.24,1260,-71.596111,42.536111
+586,Fort Devens-Sudbury Training Annex,35.57,1261,-71.475278,42.406944
+587,Blackburn and Union Privileges,50.0,1321,-71.251667,42.138749
+588,Hanscom Field/Hanscom Air Force Base,50.0,1384,-71.28944399999999,42.470665999999994
+589,"Natick Laboratory Army Research, Development, and Engineering Center",50.0,1385,-71.36361099999999,42.288889000000005
+590,Materials Technology Laboratory (USARMY),48.57,1390,-71.166111,42.360416
+591,Naval Weapons Industrial Reserve Plant,50.0,1391,-71.290277,42.478889
+592,South Weymouth Naval Air Station,50.0,1392,-70.93347,42.155277000000005
+593,GE - Housatonic River,70.71,1492,-73.232222,42.450278000000004
+594,"Nuclear Metals, Inc.",58.31,1605,-71.421944,42.441666999999995
+595,Sutton Brook Disposal Area,57.12,1608,-71.183194,42.598222
+596,Hatheway and Patterson Company,56.6,1647,-71.2225,42.038194
+597,Olin Chemical,50.0,1741,-71.153889,42.528056
+598,Creese & Cook Tannery (Former),60.57,1869,-70.926722,42.553111
+599,Walton & Lonsbury Inc.,58.3,1870,-71.297139,41.957583
+600,BJAT LLC,41.91,1900,-71.41080600000001,42.074417
+601,"Microfab, Inc. (Former)",50.0,1922,-70.95984200000001,42.842394
+602,Limestone Road,30.54,267,-78.722219,39.626389
+603,Middletown Road Dump,29.36,268,-76.467145,39.031003999999996
+604,"Sand, Gravel and Stone",41.08,269,-75.896389,39.615281
+605,"Southern Solvents, Inc.",50.0,1602,-82.510278,28.040556
+606,"United Metals, Inc.",33.73,1662,-85.168056,30.685833000000002
+607,"City Industries, Inc.",32.0,1691,-81.3,28.601389
+608,Flash Cleaners,50.0,1775,-80.0969,26.2824
+609,Arkla Terra Property,50.0,1783,-82.3175,28.057778000000003
+610,Raleigh Street Dump,50.0,1785,-82.410861,27.914416999999997
+611,General Dynamics Longwood,50.0,1796,-81.32122,28.716620000000002
+612,JJ Seifert Machine,50.0,1805,-82.477778,27.678611
+613,Kerr-McGee Chemical Corp - Jacksonville,70.71,1806,-81.6265,30.3442
+614,Sanford Dry Cleaners,50.0,1816,-81.265606,28.811217
+615,Continental Cleaners,50.0,1848,-80.210178,25.831842
+616,Fairfax St. Wood Treaters,50.0,1858,-81.68639399999999,30.354091999999998
+617,Post and Lumber Preserving Co. Inc.,36.33,1923,-84.510081,30.592471999999997
+618,PCB Wastes,0.0,979,151.78372199999998,7.4166669999999995
+619,Hercules 009 Landfill,52.58,437,-81.4858,31.2049
+620,Monsanto Corp. (Augusta Plant),35.65,438,-81.993061,33.38945
+621,Powersville Site,35.53,440,-83.794439,32.6125
+622,Robins Air Force Base (Landfill #4/Sludge Lagoon),51.66,441,-83.582075,32.619983000000005
+623,"Woolfolk Chemical Works, Inc.",42.24,442,-83.88416099999999,32.549580999999996
+624,"Luminous Processes, Inc.",0.0,443,-83.47195,33.940281
+625,Mathis Brothers Landfill (South Marble Top Road),30.78,444,-85.377781,34.797781
+626,Diamond Shamrock Corp. Landfill,35.6,445,-85.2717,34.0207
+627,Cedartown Municipal Landfill,33.62,446,-85.282639,34.015969
+628,"Cedartown Industries, Inc.",42.0,1038,-85.2636,34.0082
+629,T.H. Agriculture & Nutrition Co. (Albany Plant),40.93,1081,-84.181661,31.617361
+630,Marzone Inc./Chevron Chemical Co.,30.26,1148,-83.5017,31.4289
+631,Firestone Tire & Rubber Co. (Albany Plant),30.08,1154,-84.053889,31.565831
+632,Marine Corps Logistics Base,44.65,1252,-84.055,31.557219
+633,LCP Chemicals Georgia,0.0,1458,-81.508333,31.189444
+634,Brunswick Wood Preserving,54.49,1481,-81.528056,31.242221999999998
+635,Terry Creek Dredge Spoil Areas/Hercules Outfall,50.18,1488,-81.466667,31.166110999999997
+636,Camilla Wood Preserving Company,50.0,1504,-84.20333000000001,31.2225
+637,Peach Orchard Road PCE Ground Water Plume,50.0,1737,-82.015139,33.421178000000005
+638,Alternate Energy Resources,50.0,1742,-82.03694399999999,33.454194
+639,Armstrong World Industries,50.0,1826,-83.6516,32.773497
+640,Macon Naval Ordnance Plant,48.97,1860,-83.639675,32.777658
+641,Ordot Landfill,0.0,971,144.7474,13.439169
+642,Andersen Air Force Base,50.0,1340,144.89736100000002,13.572916000000001
+643,Schofield Barracks (USARMY),28.9,972,-158.030139,21.490694
+644,Pearl Harbor Naval Complex,70.82,1302,-157.98333300000002,21.388889000000002
+645,Del Monte Corp. (Oahu Plantation),50.0,1368,-158.066667,21.458333
+646,Naval Computer and Telecommunications Area Master Station Eastern Pacific,50.0,1429,-158.005138,21.519026999999998
+647,Aidex Corp.,0.0,805,-95.813331,41.143330999999996
+648,Des Moines TCE,42.28,806,-93.63600000000001,41.5781
+649,LaBounty Site,70.73,807,-92.6696,43.058
+650,Midwest Manufacturing/North Farm,32.04,808,-92.893061,41.746811
+651,Vogel Paint & Wax Co.,31.45,812,-96.193339,42.934439000000005
+652,Lawrence Todtz Farm,52.11,814,-90.29263900000001,41.787781
+653,Shaw Avenue Dump,30.01,815,-92.6631,43.0563
+654,John Deere (Ottumwa Works Landfills),42.32,817,-92.409719,41.0025
+655,Red Oak City Landfill,34.13,818,-95.249111,41.036444
+656,Northwestern States Portland Cement Co.,57.8,819,-93.205,43.175
+657,Mid-America Tanning Co.,47.91,1046,-96.35221899999999,42.3375
+658,White Farm Equipment Co. Dump,43.4,1062,-92.68078100000001,43.085
+659,Farmers' Mutual Cooperative,33.74,1063,-95.905,43.074169
+660,"Electro-Coatings, Inc.",42.24,1065,-91.671389,41.9953
+661,"E.I. du Pont de Nemours & Co., Inc. (County Road X23)",46.01,1132,-91.434719,40.655831
+662,Fairfield Coal Gasification Plant,38.05,1149,-91.9724,41.0062
+663,Peoples Natural Gas Co.,46.24,1150,-90.658889,42.505281
+664,Iowa Army Ammunition Plant,29.73,1265,-91.246669,40.808331
+665,Sheller-Globe Corp. Disposal,33.66,1275,-91.4139,40.4666
+666,Waterloo Coal Gasification Plant,50.0,1356,-92.326389,42.491389
+667,Mason City Coal Gasification Plant,69.33,1426,-93.1992,43.1476
+668,Railroad Avenue Groundwater Contamination,50.0,1658,-93.70222199999999,41.578333
+669,PCE Former Dry Cleaner,50.0,1911,-94.99576400000001,41.403717
+670,Arrcom (Drexler Enterprises),29.28,980,-116.9458,47.7847
+671,Bunker Hill Mining & Metallurgical Complex,54.76,981,-116.1617,47.543061
+672,Eastern Michaud Flats Contamination,57.8,983,-112.5225,42.901111
+673,Pacific Hide & Fur Recycling Co.,42.3,984,-112.486,42.8957
+674,Union Pacific Railroad Co.,53.47,985,-112.4876,42.8954
+675,Idaho National Engineering Laboratory (USDOE),51.91,1231,-112.9435,43.529389
+676,Oak Grove Village Well,50.0,1652,-91.149461,38.220971999999996
+677,Mountain Home Air Force Base,57.8,1235,-115.8647,43.04805
+678,Monsanto Chemical Co. (Soda Springs Plant),54.77,1278,-111.5878,42.687031
+679,Kerr-McGee Chemical Corp. (Soda Springs Plant),51.91,1279,-111.5736,42.687219
+680,Blackbird Mine,50.0,1369,-114.26444,45.116389
+681,St. Maries Creosote,50.0,1624,-116.575,47.321389
+682,Stibnite/Yellow Pine Mining Area,50.0,1659,-115.34527800000001,44.8925
+683,"A & F Materials Reclaiming, Inc.",55.49,499,-88.17399999999999,39.2439
+684,Lindsay Manufacturing Co.,47.91,1702,-97.69,41.701669
+685,"Acme Solvents Reclaiming, Inc. (Morristown Plant)",31.98,500,-89.0455,42.1577
+686,Belvidere Municipal Landfill,28.62,501,-88.8723,42.2643
+687,Byron Salvage Yard,33.93,502,-89.295831,42.081669
+688,Cross Brothers Pail Recycling (Pembroke),42.04,503,-87.5893,41.0909
+689,Galesburg/Koppers Co.,34.78,504,-90.395839,40.895831
+690,Johns-Manville Corp.,38.2,505,-87.811669,42.386669
+691,LaSalle Electric Utilities,42.06,506,-89.0975,41.354169
+692,Outboard Marine Corp.,0.0,507,-87.821111,42.365281
+693,Velsicol Chemical Corp. (Marshall Plant),48.78,508,-87.699169,39.410831
+694,Wauconda Sand & Gravel,53.42,509,-88.1375,42.281389000000004
+695,Kerr-McGee (Kress Creek/West Branch of DuPage River),39.05,510,-88.2093,41.863611
+696,Kerr-McGee (Reed-Keppler Park),39.51,511,-88.208339,41.891939
+697,Kerr-McGee (Residential Areas),38.15,512,-88.2075,41.878333000000005
+698,Kerr-McGee (Sewage Treatment Plant),35.2,513,-88.1924,41.8643
+699,Sangamo Electric Dump/Crab Orchard National Wildlife Refuge (USDOI),43.7,514,-89.01472199999999,37.693194
+700,NL Industries/Taracorp Lead Smelter,38.11,515,-90.158331,38.695
+701,Petersen Sand & Gravel,38.43,516,-87.9537,42.315831
+702,Parkview Well,50.0,1731,-98.365,40.895833
+703,Garvey Elevator,50.0,1739,-98.41555600000001,40.563611
+704,West Highway 6 & Highway 281,50.0,1744,-98.4095,40.5712
+705,PCE Southeast Contamination ,43.33,1886,-97.580614,40.859594
+706,PCE/TCE Northeast Contamination,50.0,1887,-97.60036099999999,40.888636
+707,Iowa-Nebraska Light & Power Co,40.8,1912,-97.417028,42.0323
+708,Old HWY 275 and N 288th Street,50.0,1928,-96.367333,41.329091999999996
+709,Auburn Road Landfill,36.3,40,-71.3529,42.9302
+710,Dover Municipal Landfill,36.98,41,-70.953,43.2125
+711,Keefe Environmental Services,65.19,42,-71.033331,43.024169
+712,Ottati & Goss/Kingston Steel Drum,53.41,43,-71.080561,42.897219
+713,Somersworth Sanitary Landfill,65.56,44,-70.8845,43.2489
+714,Sylvester,0.0,45,-71.523111,42.7197
+715,Tinkham Garage,43.24,46,-71.351111,42.860831
+716,Kearsarge Metallurgical Corp.,38.45,47,-71.1293,43.9721
+717,Savage Municipal Water Supply,37.52,48,-71.6884,42.8418
+718,South Municipal Water Supply Well,35.64,49,-71.9468,42.8489
+719,Coakley Landfill,29.16,50,-70.817219,43.001111
+720,Tibbetts Road,41.09,51,-71.0347,43.18
+721,Mottolo Pig Farm,40.7,52,-71.17318900000001,42.989581
+722,Fletcher's Paint Works & Storage,35.39,1032,-71.6554,42.8358
+723,Town Garage/Radio Beacon,31.94,1208,-71.39361099999999,42.861669
+724,Pease Air Force Base,39.42,1211,-70.82125,43.080169
+725,New Hampshire Plating Co.,50.0,1308,-71.488888,42.855833000000004
+726,Beede Waste Oil,70.71,1466,-71.105889,42.855075
+727,Mohawk Tannery,52.4,1589,-71.487778,42.765569
+728,Troy Mills Landfill,50.0,1676,-72.186944,42.802583
+729,Chlor-Alkali Facility (Former),30.54,1734,-71.167194,44.479194
+730,Collins & Aikman Plant (Former),50.0,1881,-71.05875,43.372
+731,A. O. Polymer,28.91,65,-74.63,41.04805
+732,American Cyanamid Co.,50.28,66,-74.55945,40.555561
+733,Asbestos Dump,39.61,67,-74.525561,40.6725
+734,Beachwood/Berkley Wells,42.24,68,-74.19666099999999,39.924719
+735,Bog Creek Farm,43.23,69,-74.161111,40.150831
+736,Brick Township Landfill,58.13,70,-74.1311,40.1098
+737,Bridgeport Rental & Oil Services,60.73,71,-75.32166099999999,39.801669
+738,Burnt Fly Bog,59.16,72,-74.279169,40.375
+739,Caldwell Trucking Co.,58.3,73,-74.271389,40.876389
+740,Chemical Control,47.13,74,-74.1935,40.6432
+741,"Chemsol, Inc.",42.69,75,-74.443339,40.5625
+742,Combe Fill North Landfill,47.79,76,-74.71333100000001,40.881939
+743,Combe Fill South Landfill,45.22,77,-74.738331,40.771669
+744,CPS/Madison Industries,69.73,78,-74.32776899999999,40.434439000000005
+745,D'Imperio Property,55.79,79,-74.658889,39.454439
+746,Denzer & Schafer X-Ray Co.,40.36,80,-74.170831,39.909169
+747,Dover Municipal Well 4,28.9,81,-74.5423,40.8858
+748,Ellis Property,34.62,82,-74.864719,39.905
+749,Evor Phillips Leasing,36.64,83,-74.325,40.4375
+750,Fair Lawn Well Field,42.49,84,-74.131939,40.9375
+751,Friedman Property,33.88,85,-74.5077,40.1048
+752,GEMS Landfill,68.53,86,-75.018889,39.77945
+753,Goose Farm,47.71,87,-74.4975,40.09555
+754,"Hercules, Inc. (Gibbstown Plant)",40.36,88,-75.277781,39.838889
+755,"Imperial Oil Co., Inc./Champion Chemicals",33.87,89,-74.24583100000001,40.383889
+756,Jackson Township Landfill,38.11,90,-74.348611,40.063331
+757,JIS Landfill,45.14,91,-74.465281,40.365831
+758,Kin-Buc Landfill,50.64,92,-74.3785,40.4891
+759,King of Prussia,47.19,93,-74.889439,39.62695
+760,Helen Kramer Landfill,72.66,94,-75.2003,39.7801
+761,Krysowaty Farm,55.14,95,-74.78,40.500281
+762,Lang Property,48.89,96,-74.49445,39.929161
+763,Lipari Landfill,75.6,97,-75.14193900000001,39.720281
+764,Lone Pine Landfill,66.33,98,-74.333339,40.202781
+765,M&T Delisa Landfill,32.27,99,-74.045281,40.229169
+766,Mannheim Avenue Dump,36.56,100,-74.533331,39.538889000000005
+767,Maywood Chemical Co.,51.19,101,-74.0693,40.8964
+768,Metaltec/Aerosystems,48.95,102,-74.599719,41.109719
+769,Monroe Township Landfill,42.37,103,-74.401389,40.361669
+770,Montgomery Township Housing Development,37.93,104,-74.64416899999999,40.408331
+771,Myers Property,33.83,105,-74.9404,40.595
+772,NL Industries,52.96,106,-75.424719,39.758061
+773,Pepe Field,33.83,107,-74.411939,40.912219
+774,Pijak Farm,43.48,108,-74.499439,40.07555
+775,PJP Landfill,28.73,109,-74.085561,40.734719
+776,Price Landfill,0.0,110,-74.52695,39.415281
+777,Reich Farms,53.48,111,-74.2149,40.0106
+778,"Renora, Inc.",40.44,112,-74.358889,40.519628000000004
+779,Newton County Mine Tailings,50.0,1677,-94.3848,36.9921
+780,Rockaway Borough Well Field,42.34,114,-74.515561,40.905831
+781,Rockaway Township Wells,28.9,115,-74.499169,40.913331
+782,Rocky Hill Municipal Well,37.93,116,-74.6475,40.401669
+783,Roebling Steel Co.,41.02,117,-74.770839,40.120831
+784,Sayreville Landfill,37.05,118,-74.358331,40.445561
+785,Scientific Chemical Processing,55.97,119,-74.074329,40.82454
+786,Sharkey Landfill,48.85,120,-74.3454,40.8501
+787,South Brunswick Landfill,53.42,121,-74.56805,40.402781
+788,Spence Farm,45.87,122,-74.5061,40.0789
+789,Swope Oil & Chemical Co.,35.68,123,-75.0347,39.9886
+790,Syncon Resins,43.43,124,-74.114719,40.737781
+791,Ciba-Geigy Corp.,50.33,125,-74.2363,39.9867
+792,Universal Oil Products (Chemical Division),54.63,126,-74.088889,40.83
+793,U.S. Radium Corp.,37.79,127,-74.228611,40.781389000000004
+794,Vineland State School,40.84,128,-74.99166899999999,39.486111
+795,Williams Property,40.45,129,-74.8004,39.1173
+796,Woodland Route 72 Dump,31.17,130,-74.447781,39.821669
+797,"Chemical Leaman Tank Lines, Inc.",47.53,131,-75.33278100000001,39.798331
+798,Delilah Road,49.33,132,-74.545831,39.416669
+799,De Rewal Chemical Co.,35.72,133,-75.0614,40.5162
+800,Diamond Alkali Co.,35.4,134,-74.136111,40.739719
+801,Ewan Property,50.19,135,-74.71943900000001,39.802781
+802,Madison County Mines,58.41,1679,-90.276111,37.546110999999996
+803,Conservation Chemical Co.,29.85,1701,-94.4722,39.1279
+804,Annapolis Lead Mine,56.67,1716,-90.675,37.355556
+805,Washington County Lead District - Old Mines,76.81,1766,-90.738333,38.075278000000004
+806,Washington County Lead District - Potosi,50.0,1767,-90.7724,37.9399
+807,Washington County Lead District - Richwoods,76.81,1768,-90.814264,38.16615
+808,Southwest Jefferson County Mining,70.71,1802,-90.758975,38.186794
+809,Vienna Wells,50.0,1820,-91.944158,38.189597
+810,Washington County Lead District - Furnace Creek,50.0,1830,-90.79955600000001,37.840531
+811,Compass Plaza Well TCE,50.0,1850,-93.083168,37.109009
+812,Sporlan Valve Plant #1,35.15,1950,-91.00668,38.5519
+813,PCB Warehouse,0.0,970,145.75,15.2
+814,Flowood Site,0.0,459,-90.145839,32.3
+815,"Newsom Brothers/Old Reichhold Chemicals, Inc.",45.7,460,-89.826939,31.244719
+816,Walcotte Chemical Co. Warehouses,0.0,461,-91.0538,33.411
+817,Potter Co.,50.0,1372,-90.393056,31.710278000000002
+818,"Chemfax, Inc.",38.4,1397,-89.089166,30.428888
+819,Davis Timber Company,48.57,1596,-89.404461,31.345191999999997
+820,"American Creosote Works, Inc.",62.2,1634,-89.05833299999999,33.111111
+821,Picayune Wood Treating,51.03,1710,-89.689722,30.524444
+822,Sonford Products,31.66,1751,-90.14222,32.29251
+823,Kerr-McGee Chemical Corp - Columbus,52.47,1837,-88.409686,33.509767
+824,Red Panther Chemical Company,39.43,1838,-90.561625,34.187408000000005
+825,Southeastern Wood Preserving,48.03,1856,-90.018189,32.618061
+826,Mississippi Phosphates Corporation,50.0,1931,-88.491006,30.372103000000003
+827,Rockwell International Wheel & Trim,50.0,1935,-89.801661,33.803244
+828,Anaconda Co. Smelter,58.71,868,-112.915,46.116661
+829,Libby Ground Water Contamination,37.67,869,-115.5389,48.38
+830,Milltown Reservoir Sediments,43.78,870,-113.8667,46.866661
+831,Silver Bow Creek/Butte Area,63.76,871,-112.7948,46.038999999999994
+832,East Helena Site,61.65,872,-111.9183,46.581669
+833,Idaho Pole Co.,38.29,874,-111.0217,45.688331
+834,Mouat Industries,31.66,875,-109.2475,45.635
+835,Montana Pole and Treating,33.03,876,-112.5483,45.99
+836,Basin Mining Area,61.15,1565,-112.263333,46.272778
+837,Upper Tenmile Creek Mining Area,50.0,1567,-112.245139,46.482083
+838,Lockwood Solvent Ground Water Plume,45.69,1595,-108.455,45.803611
+839,Barker Hughesville Mining District,50.0,1617,-110.630278,47.083333
+840,Carpenter Snow Creek Mining District,50.0,1618,-110.72583300000001,46.961389000000004
+841,Libby Asbestos,0.0,1661,-115.551111,48.391528
+842,Flat Creek IMM,51.33,1803,-114.852778,47.240278
+843,ACM Smelter and Refinery,54.26,1821,-111.246467,47.528603000000004
+844,Smurfit-Stone Mill,50.0,1878,-114.199623,46.957781
+845,Anaconda Aluminum Co Columbia Falls Reduction Plant,68.39,1904,-114.130297,48.387875
+846,"Martin-Marietta, Sodyeco, Inc.",51.93,463,-81.0,35.29445
+847,PCB Spills,0.0,464,-78.1661,36.3381
+848,Bypass 601 Ground Water Contamination,37.93,465,-80.6093,35.4096
+849,Jadco-Hughes Facility,42.0,466,-81.041111,35.275831
+850,"North Carolina State University (Lot 86, Farm Unit #1)",48.36,467,-78.713588,35.801815999999995
+851,Celanese Corp. (Shelby Fiber Operations),48.98,468,-81.528339,35.208889
+852,Cape Fear Wood Preserving,34.09,470,-79.020839,35.04945
+853,Aberdeen Pesticide Dumps,52.7,471,-79.4472,35.1384
+854,Charles Macon Lagoon & Drum Storage,47.1,472,-79.8375,34.8925
+855,Carolina Transformer Co.,33.76,473,-78.845,35.063331
+856,"Benfield Industries, Inc.",31.67,1050,-83.00416899999999,35.477781
+857,Potter's Septic Tank Service Pits,29.14,1068,-78.1578,34.2846
+858,Camp Lejeune Military Reservation,33.13,1070,-77.342919,34.717781
+859,New Hanover County Airport Burn Pit,39.39,1100,-77.91528100000001,34.275
+860,"Koppers Co., Inc. (Morrisville Plant)",41.89,1156,-78.8406,35.8463
+861,ABC One Hour Cleaners,29.11,1157,-77.3666,34.7414
+862,Geigy Chemical Corp. (Aberdeen Plant),33.02,1158,-79.406669,35.126111
+863,"FCX, Inc. (Statesville Plant)",37.93,1187,-80.9163,35.7865
+864,"FCX, Inc. (Washington Plant)",40.39,1188,-77.07445,35.559581
+865,JFD Electronics/Channel Master,39.03,1193,-78.60638900000001,36.299719
+866,"Chemtronics, Inc.",30.16,1225,-82.434719,35.625
+867,General Electric Co/Shepherd Farm,70.71,1331,-82.411111,35.272222
+868,Cherry Point Marine Corps Air Station,70.71,1437,-76.8917,34.9
+869,Davis Park Road TCE,33.5,1513,-81.218889,35.231667
+870,North Belmont PCE,50.0,1557,-81.05125,35.273472
+871,Barber Orchard,70.71,1629,-83.063889,35.445833
+872,Reasor Chemical Company,32.14,1653,-77.891944,34.343472
+873,Ward Transformer,50.0,1666,-78.773611,35.901944
+874,Ram Leather Care,40.43,1673,-80.606806,35.228056
+875,National Starch & Chemical Corp.,46.51,1693,-80.5412,35.6322
+876,Sigmon's Septic Tank Service,30.03,1726,-80.974583,35.713611
+877,Blue Ridge Plating Company,38.67,1736,-82.528358,35.462371999999995
+878,Aberdeen Contaminated Ground Water,50.0,1774,-79.4025,35.1224
+879,GMH Electronics,50.0,1797,-78.941625,36.416722
+880,Ore Knob Mine,50.0,1798,-81.324606,36.410011
+881,Kerr-McGee Chemical Corp - Navassa,50.0,1807,-77.99902800000001,34.247222
+882,Wright Chemical Corporation,48.03,1818,-78.2051,34.3284
+883,Horton Iron and Metal,48.03,1827,-77.954083,34.26665
+884,"CTS of Asheville, Inc.",38.4,1836,-82.505953,35.493075
+885,Holcomb Creosote Co,48.0,1859,-80.675236,36.157875
+886,Cristex Drum,48.0,1879,-78.6067,36.2972
+887,Hemphill Road TCE,50.0,1880,-81.189852,35.197933
+888,Arsenic Trioxide Site,0.0,878,-97.158331,46.075
+889,Minot Landfill,33.58,1113,-101.3292,48.218331
+890,Cornhusker Army Ammunition Plant,51.13,848,-98.4925,40.923331
+891,Waverly Ground Water Contamination,37.93,849,-96.529439,40.917219
+892,Hastings Ground Water Contamination,42.24,850,-98.38333100000001,40.583331
+893,Nebraska Ordnance Plant (Former),31.94,1262,-96.453331,41.176669
+894,10th Street Site,28.9,1276,-97.362219,41.426561
+895,Cleburn Street Well,50.0,1306,-98.347778,40.925139
+896,Sherwood Medical Co.,50.0,1307,-97.421389,41.993611
+897,Bruno Co-op Association/Associated Properties,50.0,1355,-96.959722,41.284721999999995
+898,Ogallala Ground Water Contamination,50.0,1357,-101.736111,41.123889
+899,Omaha Lead,50.0,1660,-95.929722,41.267778
+900,"American Anodco, Inc.",57.99,627,-85.03,42.9875
+901,J & L Landfill,31.65,628,-83.0959,42.6556
+902,Metal Working Shop,28.82,629,-85.8575,44.73
+903,"Barrels, Inc.",42.24,630,-84.54333100000001,42.749031
+904,"Parsons Chemical Works, Inc.",31.32,1076,-84.7677,42.7547
+905,"Bofors Nobel, Inc.",53.42,1077,-86.11746,43.209364
+906,"Carter Industrials, Inc.",37.79,1084,-83.091669,42.345281
+907,Kaydon Corp.,34.21,1086,-86.2908,43.2007
+908,Adam's Plating,29.64,1087,-84.587781,42.739439000000004
+909,"Allied Paper, Inc./Portage Creek/Kalamazoo River",36.41,1088,-85.576083,42.303333
+910,Hi-Mill Manufacturing Co.,49.54,1089,-83.593089,42.649831
+911,Bendix Corp./Allied Automotive,37.27,1168,-86.51195,42.04945
+912,"State Disposal Landfill, Inc.",42.24,1184,-85.590506,43.013397
+913,Muskegon Chemical Co.,34.19,1190,-86.334,43.3891
+914,Peerless Plating Co.,43.94,1191,-86.2237,43.2056
+915,Albion-Sheridan Township Landfill,33.79,1199,-84.7195,42.24955
+916,Wurtsmith Air Force Base,50.0,1416,-83.36666600000001,44.45
+917,Lower Ecorse Creek Dump,0.0,1432,-83.157777,42.234165999999995
+918,Bay City Middlegrounds,50.0,1450,-83.90722199999999,43.572083
+919,H & K Sales,0.0,1462,-85.22833299999999,43.098611
+920,Aircraft Components (D & L Sales),0.0,1463,-86.454444,42.126944
+921,Kysor Industrial Corp.,33.94,1697,-85.4226,44.2568
+922,Gratiot County Golf Course,29.54,1809,-84.62324699999999,43.415842
+923,Ten-Mile Drain,48.88,1819,-82.899167,42.486944
+924,DSC McLouth Steel Gibraltar Plant,50.0,1899,-83.200292,42.103075
+925,McLouth Steel Corp,50.0,1949,-83.170906,42.160596999999996
+926,Burlington Northern (Brainerd/Baxter Plant),46.77,632,-94.2282,46.3532
+927,FMC Corp. (Fridley Plant),65.5,633,-93.2762,45.0565
+928,Koppers Coke,55.05,634,-93.152781,44.972219
+929,Lehillier/Mankato Site,42.49,635,-94.038331,44.153331
+930,NL Industries/Taracorp/Golden Auto,39.97,636,-93.36361099999999,44.936111
+931,New Brighton/Arden Hills/TCAAP (USARMY),59.16,637,-93.1975,45.079169
+932,Oakdale Dump,55.71,638,-92.966669,45.0
+933,Reilly Tar & Chemical Corp. (St. Louis Park Plant),0.0,639,-93.372219,44.941669
+934,South Andover Site,35.41,640,-93.318,45.2179
+935,Waste Disposal Engineering,50.92,641,-93.3122,45.228
+936,Arrowhead Refinery Co.,43.75,642,-92.2398,46.8377
+937,General Mills/Henkel Corp.,36.28,643,-93.22278100000001,44.99
+938,Joslyn Manufacturing & Supply Co.,44.3,644,-93.333339,45.045
+939,MacGillis & Gibbs/Bell Lumber & Pole Co.,48.33,645,-93.194731,45.055
+940,Morris Arsenic Dump,38.27,646,-95.8845,45.6066
+941,"Boise Cascade/Onan Corp./Medtronics, Inc.",50.06,647,-93.233331,45.095831
+942,Nutting Truck & Caster Co.,37.87,648,-93.286389,44.289169
+943,Perham Arsenic Site,37.98,649,-95.57166099999999,46.587781
+944,St. Regis Paper Co.,52.88,650,-94.60555,47.375561
+945,Union Scrap Iron & Metal Co.,42.63,651,-93.28056099999999,44.995561
+946,Washington County Landfill,42.24,652,-92.918139,45.008639
+947,Whittaker Corp.,40.03,653,-93.270839,45.026389
+948,St. Louis River Site,32.08,654,-92.21221899999999,46.677781
+949,Adrian Municipal Well Field,33.62,655,-95.934,43.638219
+950,Agate Lake Scrapyard,29.68,656,-94.375831,46.453561
+951,Kummer Sanitary Landfill,35.57,657,-94.892719,47.506531
+952,Kurt Manufacturing Co.,31.41,658,-93.268361,45.064411
+953,Long Prairie Ground Water Contamination,31.94,659,-94.856639,45.978531
+954,Oak Grove Sanitary Landfill,43.4,660,-93.3317,45.317
+955,Olmsted County Sanitary Landfill,40.7,661,-92.500639,44.130860999999996
+956,Pine Bend Sanitary Landfill,52.11,662,-93.05055,44.784719
+957,Windom Dump,38.17,663,-95.100939,43.86875
+958,Naval Industrial Reserve Ordnance Plant,30.83,664,-93.273669,45.058831
+959,Koch Refining Co./N-Ren Corp.,31.14,665,-93.0406,44.7684
+960,University of Minnesota (Rosemount Research Center),45.91,666,-93.072811,44.719439
+961,East Bethel Demolition Landfill,28.75,667,-93.2246,45.3653
+962,Freeway Sanitary Landfill,45.91,668,-93.29333100000001,44.795
+963,Waite Park Wells,31.94,669,-94.215,45.561669
+964,St. Augusta Sanitary Landfill/Engen Dump,33.85,670,-94.135,45.481669000000004
+965,LaGrand Sanitary Landfill,37.51,671,-95.496669,45.9
+966,Ritari Post & Pole,29.81,672,-95.0298,46.6608
+967,Twin Cities Air Force Reserve Base (Small Arms Range Landfill),33.62,673,-93.204719,44.863061
+968,Dakhue Sanitary Landfill,42.24,674,-92.9277,44.5718
+969,Baytown Township Ground Water Plume,35.62,1352,-92.833333,45.0
+970,Fridley Commons Park Well Field,50.0,1532,-93.255556,45.080556
+971,South Minneapolis Residential Soil Contamination,44.58,1753,-93.2427,44.9528
+972,Spring Park Municipal Well Field,50.0,1939,-93.633306,44.935944
+973,Highway 100 and County Road 3 Groundwater Plume,50.0,1956,-93.361655,44.935257
+974,Shenandoah Stables,30.09,828,-90.926939,38.92445
+975,Minker/Stout/Romaine Creek,36.78,829,-90.48,38.44
+976,Ellisville Site,0.0,830,-90.61833100000001,38.603331
+977,Fulbright Landfill,40.6,831,-93.3125,37.273056
+978,Syntex Facility,43.78,832,-93.798331,36.965
+979,Times Beach,40.08,833,-90.601669,38.508339
+980,Lee Chemical,46.81,836,-94.3925,39.201111
+981,"Solid State Circuits, Inc.",37.93,837,-93.480281,37.118061
+982,Bee Cee Manufacturing Co.,28.59,838,-89.98,36.603331
+983,Quality Plating,40.7,839,-89.55721899999999,36.96305
+984,Weldon Spring Former Army Ordnance Works,30.26,840,-90.729161,38.696389
+985,Lake City Army Ammunition Plant (Northwest Lagoon),33.62,841,-94.2783,39.103
+986,North-U Drive Well Contamination,28.9,842,-93.31778100000001,37.271389
+987,Valley Park TCE,35.57,844,-90.466669,38.552781
+988,Kem-Pest Laboratories,33.89,845,-89.48944399999999,37.339611
+989,Oronogo-Duenweg Mining Belt,46.2,846,-94.42056099999999,37.101110999999996
+990,"Wheeling Disposal Service Co., Inc., Landfill",48.58,847,-94.87,39.875
+991,Missouri Electric Works,31.2,1134,-89.55505600000001,37.28625
+992,Weldon Spring Quarry/Plant/Pits (USDOE/Army),58.6,1238,-90.724999,38.696944
+993,St. Louis Airport/Hazelwood Interim Storage/Futura Coatings Co.,38.31,1244,-90.360419,38.759719
+994,Westlake Landfill,29.85,1289,-90.445269,38.77
+995,Big River Mine Tailings/St. Joe Minerals Corp.,84.91,1336,-90.55,37.886389
+996,Newton County Wells,50.0,1535,-94.473056,37.044722
+997,Pools Prairie,50.0,1536,-94.39027800000001,36.803056
+998,Armour Road,50.0,1544,-94.556111,39.145
+999,Riverfront,50.0,1607,-91.214722,38.613889
+1000,Tooele Army Depot (North Area),53.95,888,-112.375,40.541669
+1001,Midvale Slag,42.47,889,-111.9172,40.618331
+1002,Wasatch Chemical Co. (Lot 6),49.91,892,-111.8747,40.7226
+1003,Monticello Mill Tailings (USDOE),35.86,1257,-109.3483,37.863331
+1004,Utah Power & Light/American Barrel Co.,37.93,1277,-111.9055,40.7704
+1005,"Petrochem Recycling Corp./Ekotek, Inc.",62.81,1315,-111.91611100000001,40.802778
+1006,Richardson Flat Tailings,50.23,1337,-111.44444399999999,40.680556
+1007,Murray Smelter,86.6,1415,-111.89111100000001,40.658333
+1008,Kennecott (North Zone),59.18,1422,-112.125,40.75
+1009,International Smelting and Refining,58.31,1553,-112.227222,40.552778
+1010,Jacobs Smelter,50.0,1566,-112.358333,40.454167
+1011,Intermountain Waste Oil Refinery,50.0,1579,-111.889444,40.879444
+1012,Bountiful/Woods Cross 5th South PCE Plume,50.0,1619,-111.90388899999999,40.887221999999994
+1013,Davenport and Flagstaff Smelters,32.5,1620,-111.791944,40.573611
+1014,Eureka Mills,50.0,1642,-112.11555600000001,39.955556
+1015,Five Points PCE Plume,50.0,1759,-111.887028,40.874583
+1016,U.S. Magnesium,59.18,1789,-112.719949,40.914993
+1017,700 South 1600 East PCE Plume,50.0,1874,-111.848022,40.753938
+1018,Chisman Creek,47.19,357,-76.4631,37.177
+1019,Matthews Electroplating,0.0,358,-80.1675,37.2569
+1020,Saltville Waste Disposal Ponds,29.52,359,-81.783331,36.883339
+1021,U.S. Titanium,34.78,360,-79.016669,37.708331
+1022,"Avtex Fibers, Inc.",35.39,362,-78.211669,38.925561
+1023,L.A. Clarke & Son,34.24,363,-77.4325,38.236111
+1024,Rhinehart Tire Fire Dump,30.57,365,-78.310429,39.188333
+1025,Defense General Supply Center (DLA),33.85,367,-77.4485,37.4189
+1026,First Piedmont Corp. Rock Quarry (Route 719),30.16,368,-79.348611,36.665831
+1027,"Atlantic Wood Industries, Inc.",37.14,369,-76.29899999999999,36.8065
+1028,Saunders Supply Co.,36.88,370,-76.58166899999999,36.86055
+1029,"Rentokil, Inc. (Virginia Wood Preserving Division)",30.34,371,-77.50361099999999,37.635831
+1030,"C & R Battery Co., Inc.",46.44,372,-77.415,37.418
+1031,Greenwood Chemical Co.,53.17,373,-78.786389,38.044719
+1032,"H & H Inc., Burn Pit",33.71,374,-77.5857,37.7243
+1033,Dixie Caverns County Landfill,35.27,375,-80.193611,37.259719
+1034,Abex Corp.,36.53,1051,-76.3045,36.8265
+1035,Suffolk City Landfill,35.76,1052,-76.5839,36.6784
+1036,"Arrowhead Associates, Inc./Scovill Corp.",37.15,1054,-76.791111,38.086669
+1037,Naval Weapons Station - Yorktown,50.0,1325,-76.588889,37.245833000000005
+1038,Naval Surface Warfare - Dahlgren,50.03,1326,-77.026944,38.326667
+1039,Langley Air Force Base/NASA Langley Research Center,50.0,1387,-76.358611,37.069998999999996
+1040,Marine Corps Combat Development Command,50.0,1388,-77.29,38.521667
+1041,Fort Eustis (US Army),50.0,1417,-76.568332,37.105
+1042,Norfolk Naval Base (Sewells Point Naval Complex),50.0,1470,-76.300278,36.940278
+1043,Norfolk Naval Shipyard,50.0,1501,-76.294722,36.821944
+1044,Naval Amphibious Base Little Creek,50.0,1521,-76.147778,36.906110999999996
+1045,Former Nansemond Ordnance Depot,70.71,1537,-76.434722,36.899722
+1046,Kim-Stan Landfill,50.0,1552,-79.86166700000001,37.800278000000006
+1047,Naval Weapons Station Yorktown - Cheatham Annex,49.27,1586,-76.6075,37.284721999999995
+1048,St. Juliens Creek Annex (U.S. Navy),50.0,1588,-76.31222199999999,36.794167
+1049,Buckingham County Landfill,40.7,1688,-78.516669,37.514169
+1050,"Culpeper Wood Preservers, Inc.",45.91,1689,-77.96,38.483331
+1051,Hidden Lane Landfill,50.0,1762,-77.424175,39.056131
+1052,Peck Iron and Metal,48.52,1795,-76.30882199999999,36.809464
+1053,Tutu Wellfield,50.0,1349,-64.885,18.341667
+1054,Island Chemical Corp./Virgin Islands Chemical Corp.,50.0,1424,-64.79083299999999,17.709722
+1055,Old Springfield Landfill,34.79,61,-72.466669,43.272781
+1056,Pine Street Canal,0.0,62,-73.21806099999999,44.466669
+1057,Parker Sanitary Landfill,52.29,63,-71.989439,44.518611
+1058,Darling Hill Dump,43.92,64,-71.9844,44.5545
+1059,Burgess Brothers Landfill,52.58,1195,-73.150139,42.878060999999995
+1060,"Tansitor Electronics, Inc.",35.72,1213,-73.266669,42.877781
+1061,BFI Sanitary Landfill (Rockingham),41.92,1214,-72.439719,43.226389000000005
+1062,Bennington Municipal Sanitary Landfill,49.07,1215,-73.197781,42.922219
+1063,Pownal Tannery,50.0,1529,-73.26575,42.797167
+1064,Elizabeth Mine,50.0,1612,-72.328889,43.823889
+1065,Ely Copper Mine,50.0,1641,-72.28550600000001,43.927446999999994
+1066,Pike Hill Copper Mine,50.0,1718,-72.306917,44.057333
+1067,Commerce Street Plume,48.48,1721,-73.12138900000001,44.452583000000004
+1068,"Jard Company, Inc.",58.31,1896,-73.189111,42.888861
+1069,Colbert Landfill,41.59,992,-117.3483,47.861669
+1070,"Commencement Bay, Near Shore/Tide Flats",42.2,993,-122.41666699999999,47.266667
+1071,"Commencement Bay, South Tacoma Channel",54.63,994,-122.4714,47.229439
+1072,FMC Corp. (Yakima),38.8,995,-120.4933,46.566669
+1073,"Frontier Hard Chrome, Inc.",57.93,996,-122.64399999999999,45.6215
+1074,Harbor Island (Lead),34.6,997,-122.3522,47.5794
+1075,Kaiser Aluminum (Mead Works),38.07,998,-117.3767,47.755
+1076,Lakewood,42.49,999,-122.51295,47.143409999999996
+1077,Pesticide Lab (Yakima),29.33,1000,-120.5556,46.5846
+1078,Queen City Farms,34.38,1001,-122.0417,47.45
+1079,Silver Mountain Mine,29.98,1002,-119.557,48.745
+1080,"Western Processing Co., Inc.",58.63,1003,-122.2417,47.425
+1081,American Lake Gardens/McChord AFB,28.9,1004,-122.5267,47.125
+1082,Greenacres Landfill,28.9,1005,-117.1169,47.6627
+1083,Toftdahl Drums,40.22,1007,-122.4464,45.7549
+1084,Bangor Ordnance Disposal (USNAVY),30.42,1008,-122.7008,47.764719
+1085,Fort Lewis (Landfill No. 5),33.79,1009,-122.63,47.119419
+1086,Mica Landfill,34.64,1010,-117.2111,47.579169
+1087,Midway Landfill,54.27,1011,-122.2933,47.38
+1088,Northside Landfill,28.9,1012,-117.4828,47.7275
+1089,Northwest Transformer,33.82,1013,-122.3534,48.8905
+1090,McChord Air Force Base (Wash Rack/Treatment Area),42.24,1015,-122.4889,47.141110999999995
+1091,Wyckoff Co./Eagle Harbor,32.55,1016,-122.5167,47.621669
+1092,"Naval Air Station, Whidbey Island (Ault Field)",47.58,1017,-122.6637,48.344219
+1093,Hidden Valley Landfill (Thun Field),37.93,1018,-122.2878,47.095
+1094,"Naval Air Station, Whidbey Island (Seaplane Base)",39.64,1019,-122.6133,48.29945
+1095,Naval Undersea Warfare Station (4 Areas),33.6,1020,-122.62200000000001,47.6946
+1096,Old Inland Pit,29.35,1021,-117.1983,47.689719000000004
+1097,ALCOA (Vancouver Smelter),57.8,1022,-122.7318,45.649439
+1098,Fairchild Air Force Base (4 Waste Areas),31.98,1023,-117.6462,47.628331
+1099,Seattle Municipal Landfill (Kent Highlands),52.19,1044,-122.2792,47.391669
+1100,Pacific Car & Foundry Co.,42.33,1045,-122.1964,47.488889
+1101,Yakima Plating Co.,37.93,1098,-120.5089,46.5723
+1102,American Thermostat Co.,33.61,169,-73.94111099999999,42.266939
+1103,Batavia Landfill,50.18,170,-78.2561,43.0197
+1104,Brewster Well Field,37.93,171,-73.6,41.401669
+1105,Clothier Disposal,34.48,172,-76.41278100000001,43.247219
+1106,"Facet Enterprises, Inc.",46.67,173,-76.829169,42.1325
+1107,Fulton Terminals,36.5,174,-76.4274,43.3569
+1108,GE Moreau,58.21,175,-73.62916899999999,43.28305
+1109,Hooker (Hyde Park),34.77,176,-79.03666899999999,43.131111
+1110,Hooker (S Area),51.62,177,-79.0054,43.0757
+1111,Hooker (102nd Street),30.48,178,-78.942219,43.070281
+1112,Kentucky Avenue Well Field,39.65,179,-76.828331,42.145831
+1113,Love Canal,52.23,180,-78.94945,43.079719
+1114,Ludlow Sand & Gravel,36.88,181,-75.226389,42.959169
+1115,Marathon Battery Corp.,30.27,182,-73.954719,41.416111
+1116,"Mercury Refining, Inc.",44.58,183,-73.80416899999999,42.689719000000004
+1117,Niagara County Refuse,39.85,184,-78.906111,43.06055
+1118,Old Bethpage Landfill,58.83,185,-73.44721899999999,40.756939
+1119,Olean Well Field,44.46,186,-78.404719,42.069439
+1120,Pollution Abatement Services,0.0,187,-76.483331,43.47
+1121,Port Washington Landfill,45.46,188,-73.666661,40.81805
+1122,Ramapo Landfill,44.73,189,-74.161389,41.14
+1123,Sinclair Refinery,53.9,190,-77.9416,42.1088
+1124,Solvent Savers,34.78,191,-75.876661,42.665
+1125,Syosset Landfill,54.27,192,-73.50971899999999,40.798889
+1126,Wide Beach Development,56.58,193,-79.12861099999999,42.586669
+1127,York Oil Co.,47.7,194,-74.5751,44.8225
+1128,General Motors (Central Foundry Division),40.71,195,-74.732781,44.983889000000005
+1129,Hudson River PCBs,54.66,196,-73.5765,43.1102
+1130,Vestal Water Supply Well 1-1,37.93,197,-76.0557,42.0902
+1131,Vestal Water Supply Well 4-2,42.24,198,-75.997219,42.110281
+1132,Sarney Farm,33.2,199,-73.561389,41.75555
+1133,"Pasley Solvents & Chemicals, Inc.",39.65,200,-73.612219,40.729169
+1134,Hooker Chemical & Plastics Corp./Ruco Polymer Corp.,41.6,201,-73.50416899999999,40.7575
+1135,Anchor Chemicals,37.2,202,-73.546389,40.766389000000004
+1136,"Mattiace Petrochemical Co., Inc.",31.9,203,-73.6432,40.8608
+1137,Jones Sanitation,52.52,204,-73.902,41.795
+1138,Warwick Landfill,29.41,205,-74.27,41.238889
+1139,Carroll & Dubies Sewage Disposal,33.74,206,-74.6681,41.3942
+1140,Cortese Landfill,32.11,207,-75.065,41.600561
+1141,Liberty Industrial Finishing,50.65,208,-73.44888900000001,40.72625
+1142,Johnstown City Landfill,48.36,209,-74.393061,43.043061
+1143,Volney Municipal Landfill,32.89,210,-76.37916899999999,43.36055
+1144,Claremont Polychemical,31.62,211,-73.4432,40.7576
+1145,"Tri-Cities Barrel Co., Inc.",44.06,212,-75.811939,42.15805
+1146,Katonah Municipal Well,35.35,213,-73.682911,41.259169
+1147,Suffern Village Well Field,35.57,214,-74.15899999999999,41.1162
+1148,BEC Trucking,30.75,215,-75.998339,42.097639
+1149,Endicott Village Well Field,35.57,216,-76.086111,42.086110999999995
+1150,Applied Environmental Services,41.15,217,-73.646693,40.823054
+1151,Colesville Municipal Landfill,30.26,218,-75.58945,42.160419
+1152,"Goldisc Recordings, Inc.",33.39,219,-73.0647,40.7745
+1153,"SMS Instruments, Inc.",37.32,220,-73.31849100000001,40.760002
+1154,"Tronic Plating Co., Inc.",45.14,221,-73.4077,40.7538
+1155,Hertel Landfill,33.62,222,-74.038889,41.688061
+1156,Preferred Plating Corp.,35.06,223,-73.4253,40.7158
+1157,Kenmark Textile Corp.,31.72,224,-73.4264,40.7384
+1158,"Nepera Chemical Co., Inc.",39.87,225,-74.2447,41.4643
+1159,Byron Barrel & Drum,37.27,226,-78.1103,43.1191
+1160,FMC Corp. (Dublin Road Landfill),32.9,227,-78.4417,43.2172
+1161,North Sea Municipal Landfill,33.74,228,-72.401389,40.929161
+1162,"Robintech, Inc./National Pipe Co.",30.75,229,-75.9922,42.1049
+1163,Haviland Complex,33.62,230,-73.908061,41.771111
+1164,Griffiss Air Force Base,34.2,231,-75.416661,43.233331
+1165,Conklin Dumps,33.93,232,-75.81805,42.05
+1166,Richardson Hill Road Landfill/Pond,34.86,233,-75.249169,42.252781
+1167,"BioClinical Laboratories, Inc.",32.91,234,-73.110281,40.783331
+1168,Malta Rocket Fuel Area,33.62,235,-73.75833100000001,42.963889
+1169,Genzale Plating Co.,33.79,236,-73.6777,40.7153
+1170,Rowe Industries Ground Water Contamination,31.94,237,-72.3,40.982781
+1171,Islip Municipal Sanitary Landfill,33.39,238,-73.1829,40.8178
+1172,Circuitron Corp.,54.27,1177,-73.4195,40.7495
+1173,Sidney Landfill,29.36,1178,-75.243,42.2577
+1174,"Jones Chemicals, Inc.",33.62,1179,-77.845561,42.976531
+1175,Rosen Brothers Scrap Yard/Dump,51.35,1180,-76.17528100000001,42.591669
+1176,Niagara Mohawk Power Corp. (Saratoga Spings Plant),35.48,1181,-73.776111,43.09
+1177,"Action Anodizing, Plating, & Polishing Corp.",34.72,1182,-73.406111,40.684439000000005
+1178,C & J Disposal Leasing Co. Dump,35.1,1230,-75.5687,42.8638
+1179,Plattsburgh Air Force Base,30.34,1246,-73.46471899999999,44.6575
+1180,Seneca Army Depot,35.52,1249,-76.85445,42.75
+1181,Brookhaven National Laboratory (USDOE),39.92,1255,-72.86958299999999,40.86
+1182,"Sealand Restoration, Inc.",29.36,1281,-75.361531,44.703610999999995
+1183,"Radium Chemical Co., Inc.",0.0,1287,-73.9025,40.76
+1184,Forest Glen Mobile Home Subdivision,0.0,1295,-78.9995,43.1127
+1185,Li Tungsten Corp.,50.0,1309,-73.640773,40.860929
+1186,Williams Pipe Line Co. Disposal Pit,42.24,1291,-96.7956,43.5453
+1187,Onondaga Lake,50.0,1374,-76.208056,43.069444
+1188,Pfohl Brothers Landfill,50.11,1375,-78.7025,42.943889
+1189,GCL Tie and Treating Inc.,48.54,1431,-75.413333,42.300554999999996
+1190,Little Valley,0.0,1465,-78.766944,42.236667
+1191,Fulton Avenue,33.08,1494,-73.657844,40.737337
+1192,Peter Cooper,50.0,1496,-78.927583,42.458778
+1193,Lehigh Valley Railroad,50.0,1509,-77.933306,42.992028000000005
+1194,Computer Circuits,50.0,1520,-73.24611,40.813194
+1195,Hiteman Leather,50.0,1523,-75.195833,42.883333
+1196,Mohonk Road Industrial Plant,50.0,1526,-74.13444,41.816666999999995
+1197,Smithtown Ground Water Contamination,50.0,1530,-73.174778,40.887806
+1198,Stanton Cleaners Area Ground Water Contamination,35.76,1539,-73.734139,40.782361
+1199,Peter Cooper Corporation (Markhams),30.0,1550,-79.01257199999999,42.392897
+1200,Jackson Steel,50.0,1573,-73.652694,40.738806
+1201,"Lawrence Aviation Industries, Inc.",50.0,1574,-73.069194,40.928139
+1202,Old Roosevelt Field Contaminated Ground Water Area,50.0,1587,-73.618472,40.733610999999996
+1203,"Hudson Technologies, Inc.",50.0,1590,-74.164861,41.130139
+1204,Consolidated Iron and Metal,50.0,1614,-74.005639,41.498028000000005
+1205,"W.R. Grace & Co., Inc./Wayne Interim Storage Site (USDOE)",47.14,136,-74.27032700000001,40.969014
+1206,"Rodale Manufacturing Co., Inc.",50.0,1311,-75.49333299999999,40.531110999999996
+1207,Shenandoah Road Ground Water Contamination,50.0,1628,-73.792222,41.526111
+1208,"MacKenzie Chemical Works, Inc.",50.0,1631,-73.205278,40.788889000000005
+1209,Gilt Edge Mine,50.0,1594,-103.674306,44.328056
+1210,Amnicola Dump,40.91,489,-85.276389,35.0625
+1211,Gallaway Pits,30.77,490,-89.601939,35.359719
+1212,Lewisburg Dump,33.45,491,-86.784161,35.481389
+1213,Murray-Ohio Dump,46.44,492,-87.361111,35.2275
+1214,North Hollywood Dump,0.0,493,-89.979161,35.18555
+1215,Velsicol Chemical Corp. (Hardeman County),47.71,494,-88.926389,35.381939
+1216,Hopkins Farm,34.09,137,-74.4875,40.088889
+1217,"Crater Resources, Inc./Keystone Coke Co./Alan Wood Steel Co.",50.0,1322,-75.3425,40.081666999999996
+1218,"Crown Cleaners of Watertown, Inc.",49.0,1643,-75.651861,44.022944
+1219,Milan Army Ammunition Plant,58.15,495,-88.696111,35.867781
+1220,"American Creosote Works, Inc. (Jackson Plant)",35.22,496,-88.8355,35.61
+1221,Mallory Capacitor Co.,29.44,497,-87.758611,35.317638
+1222,Arlington Blending & Packaging,39.03,498,-89.6577,35.2996
+1223,Wrigley Charcoal Plant,36.14,1067,-87.35319399999999,35.9025
+1224,Carrier Air Conditioning Co.,48.91,1069,-89.690411,35.043331
+1225,Oak Ridge Reservation (USDOE),51.13,1239,-84.390139,35.924719
+1226,Memphis Defense Depot (DLA),58.06,1330,-90.003333,35.093333
+1227,ICG Iselin Railroad Yard,50.0,1380,-88.797689,35.6025
+1228,Tennessee Products,0.0,1409,-85.314444,34.998889
+1229,Chemet Co.,50.0,1430,-89.372499,35.08361
+1230,Ross Metals Inc.,37.65,1482,-89.548611,35.049167
+1231,Smalley-Piper,50.0,1727,-89.685833,35.044444
+1232,Smokey Mountain Smelters,50.0,1817,-83.925833,35.919444
+1233,Alamo Contaminated Ground Water,50.0,1834,-89.118022,35.784153
+1234,Clinch River Corporation,48.03,1873,-84.539381,35.93195
+1235,"Walker Machine Products, Inc.",50.0,1891,-89.653469,35.041589
+1236,Former Custom Cleaners,50.0,1924,-89.945,35.115114
+1237,Southside Chattanooga Lead,50.0,1936,-85.30055899999999,35.032552
+1238,"Bio-Ecology Systems, Inc.",35.06,776,-96.936669,32.743331
+1239,Crystal Chemical Co.,60.9,777,-95.5644,29.7206
+1240,"French, Ltd.",63.33,778,-95.0739,29.8796
+1241,Harris (Farley Street),33.94,779,-95.1627,29.6244
+1242,Highlands Acid Pit,37.77,780,-95.0786,29.8141
+1243,"Motco, Inc.",0.0,781,-94.93333100000001,29.334719
+1244,Sikes Disposal Pits,61.62,783,-95.086669,29.881669
+1245,Triangle Chemical Co.,28.75,784,-93.8093,30.058000000000003
+1246,United Creosoting Co.,37.29,785,-95.45666899999999,30.331669
+1247,Geneva Industries/Fuhrmann Energy,59.46,787,-95.25,29.66
+1248,Pesses Chemical Co.,28.86,788,-97.3256,32.7174
+1249,Odessa Chromium #1,42.24,789,-102.4033,31.881669
+1250,Odessa Chromium #2 (Andrews Highway),42.24,790,-102.3905,31.8934
+1251,Bailey Waste Disposal,53.42,791,-93.87916899999999,29.99055
+1252,"Brio Refining, Inc.",50.38,792,-95.203331,29.57
+1253,Crystal City Airport,32.26,793,-99.8176,28.6969
+1254,"Koppers Co., Inc. (Texarkana Plant)",31.31,794,-94.065,33.416669
+1255,Sol Lynn/Industrial Transformers,39.65,795,-95.398611,29.678889
+1256,"Stewco, Inc.",48.86,796,-94.06916899999999,32.465831
+1257,"Petro-Chemical Systems, Inc. (Turtle Bayou)",29.94,797,-94.688061,29.92
+1258,North Cavalcade Street,37.08,798,-95.34916899999999,29.806669
+1259,South Cavalcade Street,38.69,799,-95.34778100000001,29.798331
+1260,Lone Star Army Ammunition Plant,31.85,800,-94.2483,33.4344
+1261,Longhorn Army Ammunition Plant,39.83,801,-94.123339,32.665
+1262,Texarkana Wood Preserving Co.,40.19,802,-94.05333900000001,33.408331
+1263,Sheridan Disposal Services,30.16,803,-96.1357,30.2074
+1264,"Dixie Oil Processors, Inc.",34.21,804,-95.2047,29.5686
+1265,Pantex Plant (USDOE),51.22,1314,-101.563611,35.321944
+1266,RSR Corp.,50.0,1381,-96.8725,32.776944
+1267,ALCOA (Point Comfort)/Lavaca Bay,50.0,1400,-96.56222199999999,28.650833000000002
+1268,Tex-Tin Corp.,50.0,1478,-94.94166700000001,29.356666999999998
+1269,Sprague Road Ground Water Plume,43.21,1489,-102.428333,31.918611
+1270,Jasper Creosoting Company Inc.,50.0,1506,-93.9825,30.933889
+1271,Rockwool Industries Inc.,48.0,1507,-97.438056,31.051667
+1272,State Marine of Port Arthur,48.0,1508,-93.859167,29.960833
+1273,City of Perryton Well No. 2,50.0,1528,-100.804722,36.400556
+1274,"Many Diversified Interests, Inc.",32.07,1533,-95.33166700000001,29.767778000000003
+1275,Hart Creosoting Company,48.0,1554,-93.995278,30.893611
+1276,Star Lake Canal,50.0,1568,-93.917,29.975
+1277,Garland Creosoting,49.1,1569,-94.710903,32.442271999999996
+1278,State Road 114 Ground Water Plume,42.41,1571,-102.40556099999999,33.599883
+1279,Palmer Barge Line,50.0,1600,-93.855083,29.961453000000002
+1280,"Malone Service Company, Inc.",50.0,1611,-94.902778,29.333056
+1281,R & H Oil Company,50.0,1637,-98.53760799999999,29.372203000000003
+1282,Patrick Bayou,47.83,1638,-95.114583,29.731944
+1283,Brine Service Company,50.0,1656,-97.508606,27.815371999999996
+1284,Gulfco Marine Maintenance,50.0,1663,-95.28965600000001,28.966846999999998
+1285,Falcon Refinery,50.0,1667,-97.17930600000001,27.860725
+1286,Jones Road Ground Water Plume,46.5,1678,-95.584319,29.90465
+1287,Conroe Creosoting Company,48.0,1682,-95.435428,30.318744
+1288,Air Force Plant #4 (General Dynamics),39.92,1700,-97.45,32.777781
+1289,Sandy Beach Road Ground Water Plume,50.0,1738,-97.525,32.928472
+1290,East 67th Street Ground Water Plume,50.0,1754,-102.38583299999999,31.908610999999997
+1291,Bandera Road Ground Water Plume,50.0,1755,-98.6205,29.494433
+1292,Donna Reservoir and Canal System,50.0,1771,-98.086469,26.112285999999997
+1293,Midessa Ground Water Plume,50.0,1772,-102.23366899999999,31.90635
+1294,San Jacinto River Waste Pits,50.0,1773,-95.0625,29.7944
+1295,North East 2nd Street (formerly Attebury Grain Storage Facility),32.33,1776,-101.85333299999999,34.745
+1296,Old ESCO Manufacturing,40.81,1777,-96.0755,33.1383
+1297,Van der Horst USA Corporation,48.0,1810,-96.273889,32.734167
+1298,West County Road 112 Ground Water,50.0,1829,-102.094921,31.964128999999996
+1299,US Oil Recovery,50.0,1854,-95.221528,29.718389000000002
+1300,Circle Court Ground Water Plume,50.0,1866,-97.679763,32.744778000000004
+1301,Main Street Ground Water Plume,50.0,1903,-98.22544,30.737147999999998
+1302,"Eldorado Chemical Co., Inc.",38.85,1919,-98.350042,29.568833
+1303,Highway 18 Ground Water,50.0,1927,-103.090681,31.851999999999997
+1304,"Lane Plating Works, Inc.",50.0,1940,-96.769485,32.687886
+1305,River City Metal Finishing,50.0,1941,-98.731875,29.430489
+1306,Delfasco Forge,50.0,1945,-96.963228,32.750269
+1307,Rose Park Sludge Pit,0.0,880,-111.9223,40.8001
+1308,Sharon Steel Corp. (Midvale Tailings),41.85,881,-111.9142,40.608061
+1309,Portland Cement (Kiln Dust 2 & 3),54.4,882,-111.9436,40.7474
+1310,Hill Air Force Base,49.94,883,-111.955,41.128331
+1311,Ogden Defense Depot (DLA),45.1,885,-112.0,41.266669
+1312,Monticello Radioactively Contaminated Properties,35.03,887,-109.333611,37.863889
+1313,American Crossarm & Conduit Co.,30.44,1105,-122.9689,46.656939
+1314,Cayuga County Ground Water Contamination,50.0,1650,-76.6425,42.880556
+1315,Northwest Transformer (South Harkness Street),30.56,1117,-122.3431,48.9197
+1316,Landfill & Development Co.,33.62,138,-74.770839,39.980561
+1317,Ellenville Scrap Iron and Metal,50.27,1651,-74.4055,41.724028000000004
+1318,Centralia Municipal Landfill,36.36,1131,-122.9633,46.696669
+1319,Nascolite Corp.,51.13,139,-75.032781,39.422219
+1320,Diaz Chemical Corporation,50.0,1708,-78.029278,43.222944
+1321,Peninsula Boulevard Ground Water Plume,50.0,1713,-73.706417,40.642806
+1322,Hopewell Precision Area Contamination,50.0,1720,-73.781481,41.6116
+1323,Gowanus Canal,50.0,1791,-73.98733299999999,40.681639000000004
+1324,Newtown Creek,50.0,1813,-73.930762,40.715192
+1325,Black River PCBs,48.03,1814,-75.627753,43.984269
+1326,Foote Mineral Co.,50.0,1323,-75.585278,40.04
+1327,Dewey Loeffel Landfill,50.0,1815,-73.560496,42.560957
+1328,New Cassel/Hicksville Ground Water Contamination,50.0,1832,-73.559781,40.752446
+1329,Eighteenmile Creek,50.0,1851,-78.689544,43.1813
+1330,Wolff-Alport Chemical Company,50.0,1890,-73.901997,40.692671999999995
+1331,Wappinger Creek,50.0,1917,-73.927136,41.597684
+1332,Saint-Gobain Performance Plastics,50.0,1926,-73.3566,42.8943
+1333,Magna Metals,50.0,1946,-73.8704,41.2745
+1334,Arsenic Mine,0.0,1953,-73.715285,41.457972
+1335,Allied Chemical & Ironton Coke,47.05,675,-82.65799999999999,38.5057
+1336,Arcanum Iron & Metal,62.26,676,-84.549161,39.98195
+1337,Big D Campground,30.77,677,-80.652781,41.904169
+1338,Bowers Landfill,50.49,678,-82.965281,39.6375
+1339,Buckeye Reclamation,35.1,679,-80.841669,40.047219
+1340,Chem-Dyne,0.0,680,-84.552,39.4079
+1341,Coshocton Landfill,39.14,681,-81.848611,40.225
+1342,E.H. Schilling Landfill,34.56,682,-82.75555,38.5725
+1343,Fields Brook,44.95,683,-80.7754,41.8915
+1344,Fultz Landfill,39.42,684,-81.541661,39.984719
+1345,Nease Chemical,47.19,685,-80.891669,40.916669
+1346,New Lyme Landfill,31.19,686,-80.729161,41.584719
+1347,Laskin/Poplar Oil Co.,35.95,687,-80.7815,41.7436
+1348,"Pristine, Inc.",35.25,688,-84.43723100000001,39.236111
+1349,Old Mill,35.95,689,-80.8456,41.6601
+1350,Skinner Landfill,30.23,690,-84.39971899999999,39.333331
+1351,Summit National,52.28,691,-81.0971,41.023999999999994
+1352,Van Dale Junkyard,33.03,692,-81.4025,39.43195
+1353,Zanesville Well Field,35.59,693,-81.992231,39.967781
+1354,Miami County Incinerator,57.84,694,-84.22416899999999,40.074169
+1355,Powell Road Landfill,31.62,695,-84.16,39.833331
+1356,South Point Plant,46.33,696,-82.591669,38.4375
+1357,"United Scrap Lead Co., Inc.",58.15,697,-84.198611,40.008889
+1358,Industrial Excess Landfill,51.13,698,-81.404169,40.968331
+1359,Chemical & Minerals Reclamation,0.0,699,-81.725031,41.490361
+1360,Alsco Anaconda,42.94,700,-81.440831,40.361111
+1361,"Sanitary Landfill Co. (Industrial Waste Disposal Co., Inc.)",35.57,702,-84.201531,39.716581
+1362,Republic Steel Corp. Quarry,29.85,703,-82.117839,41.356189
+1363,Ormet Corp.,46.44,704,-80.841669,39.705
+1364,"TRW, Inc. (Minerva Plant)",38.08,705,-81.09,40.745
+1365,Wright-Patterson Air Force Base,57.85,706,-84.0697,39.8071
+1366,Reilly Tar & Chemical Corp. (Dover Plant),31.38,1198,-81.479,40.5175
+1367,Feed Materials Production Center (USDOE),57.56,1251,-84.688331,39.29945
+1368,Mound Plant (USDOE),34.61,1253,-84.2862,39.6264
+1369,Diamond Shamrock Corp. (Painesville Works),50.0,1376,-81.258333,41.758333
+1370,Dover Chemical Corp.,50.0,1377,-81.494444,40.539823
+1371,North Sanitary Landfill,50.0,1398,-84.1525,39.78611
+1372,Air Force Plant 85,50.0,1420,-82.887221,39.987777
+1373,Lammers Barrel,69.33,1664,-84.08430600000001,39.726389000000005
+1374,"Armco Inc., Hamilton Plant",69.34,1670,-84.531,39.429860999999995
+1375,Peters Cartridge Factory,50.0,1675,-84.242222,39.350694
+1376,Copley Square Plaza,50.0,1728,-81.61747199999999,41.092839
+1377,South Dayton Dump & Landfill,48.63,1730,-84.219444,39.729444
+1378,East Troy Contaminated Aquifer,50.0,1765,-84.1961,40.0381
+1379,Behr Dayton Thermal System VOC Plume,50.0,1786,-84.17944399999999,39.784444
+1380,New Carlisle Landfill,46.4,1787,-84.033694,39.923333
+1381,Little Scioto River,48.03,1801,-83.183461,40.593061
+1382,Milford Contaminated Aquifer,50.0,1828,-84.293786,39.177814
+1383,West Troy Contaminated Aquifer,50.0,1862,-84.208928,40.046408
+1384,Valley Pike VOCs,50.0,1916,-84.1325,39.797222
+1385,Donnelsville Contaminated Aquifer,35.06,1943,-83.948728,39.920558
+1386,Hardage/Criner,51.01,770,-97.5809,34.9764
+1387,Tar Creek (Ottawa County),58.15,771,-94.841914,36.943603
+1388,Compass Industries (Avery Drive),36.57,772,-96.083339,36.126389
+1389,Sand Springs Petrochemical Complex,28.86,773,-96.101389,36.130831
+1390,Tinker Air Force Base (Soldier Creek/Building 3001),42.24,774,-97.401494,35.413973
+1391,Tenth Street Dump/Junkyard,30.98,775,-97.451939,35.47805
+1392,Oklahoma Refining Co.,46.01,1047,-98.193339,34.898331
+1393,Double Eagle Refinery Co.,30.83,1048,-97.47833100000001,35.468331
+1394,Mosley Road Sanitary Landfill,38.06,1066,-97.414861,35.5025
+1395,Fourth Street Abandoned Refinery,30.67,1074,-97.473056,35.470278
+1396,National Zinc Corp.,50.0,1378,-95.995,36.746666999999995
+1397,Tulsa Fuel and Manufacturing,50.0,1534,-95.848611,36.34625
+1398,Hudson Refinery,29.34,1555,-96.77972199999999,35.985556
+1399,Imperial Refining Company,30.0,1598,-97.10793100000001,34.195485999999995
+1400,Wilcox Oil Company,50.0,1882,-96.380193,35.840804999999996
+1401,Eagle Industries,50.0,1932,-97.33750699999999,35.435631
+1402,Henryetta Iron and Metal,49.33,1957,-95.999803,35.439996
+1403,"Gould, Inc.",32.12,986,-122.7483,45.5692
+1404,Teledyne Wah Chang,54.27,987,-123.0633,44.66
+1405,Umatilla Army Depot (Lagoons),31.31,988,-119.45,45.836110999999995
+1406,"United Chrome Products, Inc.",31.07,989,-123.2861,44.5042
+1407,Martin-Marietta Aluminum Co.,43.7,990,-121.2056,45.624439
+1408,"Allied Plating, Inc.",39.25,991,-122.6617,45.583331
+1409,Joseph Forest Products,32.6,1118,-117.2472,45.359439
+1410,Union Pacific Railroad Co. Tie-Treating Plant,37.93,1285,-121.1651,45.5986
+1411,Northwest Pipe & Casing/Hall Process Co,51.09,1345,-122.56388899999999,45.416333
+1412,Fremont National Forest/White King and Lucky Lass Uranium Mines (USDA),50.0,1402,-120.54166699999999,42.336110999999995
+1413,McCormick & Baxter Creosoting Co. (Portland Plant),50.0,1403,-122.73943999999999,45.579443
+1414,Reynolds Metals Company,70.71,1444,-122.399161,45.5569
+1415,Portland Harbor,50.0,1606,-122.793056,45.615278
+1416,Taylor Lumber and Treating,71.78,1623,-123.42694399999999,45.097221999999995
+1417,Harbor Oil,48.0,1665,-122.69138899999999,45.606389
+1418,Formosa Mine,50.0,1761,-123.38261100000001,42.854471999999994
+1419,North Market Street,32.61,1137,-117.3626,47.7297
+1420,Black Butte Mine,50.0,1811,-123.06680800000001,43.579516
+1421,"Radiation Technology, Inc.",42.56,140,-74.50555,40.970831
+1422,"Metropolitan Mirror and Glass Co., Inc.",34.33,1324,-76.22166700000001,40.775
+1423,Pasco Sanitary Landfill,44.46,1210,-119.0478,46.255281
+1424,Hanford 300-Area (USDOE),65.23,1218,-119.2752,46.3703
+1425,Hanford 1100-Area (USDOE),36.34,1219,-119.2848,46.3231
+1426,Hanford 100-Area (USDOE),46.38,1220,-119.4829,46.7011
+1427,Hanford 200-Area (USDOE),69.05,1222,-119.6049,46.563331
+1428,General Electric Co. (Spokane Shop),57.8,1226,-117.3441,47.6729
+1429,Bonneville Power Administration Ross Complex (USDOE),53.67,1236,-122.6572,45.6616
+1430,Fort Lewis Logistics Center,35.48,1241,-122.5365,47.1142
+1431,Bangor Naval Submarine Base,55.91,1243,-122.7131,47.699
+1432,Hamilton Island Landfill (USA/COE),51.97,1316,-121.985,45.629583000000004
+1433,Moses Lake Wellfield Contamination,50.0,1317,-119.315556,47.204722
+1434,Tulalip Landfill,50.0,1318,-122.182222,48.041667
+1435,Vancouver Water Station #4 Contamination,50.0,1319,-122.622472,45.6195
+1436,Spokane Junkyard/Associated Properties,50.0,1359,-117.37082,47.689444
+1437,Pacific Sound Resources,70.71,1382,-122.36666699999999,47.582332
+1438,Puget Sound Naval Shipyard Complex,50.0,1389,-122.647222,47.559166
+1439,Jackson Park Housing Complex (USNAVY),50.0,1404,-122.695972,47.588609999999996
+1440,Vancouver Water Station #1 Contamination,50.0,1405,-122.645417,45.638471
+1441,Port Hadlock Detachment (USNAVY),50.0,1406,-122.729583,48.083471
+1442,Old Navy Dump/Manchester Laboratory (USEPA/NOAA),50.0,1418,-122.548055,47.574443
+1443,Boomsnub/Airco,0.0,1433,-122.62166699999999,45.677222
+1444,Oeser Co,69.34,1483,-122.514444,48.770278000000005
+1445,Palermo Well Field Ground Water Contamination,50.0,1484,-122.90416699999999,47.001667
+1446,Midnite Mine,50.0,1546,-118.094167,47.9375
+1447,Hamilton/Labree Roads Ground Water Contamination,37.65,1597,-122.93305600000001,46.623472
+1448,Lower Duwamish Waterway,50.0,1622,-122.29285,47.510081
+1449,Quendall Terminals,50.0,1745,-122.2,47.533333
+1450,Lockheed West Seattle,50.0,1756,-122.3625,47.583889
+1451,Bremerton Gasworks,50.0,1855,-122.64213600000001,47.578544
+1452,Makah Reservation Warmhouse Beach Dump,50.0,1883,-124.65671100000002,48.388353
+1453,Grain Handling Facility at Freeman,50.0,1905,-117.19429699999999,47.519528
+1454,City Disposal Corp. Landfill,36.84,707,-89.356939,42.946389
+1455,Delavan Municipal Well #4,28.9,708,-88.623889,42.631669
+1456,Eau Claire Municipal Well Field,35.57,709,-91.503331,44.853331
+1457,Hagen Farm,32.06,710,-89.1832,42.9089
+1458,Hunts Disposal Landfill,31.02,711,-87.88,42.835
+1459,Janesville Ash Beds,57.9,712,-89.0275,42.703061
+1460,Janesville Old Landfill,57.93,713,-89.023611,42.702781
+1461,Kohler Co. Landfill,42.93,714,-87.763889,43.7375
+1462,Lauer I Sanitary Landfill,42.69,715,-88.06666899999999,43.181389
+1463,Lemberger Transport & Recycling,34.58,716,-87.8448,44.1655
+1464,Master Disposal Service Landfill,47.49,717,-88.163331,43.092781
+1465,"Mid-State Disposal, Inc. Landfill",35.23,718,-90.04,44.848331
+1466,"Moss-American Co., Inc. (Kerr-McGee Oil Co.)",32.14,719,-88.0417,43.1772
+1467,Muskego Sanitary Landfill,51.91,720,-88.1829,42.8929
+1468,Northern Engraving Co.,38.75,721,-90.81445,43.934439000000005
+1469,"Oconomowoc Electroplating Co., Inc.",31.86,722,-88.5221,43.2141
+1470,Omega Hills North Landfill,58.54,723,-88.07221899999999,43.194439
+1471,Onalaska Municipal Landfill,42.47,724,-91.3382,43.9573
+1472,Schmalz Dump,48.92,725,-88.39666899999999,44.21
+1473,"Scrap Processing Co., Inc.",34.24,726,-90.3529,45.1456
+1474,Waste Research & Reclamation Co.,32.13,727,-91.458339,44.756669
+1475,Wheeler Pit,57.8,728,-88.98055,42.666669
+1476,Fadrowski Drum Disposal,31.08,729,-87.95245,42.9207
+1477,"National Presto Industries, Inc.",42.39,730,-91.45200000000001,44.8601
+1478,Stoughton City Landfill,35.79,731,-89.206389,42.923889
+1479,"Waste Management of Wisconsin, Inc. (Brookfield Sanitary Landfill)",28.9,732,-88.148111,43.048169
+1480,Wausau Ground Water Contamination,28.91,733,-89.6292,44.9773
+1481,Sheboygan Harbor & River,33.79,734,-87.70075,43.749444
+1482,"Lemberger Landfill, Inc.",34.07,735,-87.841669,44.173331
+1483,Tomah Municipal Sanitary Landfill,45.91,736,-90.522,43.9944
+1484,Algoma Municipal Landfill,39.99,737,-87.4912,44.597
+1485,Tomah Armory,30.63,738,-90.5004,43.9927
+1486,Tomah Fairgrounds,32.87,739,-90.519839,43.970811
+1487,Hechimovich Sanitary Landfill,47.91,740,-88.554139,43.459531
+1488,"N.W. Mauthe Co., Inc.",0.0,741,-88.43,44.25555
+1489,Sauk County Landfill,34.21,1034,-89.8775,43.5145
+1490,Spickler Landfill,44.24,1036,-90.26561099999999,44.689689
+1491,Madison Metropolitan Sewerage District Lagoons,32.65,1192,-89.346281,43.034310999999995
+1492,Better Brite Plating Chrome & Zinc Shops,48.91,1296,-88.0755,44.438061
+1493,Refuse Hideaway Landfill,34.67,1334,-89.584722,43.086110999999995
+1494,Ripon City Landfill,39.04,1399,-88.87055600000001,43.866806
+1495,Penta Wood Products,50.0,1459,-92.43120400000001,45.784508
+1496,Fox River NRDA/PCB Releases,50.0,1515,-88.0015,44.5331
+1497,Ashland/Northern States Power Lakefront,50.0,1616,-90.883333,46.595971999999996
+1498,Amcast Industrial Corporation,46.86,1799,-87.982056,43.288444
+1499,"Fike Chemical, Inc.",36.3,376,-81.8425,38.426669
+1500,Follansbee,33.77,377,-80.606939,40.340281
+1501,Leetown Pesticide,36.72,378,-77.9095,39.3465
+1502,West Virginia Ordnance (USARMY),0.0,379,-82.076389,38.926389
+1503,Ordnance Works Disposal Areas,35.62,381,-79.97971899999999,39.603331
+1504,Allegany Ballistics Laboratory (USNAVY),50.0,1395,-78.843611,39.560972
+1505,Sharon Steel Corp (Fairmont Coke Works),57.08,1469,-80.11444399999999,39.493611
+1506,Hanlin-Allied-Olin,53.98,1551,-80.801389,39.906667
+1507,Vienna Tetrachloroethene,50.0,1558,-81.548778,39.325167
+1508,Big John Salvage - Hoult Road,48.57,1585,-80.123056,39.497222
+1509,Ravenswood PCE Ground Water Plume,50.0,1714,-81.761667,38.951667
+1510,North 25th Street Glass and Zinc,48.03,1920,-80.357433,39.297053000000005
+1511,Shaffer Equipment/Arbuckle Creek Area,50.54,1947,-81.1265,37.97651
+1512,Baxter/Union Pacific Tie Treating,37.24,893,-105.6017,41.295
+1513,Mystery Bridge Rd/U.S. Highway 20,32.1,1115,-106.2288,42.860580999999996
+1514,F.E. Warren Air Force Base,39.23,1248,-104.8622,41.156669
+1515,Shieldalloy Corp.,58.75,141,-75.02221899999999,39.543061
+1516,Astoria Marine Construction Company,50.0,1844,-123.86123300000001,46.145309000000005
+1517,Upper Deerfield Township Sanitary Landfill,33.62,142,-75.184719,39.494169
+1518,North Ridge Estates,0.0,1845,-121.7465,42.2648
+1519,Wilson Farm,33.93,143,-74.445269,40.072219
+1520,Austin Avenue Radiation Site,0.0,1350,-75.261944,39.943056
+1521,Blosenski Landfill,30.57,278,-75.91055,40.02
+1522,Brodhead Creek,31.09,279,-75.186669,40.989719
+1523,Bruin Lagoon,73.11,280,-79.725,41.051111
+1524,Centre County Kepone,45.09,281,-77.80833100000001,40.823611
+1525,Craig Farm Drum,28.72,282,-79.6825,41.0446
+1526,Douglassville Disposal,55.18,283,-75.735281,40.2575
+1527,Drake Chemical,38.52,284,-77.443611,41.129169
+1528,Enterprise Avenue,40.8,285,-75.2125,39.885
+1529,Fischer & Porter Co.,29.07,286,-75.0925,40.183889
+1530,Havertown PCP,38.34,287,-75.318611,39.982781
+1531,Heleva Landfill,50.23,288,-75.5625,40.670831
+1532,Hranica Landfill,51.94,289,-79.749439,40.677219
+1533,Kimberton,29.44,290,-75.575,40.12695
+1534,Lackawanna Refuse,36.57,291,-75.75528100000001,41.37305
+1535,Lehigh Electric & Engineering Co.,30.26,292,-75.740689,41.357531
+1536,Lindane Dump,51.62,293,-79.7155,40.6257
+1537,Lord-Shope Landfill,38.89,294,-80.3525,41.977781
+1538,Malvern TCE,46.69,295,-75.56805,40.061669
+1539,McAdoo Associates,0.0,296,-76.001389,40.878331
+1540,Metal Banks,33.23,297,-75.027781,40.024169
+1541,Mill Creek Dump,49.31,298,-80.152781,42.093331
+1542,Moyers Landfill,37.62,299,-75.433611,40.155561
+1543,Old City of York Landfill,33.93,300,-76.75971899999999,39.840281
+1544,Osborne Landfill,54.6,301,-80.05833100000001,41.161111
+1545,Palmerton Zinc Pile,42.93,302,-75.583339,40.808331
+1546,Presque Isle,40.59,303,-80.1333,42.1497
+1547,Resin Disposal,37.69,304,-79.9124,40.2705
+1548,Stanley Kessler,33.89,305,-75.355,40.083889
+1549,Taylor Borough Dump,30.94,306,-75.718331,41.407219
+1550,Voortman Farm,28.62,307,-75.4475,40.547
+1551,Wade (ABM),36.63,308,-75.3775,39.8337
+1552,Westline Site,31.71,309,-78.77166899999999,41.774719
+1553,Berks Sand Pit,32.02,310,-75.6273,40.4646
+1554,Dorney Road Landfill,46.1,311,-75.654169,40.527781
+1555,East Mount Zion,41.01,312,-76.66528100000001,40.0075
+1556,Henderson Road,41.69,313,-75.35555,40.086939
+1557,Walsh Landfill,33.64,314,-75.91528100000001,40.119719
+1558,Raymark,53.42,315,-75.098611,40.179719
+1559,Industrial Lane,42.47,316,-75.228611,40.665831
+1560,Tysons Dump,63.1,317,-75.36278100000001,40.111389
+1561,Letterkenny Army Depot (SE Area),34.21,318,-77.6444,39.9957
+1562,Modern Sanitation Landfill,33.93,319,-76.5925,39.960561
+1563,MW Manufacturing,46.44,320,-76.641669,40.99
+1564,Brown's Battery Breaking,37.34,321,-76.001389,40.519439
+1565,Ambler Asbestos Piles,34.47,322,-75.22721899999999,40.149719
+1566,Hunterstown Road,48.27,323,-77.20611099999999,39.85305
+1567,Middletown Air Field,35.69,324,-76.7173,40.1763
+1568,Westinghouse Elevator Co. Plant,36.37,325,-77.24,39.857219
+1569,Whitmoyer Laboratories,46.25,326,-76.325,40.364719
+1570,"Delta Quarries & Disposal, Inc./Stotler Landfill",41.08,328,-78.35445,40.553611
+1571,Shriver's Corner,46.13,329,-77.2055,39.8999
+1572,York County Solid Waste and Refuse Authority Landfill,44.26,331,-76.607219,39.782361
+1573,Reeser's Landfill,30.35,333,-75.6564,40.5794
+1574,Keystone Sanitation Landfill,33.76,334,-77.036111,39.72445
+1575,Lansdowne Radiation Site,0.0,335,-75.2671,39.9413
+1576,Route 940 Drum Dump,44.06,336,-75.3825,41.1105
+1577,Croydon TCE,31.6,337,-74.8892,40.084934000000004
+1578,Revere Chemical Co.,31.31,338,-75.16888900000001,40.502781
+1579,Bendix Flight Systems Division,33.74,339,-75.88625,41.797360999999995
+1580,C & D Recycling,43.92,340,-75.841669,41.031389000000004
+1581,Bally Ground Water Contamination,37.93,341,-75.5933,40.3984
+1582,"CryoChem, Inc.",28.58,342,-75.69166899999999,40.317219
+1583,Eastern Diversified Metals,31.02,343,-75.9975,40.829439
+1584,Naval Air Development Center (8 Waste Areas),57.93,344,-75.0642,40.1996
+1585,Hebelka Auto Salvage Yard,31.94,345,-75.667781,40.576669
+1586,Hellertown Manufacturing Co.,51.91,346,-75.340947,40.595417
+1587,Novak Sanitary Landfill,42.31,347,-75.5611,40.6332
+1588,Aladdin Plating,35.57,348,-75.66278100000001,41.491939
+1589,Commodore Semiconductor Group,42.35,349,-75.4194,40.1241
+1590,"River Road Landfill (Waste Management, Inc.)",43.12,350,-80.4875,41.266669
+1591,Saegertown Industrial Area,33.62,351,-80.142972,41.71884
+1592,Berkley Products Co. Dump,30.0,352,-76.155281,40.25555
+1593,Avco Lycoming (Williamsport Division),42.24,353,-77.041111,41.244031
+1594,Bell Landfill,34.79,354,-76.389169,41.633061
+1595,William Dick Lagoons,36.64,355,-75.898061,40.041939
+1596,Boarhead Farms,39.92,1027,-75.125,40.545831
+1597,Berks Landfill,46.1,1040,-76.031111,40.291389
+1598,Strasburg Landfill,30.71,1042,-75.768061,39.944439
+1599,Westinghouse Electric Corp. (Sharon Plant),41.33,1043,-80.5058,41.2434
+1600,Recticon/Allied Steel Corp.,32.06,1053,-75.589031,40.203469
+1601,Occidental Chemical Corp./Firestone Tire & Rubber Co.,45.91,1055,-75.61416899999999,40.232081
+1602,North Penn - Area 1,35.57,1056,-75.3252,40.3108
+1603,North Penn - Area 12,28.9,1057,-75.3537,40.1807
+1604,North Penn - Area 7,35.57,1058,-75.278889,40.218061
+1605,North Penn - Area 6,35.57,1059,-75.29563900000001,40.248331
+1606,North Penn - Area 2,35.57,1060,-75.297781,40.293889
+1607,North Penn - Area 5,35.57,1061,-75.2451,40.2721
+1608,"AMP, Inc. (Glen Rock Facility)",39.03,1176,-76.6944,39.8218
+1609,Tonolli Corp.,46.58,1221,-75.881111,40.850561
+1610,Butz Landfill,32.0,1223,-75.3438,41.0335
+1611,"Jacks Creek/Sitkin Smelting & Refining, Inc.",40.37,1224,-77.47528100000001,40.641531
+1612,Elizabethtown Landfill,28.98,1227,-76.608189,40.132781
+1613,A.I.W. Frank/Mid-County Mustang,42.4,1228,-75.6032,40.031811
+1614,Tobyhanna Army Depot,37.93,1254,-75.419439,41.19305
+1615,Publicker Industries Inc.,59.06,1280,-75.135281,39.90805
+1616,Dublin TCE Site,28.9,1288,-75.204897,40.370892
+1617,Ohio River Park,42.24,1290,-80.1525,40.518611
+1618,Crossley Farm,29.66,1310,-75.620611,40.435417
+1619,Woodland Route 532 Dump,34.98,144,-74.492231,39.829169
+1620,"Vineland Chemical Co., Inc.",59.16,145,-75.056661,39.510281
+1621,Cooper Road,36.79,146,-74.9455,39.8478
+1622,"Florence Land Recontouring, Inc., Landfill",47.39,147,-74.773611,40.069439
+1623,Tabernacle Drum Dump,36.83,148,-74.700839,39.82
+1624,Ventron/Velsicol,51.38,149,-74.07943900000001,40.84
+1625,Glen Ridge Radium Site,49.14,150,-74.2125,40.788189
+1626,Lodi Municipal Well,33.39,152,-74.093611,40.872919
+1627,Pomona Oaks Residential Wells,31.94,153,-74.569439,39.477781
+1628,Cinnaminson Township (Block 702) Ground Water Contamination,37.93,154,-74.9862,40.0175
+1629,Fried Industries,33.61,155,-74.4412,40.4424
+1630,Montclair/West Orange Radium Site,49.14,156,-74.2257,40.7929
+1631,"Waldick Aerospace Devices, Inc.",44.86,157,-74.0613,40.143
+1632,Naval Weapons Station Earle (Site A),29.65,158,-74.16291899999999,40.264581
+1633,Naval Air Engineering Center,50.53,159,-74.369161,40.029719
+1634,Fort Dix (Landfill Site),37.4,160,-74.6244,39.9801
+1635,"Monitor Devices, Inc./Intercircuits, Inc.",41.93,161,-74.11971899999999,40.185280999999996
+1636,Dayco Corp./L.E. Carpenter Co.,46.13,162,-74.5775,40.903331
+1637,Cosden Chemical Coatings Corp.,33.86,164,-74.925899,40.058183
+1638,"Curcio Scrap Metal, Inc.",34.37,165,-74.1035,40.8907
+1639,Brook Industrial Park,58.12,167,-74.536111,40.560139
+1640,Pohatcong Valley Ground Water Contamination,28.9,168,-75.0,40.75
+1641,"Kauffman & Minteer, Inc.",28.51,1082,-74.694,40.0363
+1642,Witco Chemical Corp. (Oakland Plant),30.63,1083,-74.24375,41.00375
+1643,Picatinny Arsenal (USARMY),42.92,1169,-74.583339,40.916669
+1644,South Jersey Clothing Co.,42.24,1170,-74.9491,39.5206
+1645,Industrial Latex Corp.,32.38,1171,-74.0991,40.8536
+1646,Higgins Disposal,30.87,1172,-74.61528100000001,40.3875
+1647,Higgins Farm,30.47,1173,-74.60278100000001,40.406389000000004
+1648,Global Sanitary Landfill,45.92,1174,-74.286111,40.446389
+1649,Garden State Cleaners Co.,28.9,1229,-74.94945,39.519031
+1650,Federal Aviation Administration Technical Center,39.65,1250,-74.583339,39.458331
+1651,Chemical Insecticide Corp.,37.93,1286,-74.368,40.5274
+1652,White Chemical Corp.,0.0,1320,-74.19824200000001,40.698484
+1653,Horseshoe Road,51.37,1373,-74.31944399999999,40.484722
+1654,Franklin Burn,40.67,1455,-75.025,39.594444
+1655,Welsbach & General Gas Mantle (Camden Radiation),41.46,1460,-75.121944,39.919722
+1656,Grand Street Mercury,0.0,1485,-74.034444,40.746111
+1657,"Cornell Dubilier Electronics, Inc.",50.27,1493,-74.414167,40.576389
+1658,LCP Chemicals Inc.,50.0,1495,-74.210278,40.6075
+1659,Puchack Well Field,50.0,1497,-75.05194399999999,39.976667
+1660,Zschiegner Refining,50.0,1498,-74.2,40.145833
+1661,Route 561 Dump,50.0,1510,-74.958333,39.83611
+1662,Federal Creosote,50.0,1519,-74.58416700000001,40.544444
+1663,Middlesex Sampling Plant (USDOE),50.0,1525,-74.49319399999999,40.569806
+1664,United States Avenue Burn,50.0,1531,-74.963889,39.834167
+1665,Emmell's Septic Landfill,50.0,1549,-74.543611,39.500694
+1666,"Martin Aaron, Inc.",50.0,1559,-75.119167,39.926111
+1667,Iceland Coin Laundry Area Ground Water Plume,30.3,1561,-75.04725,39.45725
+1668,Lightman Drum Company,42.03,1562,-74.905917,39.729721999999995
+1669,McGuire Air Force Base #1,47.2,1563,-74.593611,40.018056
+1670,Diamond Head Oil Refinery Div.,30.0,1604,-74.132194,40.747222
+1671,Quanta Resources,50.0,1626,-73.98916700000001,40.804306
+1672,Woodbrook Road Dump,50.0,1648,-74.402914,40.561564000000004
+1673,Atlantic Resources Corporation,50.0,1649,-74.31944399999999,40.486111
+1674,White Swan Cleaners/Sun Cleaners Area Ground Water Contamination,41.63,1671,-74.063133,40.135444
+1675,Standard Chlorine,50.0,1672,-74.097222,40.75
+1676,Rolling Knolls Landfill,58.31,1681,-74.447861,40.729528
+1677,Crown Vantage Landfill,50.0,1722,-75.078917,40.552028
+1678,Sherwin-Williams/Hilliards Creek,50.0,1746,-74.964977,39.835526
+1679,"Matteo & Sons, Inc.",50.0,1747,-75.168306,39.854721999999995
+1680,Ringwood Mines/Landfill,52.58,1750,-74.2725,41.136669
+1681,"Curtis Specialty Papers, Inc.",50.0,1780,-75.089842,40.561758000000005
+1682,Raritan Bay Slag,50.0,1793,-74.25801700000001,40.464589000000004
+1683,Mansfield Trail Dump,50.0,1822,-74.69959990000001,40.9289443
+1684,Garfield Ground Water Contamination,0.0,1831,-74.106431,40.871858
+1685,Orange Valley Regional Ground Water Contamination,50.0,1857,-74.225267,40.779936
+1686,"Matlack, Inc.",45.54,1871,-75.32216899999999,39.763106
+1687,Riverside Industrial Park,50.0,1872,-74.159084,40.765722
+1688,Pierson's Creek,47.99,1888,-74.1452,40.7163
+1689,Unimatic Manufacturing Corporation,50.0,1889,-74.269155,40.878792
+1690,Former Kil-Tone Company,65.29,1906,-75.02548900000001,39.47841
+1691,AT & SF (Clovis),33.62,763,-103.2117,34.378331
+1692,Homestake Mining Co.,34.21,764,-107.8633,35.243331
+1693,South Valley,0.0,765,-106.6411,35.0441
+1694,United Nuclear Corp.,30.36,766,-108.5,35.643330999999996
+1695,Cimarron Mining Corp.,38.93,767,-105.8647,33.643469
+1696,Prewitt Abandoned Refinery,44.24,768,-108.0348,35.3596
+1697,Lee Acres Landfill (USDOI),39.37,769,-108.0921,36.7111
+1698,Cal West Metals (USSBA),59.37,1120,-106.9201,34.163331
+1699,Cleveland Mill,40.37,1122,-108.2558,32.8626
+1700,Pagano Salvage,35.57,1201,-106.7205,34.7896
+1701,AT&SF (Albuquerque),50.0,1353,-106.65527800000001,35.033333
+1702,North Railroad Avenue Plume,50.0,1518,-106.08138400000001,35.9914
+1703,Fruit Avenue Plume,50.0,1570,-106.640611,35.086444
+1704,Griggs & Walnut Ground Water Plume,50.0,1630,-106.76,32.315556
+1705,McGaffey and Main Groundwater Plume,50.0,1657,-104.518722,33.379792
+1706,Grants Chlorinated Solvents Plume,50.0,1715,-107.84388899999999,35.155778000000005
+1707,Eagle Picher Carefree Battery,50.0,1758,-106.90123899999999,34.099517
+1708,Chevron Questa Mine,50.0,1841,-105.49770600000001,36.700294
+1709,Jackpile-Paguate Uranium Mine,50.0,1865,-107.347372,35.133728000000005
+1710,Lea and West Second Street,50.0,1910,-104.529951,33.394079
+1711,Carson River Mercury Site,39.07,1274,-119.5892,39.23195
+1712,Anaconda Copper Mine,50.0,1921,-119.187067,38.990272
+1713,UGI Columbia Gas Plant,50.78,1394,-76.498389,40.026207
+1714,Navy Ships Parts Control Center,50.0,1411,-76.99361,40.223888
+1715,East Tenth Street,67.68,1412,-75.412222,39.819443
+1716,Butler Mine Tunnel,49.51,1414,-75.7899,41.3268
+1717,Willow Grove Naval Air and Air Reserve Station,50.0,1434,-75.1475,40.19222
+1718,"Breslube-Penn, Inc",50.0,1456,-80.146389,40.501389
+1719,Salford Quarry,50.0,1490,-75.382222,40.251944
+1720,Sharon Steel Corp (Farrell Works Disposal Area) ,50.0,1502,-80.510278,41.198611
+1721,Old Wilmington Road Ground Water Contamination,50.0,1564,-75.908333,39.995833000000005
+1722,Lower Darby Creek Area,50.0,1592,-75.267778,39.885556
+1723,Valmont TCE,43.16,1632,-76.015556,40.967778
+1724,Watson Johnson Landfill,70.71,1633,-75.331861,40.460139
+1725,Franklin Slag Pile (MDC),50.2,1644,-75.083889,39.983194
+1726,Letterkenny Army Depot (PDO Area),37.51,1686,-77.64,40.0075
+1727,Paoli Rail Yard,32.18,1687,-75.492919,40.043189
+1728,Ryeland Road Arsenic,60.3,1709,-76.175361,40.35395
+1729,Price Battery,37.86,1723,-75.980228,40.549507
+1730,Safety Light Corporation,70.71,1724,-76.376389,41.015278
+1731,Jackson Ceramix,30.22,1735,-78.80194399999999,41.139167
+1732,Chem-Fab,50.0,1769,-75.136003,40.315958
+1733,BoRit Asbestos,50.0,1781,-75.228625,40.153472
+1734,Foster Wheeler Energy Corporation/Church Road TCE,50.0,1794,-75.878056,41.133055999999996
+1735,Metro Container Corporation,50.0,1852,-75.399047,39.824981
+1736,Baghurst Drive,50.0,1895,-75.45513299999999,40.299483
+1737,Barceloneta Landfill,41.11,239,-66.547781,18.41055
+1738,Frontera Creek,43.07,240,-65.79028100000001,18.15195
+1739,GE Wiring Devices,31.24,241,-66.508889,18.059439
+1740,Juncos Landfill,32.57,242,-65.9087,18.2232
+1741,RCA Del Caribe,31.14,243,-66.580561,18.43
+1742,Vega Alta Public Supply Wells,42.24,244,-66.330281,18.418060999999998
+1743,Upjohn Facility,41.92,245,-66.5901,18.4292
+1744,Fibers Public Supply Wells,35.34,246,-66.1461,17.9632
+1745,Naval Security Group Activity,34.28,1028,-66.190281,18.433061
+1746,V&M/Albaladejo,50.0,1479,-66.38,18.41
+1747,Vega Baja Solid Waste Disposal,50.37,1548,-66.38972199999999,18.434306
+1748,"Scorpio Recycling, Inc.",50.0,1575,-66.231944,18.409167
+1749,Pesticide Warehouse III,50.0,1668,-66.458,18.429139000000003
+1750,Cidra Ground Water Contamination,50.0,1712,-66.16194399999999,18.175276999999998
+1751,Atlantic Fleet Weapons Training Area - Vieques,0.0,1719,-65.3106,18.13058
+1752,Pesticide Warehouse I,50.0,1733,-66.6,18.435556
+1753,Maunabo Area Ground Water Contamination,50.0,1748,-65.90141700000001,18.005611
+1754,San German Ground Water Contamination,50.0,1770,-67.035306,18.084472
+1755,"Papelera Puertorriquena, Inc.",34.69,1792,-66.694908,18.265194
+1756,Cabo Rojo Ground Water Contamination,50.0,1823,-67.148325,18.090725
+1757,Hormigas Ground Water Plume,50.0,1824,-66.101,18.2206
+1758,Corozal Well,50.0,1853,-66.286206,18.295710999999997
+1759,Dorado Ground Water Contamination,50.0,1918,-66.27832042,18.42975602
+1760,The Battery Recycling Company,56.66,1925,-66.694097,18.453603
+1761,PROTECO,36.33,1944,-66.7003,18.0152
+1762,Davis (GSR) Landfill,38.89,53,-71.588111,41.917469
+1763,Davis Liquid Waste,47.25,54,-71.57776899999999,41.922219
+1764,"Stamina Mills, Inc.",34.07,55,-71.5647,41.9964
+1765,"Landfill & Resource Recovery, Inc. (L&RR)",49.58,56,-71.589,41.9795
+1766,"Peterson/Puritan, Inc.",40.1,57,-71.4268,41.929581
+1767,Picillo Farm,0.0,58,-71.70916899999999,41.671669
+1768,Western Sand & Gravel,51.35,59,-71.595,41.9727
+1769,Central Landfill,46.71,60,-71.534719,41.808331
+1770,Rose Hill Regional Landfill,38.11,1212,-71.49166899999999,41.470831
+1771,Davisville Naval Construction Battalion Center,34.52,1259,-71.47421999999999,41.6095
+1772,Newport Naval Education/Training Center,32.25,1270,-71.29346899999999,41.56445
+1773,West Kingston Town Dump/URI Disposal Area,50.0,1312,-71.535278,41.496666999999995
+1774,Centredale Manor Restoration Project,70.71,1572,-71.48725,41.857667
+1775,"Carolawn, Inc.",32.04,474,-80.94305,34.686111
+1776,SCRDI Bluff Road,0.0,475,-80.90875,33.885419
+1777,SCRDI Dixiana,40.7,476,-81.063889,33.90445
+1778,Geiger (C & M Oil),32.25,477,-80.159161,32.773610999999995
+1779,"Leonard Chemical Co., Inc.",47.1,478,-80.904169,34.851669
+1780,Independent Nail Co.,57.9,479,-80.741111,32.466389
+1781,Kalama Specialty Chemicals,57.9,480,-80.7401,32.4734
+1782,"Koppers Co., Inc. (Florence Plant)",51.27,481,-79.7229,34.2022
+1783,Palmetto Wood Preserving,38.43,482,-81.060281,33.920831
+1784,"Wamchem, Inc.",47.7,483,-80.74166899999999,32.497219
+1785,Rochester Property,36.72,484,-82.5015,34.9719
+1786,Medley Farm Drum Dump,31.58,485,-81.6685,34.9805
+1787,"Sangamo Weston, Inc./Twelve-Mile Creek/Lake Hartwell PCB Contamination",37.63,486,-82.7232,34.895
+1788,"Palmetto Recycling, Inc.",29.46,487,-81.0117,34.1228
+1789,Golden Strip Septic Tank Service,40.3,488,-82.2466,34.785
+1790,Rock Hill Chemical Co.,40.29,1092,-80.9985,34.9661
+1791,Helena Chemical Co. Landfill,33.89,1093,-81.23899999999999,32.9412
+1792,"Para-Chem Southern, Inc.",32.94,1101,-82.23299999999999,34.7134
+1793,Lexington County Landfill Area,37.93,1155,-81.074169,33.919581
+1794,Elmore Waste Disposal,31.45,1159,-82.216599,34.935905
+1795,Townsend Saw Chain Co.,35.94,1160,-80.83416899999999,34.10625
+1796,Beaunit Corp. (Circular Knit & Dye),32.44,1161,-82.216111,34.698060999999996
+1797,Savannah River Site (USDOE),47.7,1242,-81.73778100000001,33.348889
+1798,"Koppers Co., Inc. (Charleston Plant)",50.0,1329,-79.958333,32.822083
+1799,Aqua-Tech Environmental Inc. (Groce Laboratories),50.0,1438,-82.1725,34.9328
+1800,Parris Island Marine Corps Recruit Depot,50.0,1443,-80.7031,32.3528
+1801,Shuron Inc.,68.26,1472,-81.375778,33.236694
+1802,Macalloy Corporation,50.0,1577,-79.951194,32.838056
+1803,Brewer Gold Mine,50.0,1725,-80.411472,34.652194
+1804,Barite Hill/Nevada Goldfields,50.0,1784,-82.30067,33.873090000000005
+1805,US Finishing/Cone Mills,50.0,1835,-82.426303,34.883292
+1806,Burlington Industries Cheraw,48.0,1934,-79.912786,34.698689
+1807,Clearwater Finishing,47.99,1955,-81.89213000000001,33.500907
+1808,Whitewood Creek,0.0,879,-103.7615,44.3553
+1809,Ellsworth Air Force Base,33.62,1271,-103.0958,44.148061

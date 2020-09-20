@@ -11,115 +11,34 @@ pageFlood = urlopen(urlFlooding) #returns an HTTPResponse object
 html_bytes = pageFlood.read()
 html = html_bytes.decode("utf-8")
 
-#TOXIC WASTE WEBSITE INFO
-urlToxic = ""
+locationData = pd.read_csv("zipcode.csv")
 
-# re.findall("ab*c", "abcd")
+def coordinate(zipcode):
+    for row in locationData:
+        if row[0] = zipcode:
+            latitude = row['Latitude']
+            longitude = row['Longitude']
+    return [latitutde, longitude]
+    
 
-def scrape_conversionWebsite(zipcode):
-    # pageFlood = urlopen("https://public.opendatasoft.com/explore/dataset/us-zip-code-latitude-and-longitude/table/?q=" + zipcode)
-    # tml_bytes = pageFlood.read()
-    # html = html_bytes.decode("utf-8")
-    page = requests.get("https://public.opendatasoft.com/explore/dataset/us-zip-code-latitude-and-longitude/table/?q=" + zipcode)
+def plant_scrape(zipcode):
+    page = requests.get("https://www.nwf.org/NativePlantFinder/Plants/Flowers-and-Grasses/q=" + zipcode)
     html = BeautifulSoup(page.content, 'html.parser')
     words = []
     for text in html:
-        words.append(text.split())
+        words += str(text).split()
+#https://public.opendatasoft.com/explore/dataset/us-zip-code-latitude-and-longitude/table/?q=45693
+    # print(len(words))
+    [print(word) for word in words if word[:10] == 'class="tile"']
+    # [print(word) for word in words if word[:7] == 'title="']
     # print(html)
     # print(re.findall("<span", html))
-    options = html.find_all(string=lambda text: text != None)
+    # options = html.find_all(string=lambda text: text != None)
     # options = html.find_all(string=lambda text: bool(re.match("^[-+]?\d+(\.\d+)?$", str(text))))
-    [print(option) for option in options]
+    # [print(option) for option in options]
 
+plant_scrape("94560")
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-scrape_conversionWebsite("94602")
+def disaster_scrape():
+    url = "http://www.usa.com/94602-ca-natural-disasters-extremes.htm"

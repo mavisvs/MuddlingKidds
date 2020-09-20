@@ -9,7 +9,7 @@
     
     <body scroll="no" style="overflow: hidden">
     
-    <img src="/forest.jpeg" class="page-center background-img">
+    <img src="../templates/forest.jpeg" class="page-center background-img">
         
     <div class="page-center">
         <h1 id="title" class="text-center">Welcome to Homer</h1>
@@ -20,10 +20,11 @@
             //     window.open(link);
             // }
         </script>
-        <form action="/results" class="text-center">
+        <form action="/results" method= "post" class="text-center">
             <!--zipcode should be limited to 5 numbers for best results -->
-            <input type="text" id="fzip" name="zip" size = "30" pattern="^[0-9]{5}(?:-[0-9]{4})?$"><br><br>
-            <input type="submit" class="green-button" value="SUBMIT">
+ 
+            Zipcode: <input type="text" id="fzip" name="zip" size = "30" pattern="^[0-9]{5}(?:-[0-9]{4})?$"><br><br>
+            <input onclick="getAQI()" type="submit" class="green-button" value="SUBMIT">
         </form>
     </div>
 

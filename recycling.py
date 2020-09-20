@@ -1,11 +1,18 @@
 #how many recycling centers within 10 miles are at some zipcode
 from urllib.request import urlopen
 import re
+from flask import Flask, render_template, request
 
-
+app = Flask(__name__)
 
 ourUrl = "https://search.earth911.com/?what=CFLs%2C+desktop+computers%2C+cell+phones%2C+etc...&where="
-ourUrl += "91701" #TODO: Switch to an actual variable
+
+#@app.route('/results', method="post") #route action, then method
+#zipcode = request.form['zip']
+@app.route('/results', methods=['post'])
+zipcode = request.form["zip"]
+ourUrl += zipcode
+#TODO: Switch to an actual variable
 ourUrl += "&list_filter=all&max_distance=10&family_id=&latitude=&longitude=&country=&province=&city=&sponsor="
 
 pageRecycle = urlopen(ourUrl) #returns an HTTPResponse object
@@ -21,4 +28,5 @@ print(numResults)
 #get number of occurrences of the substring
 #in the string
 #occurrences = data.count("python")
-
+### @app.route('/hello', methods=['POST'])
+##first_name = request.form['first_name']
