@@ -19,17 +19,9 @@ def results():
     global carbonPPM
     global naturalDisastors
     # scrape()
-    
-    return render_template("results.html", data={"natDis":naturalDisastors, "waste":wasteLocation, "AQI":AQI, "carbon":carbonPPM})
-
-@app.route("/getData", methods = ["POST"])
-def getData():
-    global wasteLocation
-    global AQI
-    global carbonPPM
-    global naturalDisastors
-    if request.method == "POST":
-        jsdata=request.json()
-        AQI = jsdata["data"][0]["aqi"]
-    return redirect("/results")
-
+    naturalDisastors = ["list", "here"]
+    wasteLocation = "amani"
+    AQI = "was"
+    carbonPPM = "here"
+    zipcode = request.forms.get('zip')
+    return render_template("results.html", data={"zip":zipcode, "natDis":naturalDisastors, "waste":wasteLocation, "AQI":AQI, "carbon":carbonPPM})

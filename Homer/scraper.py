@@ -11,17 +11,19 @@ app = Flask(__name__)
 
 
 
-@app.route('/results', method="post")
+@app.route('/results', methods=["GET"])
 def getZip():
     global zipcode
-    zipcode = request.forms.get('zip')
+    zipcode = request.args.get('zip')
+    return zipcode
+    
 #FLOODING WEBSITE INFO
 urlFlooding = "https://coast.noaa.gov/slr/#/layer/sce/0/-11581024.663779823/5095888.569004184/4/satellite/88/0.8/2050/interHigh/midAccretion"
 pageFlood = urlopen(urlFlooding) #returns an HTTPResponse object
 html_bytes = pageFlood.read()
 html = html_bytes.decode("utf-8")
 
-locationData = pd.read_csv("zipcode.csv")
+# locationData = pd.read_csv("zipcode.csv")
 
 def coordinate(zipcode):
     for row in locationData:
@@ -34,20 +36,18 @@ def coordinate(zipcode):
 def plant_scrape(zipcode):
     page = requests.get("https://www.nwf.org/NativePlantFinder/Plants/Flowers-and-Grasses/q=" + zipcode)
     html = BeautifulSoup(page.content, 'html.parser')
-    words = []
+    words = ""
     for text in html:
-        words += str(text).split()
-#https://public.opendatasoft.com/explore/dataset/us-zip-code-latitude-and-longitude/table/?q=45693
-    # print(len(words))
-    [print(word) for word in words if word[:10] == 'class = "commonName"']
-    # [print(word) for word in words if word[:7] == 'title="']
-    # print(html)
-    # print(re.findall("<span", html))
-    # options = html.find_all(string=lambda text: text != None)
-    # options = html.find_all(string=lambda text: bool(re.match("^[-+]?\d+(\.\d+)?$", str(text))))
-    # [print(option) for option in options]
-
-plant_scrape("94560")
+        words += str(text)
+    print(words)
+    end = len('commonName')
+    for start in range(len(words) - end):
+        if words[start:start+end] == "commonName":
+            print(words[start:start+end+20])
+    
+    
+    # tag --> 
+print(plant_scrape(zipcode))
 
 
 

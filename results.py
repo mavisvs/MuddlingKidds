@@ -3,6 +3,7 @@
 import toxic.py
 import scraper.py
 import views.py
+import recycling.py
 
 def final_results():
     return 0
