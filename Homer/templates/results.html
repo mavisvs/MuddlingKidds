@@ -15,7 +15,15 @@
                 const aqiLabel = document.getElementById("aqi-label");
                 let aqi = res["data"][0]["aqi"];
                 aqiLabel.append(aqi);
+                let city = res["city_name"]
+                let state = res["state_code"]
+                const locLabel = document.getElementById("location");
+                locLabel.innerHTML = city+", "+state;
             });</script>
+
+        <script>console.log("Finding Native Plants")
+        </script>
+
     </head>
     
     <body id= "results-body" style = "background-color: #ffffcc;">
@@ -25,7 +33,7 @@
             <input type="submit" value="Return to Search">
         </form> -->
 
-        
+        <h1 id="location"></h1>
         <h1>Prevalent Natural Disasters</h1>
             <p>{{data["natDis"][0]}}{% for disaster in data["natDis"][1:] %}, {{disaster}}{% endfor %}</p>
         <h1>Health Hazards</h1>
@@ -33,7 +41,8 @@
             <!-- include default messages depending on AQI value-->
             <h2 class= "spacing">Local Toxic Waste: {{data["waste"]}}</h2>
             <p></p>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2> 
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
+            <p></p>
             <h2 class="spacing">Carbon ppm: {{data["carbon"]}}</h2>
             <p></p>
     
