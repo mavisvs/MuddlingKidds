@@ -14,5 +14,5 @@ def results():
     wasteLocation = "amani"
     AQI = "was"
     carbonPPM = "here"
-    zipcode = request.forms.get('zip')
+    zipcode = request.args.get('zip')
     return render_template("results.html", data={"zip":zipcode, "natDis":naturalDisastors, "waste":wasteLocation, "AQI":AQI, "carbon":carbonPPM})

@@ -43,7 +43,7 @@ def plant_scrape(zipcode):
 
 print(plant_scrape(zipcode))
 
-    '''words = ""
+'''words = ""
     for text in html:
         words += str(text)
     words.replace("\n"," ")
@@ -70,10 +70,32 @@ def disaster_scrape():
     for text in html:
         words += str(text)
     words.replace("\n"," ")
-    target = '<div id="sb1"'
+    targets = ['EarthquakeIndex', 'VolcanoIndex', 'TornadoIndex']
+    return [find_disaster_index(target, words) for target in targets]
+    
+
+def find_disaster_index(target, words):
     end = len(target)
     for start in range(len(words) - end):
         if words[start:start+end] == target:
-            print(words[start:start+end+50])
+            disaster_section = words[start:start+end+500]
+            try: 
+                start = disaster_section.index("</div") + 7
+                d_zip_num = disaster_section[start:start+10]
+                c_zip_num = re.sub(r'[^\d.]+','', d_zip_num)
+                
+                next_sect = disaster_section[start+10:]
+                start = next_sect.index("</div") + 7
+                d_state_num = next_sect[start:start+10]
+                c_state_num = re.sub(r'[^\d.]+','', d_state_num)
 
-disaster_scrape()
+                next_sect = next_sect[start+10:]
+                start = next_sect.index("</div") + 7
+                d_us_num = next_sect[start:start+10]
+                c_us_num = re.sub(r'[^\d.]+','', d_us_num)
+
+                return [c_zip_num, c_state_num, c_us_num]
+            except:
+                ...
+    return ['N/A']*3
+
