@@ -1,22 +1,19 @@
 #Save the name, coordinates, site score, and site url
-import pandas as pd
-import numpy as np
-import Homer
-from Homer.scraper import coordinate
-from Homer.scraper import locationData
-import Homer
-from flask import Flask, render_template, request
-zipcode = ""
-app = Flask(__name__)
+# import pandas as pd
+# import numpy as np
+# from Homer import app
+# from Homer.scraper import coordinate
+# from Homer.scraper import locationData
+# zipcode = ""
 
 # from scraper import scrape_conversionWebsite
 
-zipcode = Homer.getZip() 
+# zipcode = app.getZip() 
 
 # Importing superfund site list 
 # OldToxicData = pd.read_csv("toxic.csv")
 
-toxicData = pd.read_csv("short-toxic.csv")
+
 # Cleaning up data accordingly
 
 # dropCols = ['X', 'Y', 'FID', 'OBJECTID',
@@ -42,16 +39,16 @@ toxicData = pd.read_csv("short-toxic.csv")
 
 # Searching for local superfund sites 
 
-def toxicSites(zipcode, results):
-    sites = []
-    latitude = coordinate(zipcode)[0]
-    longitude = coordinate(zipcode)[1] 
-    lat = locationData['Latitude'] == latitude
-    lon = locationData['Longitude'] == longitude
-    localSites = lat[toxicData]
-    localSites = lon[toxicData]
-    for name in results["Site_Name"]:
-        sites.append(name)
-    return sites
+# def toxicSites(zipcode, results):
+#     sites = []
+#     latitude = coordinate(zipcode)[0]
+#     longitude = coordinate(zipcode)[1] 
+#     lat = locationData['Latitude'] == latitude
+#     lon = locationData['Longitude'] == longitude
+#     localSites = lat[toxicData]
+#     localSites = lon[toxicData]
+#     for name in results["Site_Name"]:
+#         sites.append(name)
+#     return sites
 
-print(toxicSites(zipcode, toxicData))
+# print(toxicSites(zipcode, toxicData))

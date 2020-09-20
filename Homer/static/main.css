@@ -26,11 +26,15 @@
 }
 
 
-.spacing {
-    text-indent: 12px;
+.result-text {
+    text-align: center;
     margin: 20px;
     font: "Palatino Linotype";
+}
 
+.result-text-header {
+    text-align: center;
+    font: "Palatino Linotype";
 }
 
 .background-img {

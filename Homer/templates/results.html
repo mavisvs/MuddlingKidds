@@ -6,8 +6,6 @@
         <link rel="stylesheet" href="../static/main.css">
         <link rel="extraStuff1" href="../static/main.js">
         <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-        <!-- <script src="../static/script.js"></script> -->
-        <!-- <script src="../static/api.js"></script> -->
         <script>console.log("Finding AQI")
             fetch("https://api.weatherbit.io/v2.0/current?&postal_code="+document.location.href.split('?')[1]+"&country=US&key=9b56e1214a514320bd53f194caeec05f")
             .then(res =>  res.json())
@@ -39,11 +37,6 @@
                     aqiLabel.append(" (Very bad)")
                 }
             });</script>
-            });</script>
-            });</script>
-
-        <script>console.log("Finding Native Plants")
-        </script>
 
     </head>
     
@@ -54,56 +47,34 @@
             <input type="submit" value="Return to Search">
         </form> -->
 
-        <h1 id="location"></h1>
-        <h1>Prevalent Natural Disasters</h1>
-            <p>{{data["natDis"][0]}}{% for disaster in data["natDis"][1:] %}, {{disaster}}{% endfor %}</p>
-        <h1>Health Hazards</h1>
-            <!-- Includes local toxic waste sites, seasonal AQI info, the carbon ppm -->
-            <!-- include default messages depending on AQI value-->
-            <h2 class= "spacing">Local Toxic Waste: </h2>
-            <p>{{data["waste"][0], {% for site in {{data["waste"][1:]}} %}, {{site}}{% endfor %}</p>
- s            <p></p>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
-            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
+        <h1 class = "result-text" id="location"></h1>
+        <h1 class = "result-text-header">Prevalent Natural Disasters</h1>
+            <p class = "result-text">Earthquake Threat Level</p>
+            <p class = "result-text" id="disasterLabel">ZIP Code: {{data["natDis"][0][0]}}, State: {{data["natDis"][0][1]}}, USA: {{data["natDis"][0][2]}}</p>
+            <p class = "result-text">Volcano Threat Level</p>
+            <p class = "result-text" id="disasterLabel">ZIP Code: {{data["natDis"][1][0]}}, State: {{data["natDis"][1][1]}}, USA: {{data["natDis"][1][2]}}</p>
+            <p class = "result-text">Tornado Threat Level</p>
+            <p class = "result-text" id="disasterLabel">ZIP Code: {{data["natDis"][2][0]}}, State: {{data["natDis"][2][1]}}, USA: {{data["natDis"][2][2]}}</p>
+        <h1 class = "result-text-header">Local Toxic Waste: </h1>
+            <p class = "result-text" id="toxicLabel">{% if 5>=data["waste"]|length %}
+                {{data["waste"][0]}}{% for site in {{data["waste"][1:]}} %}, {{site}}{% endfor %}{% endif %}
+            {% if data["waste"]|length>5 %}{% for site in {{data["waste"]}} %}{{site}}, {% endfor %}and more...{% endif %}</p> 
             <p></p>
-            <h2 class="spacing">Carbon ppm: {{data["carbon"]}}</h2>
+        <h1 cclass = "result-text" id="aqi-label">Air Quality Index (AQI): </h1>
             <p></p>
     
-        <h1>School Information</h1>
-        <p></p>
+        <h1 class = "result-text-header">Number of Nearby Recycling Plants:</h1>
+        {% for key in {{data["recycle"]}}
+        <p class = "result-text-header"> {{key}}: {{data["recycle"]["key"]</p>
+        {% endfor %}
 
     
-        <h1>Sustainability Information</h1>
+        <h1 class = "result-text-header">Sustainability</h1>
         <!--includes info on the region's average carbon emissions,
         local recycling centers, and how to be more sus at this home -->
-        <p></p>
+        <p>Interested in leading a more sustainable life?\
+            Check out <a href="/susTips">these tips</a>
+        </p>
 
     </body>
 

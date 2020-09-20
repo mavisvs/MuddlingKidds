@@ -24,27 +24,25 @@ html_bytes = pageFlood.read()
 html = html_bytes.decode("utf-8")
 
 
-locationData = pd.read_csv("zipcode.csv")
+locationData = pd.read_csv("Homer/static/zipcode.csv")
 
 def coordinate(zipcode):
-    for row in locationData:
-        if row[0] == zipcode:
-            latitude = row['Latitude']
-            longitude = row['Longitude']
-    return [latitude, longitude]
-    
+    notfirst = False
+    for i, row in locationData.iterrows():
+        zipc = str(row[0])
+        zipc = zipc.replace(".", "")[:-1]
+        zipc = (5-len(zipc))*"0" + zipc
+        if zipc == zipcode:
+            latitude = row['LAT']
+            longitude = row['LNG']
+            return [latitude, longitude]
+    return [10**10,10**10]
 
-def plant_scrape(zipcode):
-    page = requests.get("https://www.nwf.org/NativePlantFinder/Plants/Flowers-and-Grasses/q=" + zipcode)
-    html = BeautifulSoup(page.content, 'html.parser')
-    print(html)
-    # can loop through the children with beautiful soup
-    # may be a good idea to print out what html looks like
-    # call html.findall(i.e. the second div class)
-
-# print(plant_scrape(zipcode))
-
-# request.headers.get("location")
-
-
-
+df = pd.read_csv('Homer/static/zipsandstates.csv')
+to_drop = {'lat','lng','city','state_name',
+            'zcta','parent_zcta','population','density',
+            'county_fips','county_name','county_weights',
+            'county_names_all','county_fips_all','imprecise',
+            'military','timezone'
+            }
+states = df.drop(to_drop, axis = 1, inplace = True)
