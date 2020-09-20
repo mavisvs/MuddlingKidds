@@ -15,7 +15,7 @@ def index():
 @app.route("/results", methods = ["GET", "POST"])
 def results():
     global wasteLocation
-    global AQI
+    global AQI    
     global carbonPPM
     global naturalDisastors
     # scrape()

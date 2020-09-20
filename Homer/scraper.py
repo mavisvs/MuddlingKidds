@@ -41,23 +41,7 @@ def plant_scrape(zipcode):
     # may be a good idea to print out what html looks like
     # call html.findall(i.e. the second div class)
 
-print(plant_scrape(zipcode))
-
-'''words = ""
-    for text in html:
-        words += str(text)
-    words.replace("\n"," ")
-    # print(words)
-    end = len('<span class="')
-    for start in range(len(words) - end):
-        if words[start:start+end] == '<span class="':
-            print(words[start:start+end+20])
-    # <span class="commonName">lupine</span>
-    
-    # tag --> 
 # print(plant_scrape(zipcode))
-
-'''
 
 # request.headers.get("location")
 

@@ -49,3 +49,5 @@ fetch("https://api.weatherbit.io/v2.0/current/airquality?&postal_code="+document
     const aqiLabel = document.getElementById("aqi-label");
     aqiLabel.innerHTML = res["data"][0]["aqi"];
 });
+   }
+
