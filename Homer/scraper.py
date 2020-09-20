@@ -11,7 +11,7 @@ app = Flask(__name__)
 
 
 
-@app.route('/results', method="post")
+@app.route('/results', methods=["POST"])
 def getZip():
     global zipcode
     zipcode = request.forms.get('zip')

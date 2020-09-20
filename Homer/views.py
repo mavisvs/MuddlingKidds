@@ -10,12 +10,8 @@ def index():
 @app.route("/results", methods = ["GET", "POST"])
 def results():
     # scrape()
-    print(request.form)
-    AQI = "was"
-    if request.method == "POST":
-        jsdata=request.form["aqi"]
-        AQI = jsdata["data"][0]["aqi"]
     naturalDisastors = ["list", "here"]
     wasteLocation = "amani"
+    AQI = "was"
     carbonPPM = "here"
     return render_template("results.html", data={"natDis":naturalDisastors, "waste":wasteLocation, "AQI":AQI, "carbon":carbonPPM})
