@@ -10,12 +10,23 @@
 //    });
 //}
 
-function getAQI() {
-    var zip = document.location.href.split('?')[1];
-    fetch("https://api.weatherbit.io/v2.0/current/airquality?&postal_code="+zip+"&country=US&key=9b56e1214a514320bd53f194caeec05f")
-    .then(res => res.json()).then(function(res) {
-        $post("/results", {aqi:res});
-    });
+//function getAQI() {
+//    var zip = document.location.href.split('?')[1];
+//    fetch("https://api.weatherbit.io/v2.0/current/airquality?&postal_code="+zip+"&country=US&key=9b56e1214a514320bd53f194caeec05f")
+//    .then(res => res.json()).then(function(res) {
+//        $ajax({
+//            type: "POST",
+//            url: "/getData",
+//            contentType: "application/json",
+//            data: res,
+//            dataType: "json",
+//            success: function(response) {
+//                console.log(response);
+//            }
+//        })
+//    });
+
+
     //.then(res => res.json())
     //.then(res => {
         //const div = document.getElementById("AQI-div");
@@ -28,15 +39,13 @@ function getAQI() {
     //    $.post("/results", {
 
         //})
-    }
+//    }
 
 
-
-//window.onload = function() { 
-
-
-
-//window.onload = function() { 
-//    const catButton = document.getElementById("cat-button");
-//    catButton.onclick = getCat;
-//}
+console.log("Test")
+fetch("https://api.weatherbit.io/v2.0/current/airquality?&postal_code="+document.location.href.split('?')[1]+"&country=US&key=9b56e1214a514320bd53f194caeec05f")
+.then(res => res.json())
+.then(res=> {
+    const aqiLabel = document.getElementById("aqi-label");
+    aqiLabel.innerHTML = res["data"][0]["aqi"];
+});

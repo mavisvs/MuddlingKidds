@@ -3,12 +3,21 @@ from Homer import app#, db
 from flask import render_template, request, redirect
 # from Homer.models import Fact
 
+wasteLocation = "amani"
+AQI = "was"
+carbonPPM = "here"
+naturalDisastors = ["list", "here"]
+
 @app.route("/")
 def index():
     return render_template("index.html")
 
 @app.route("/results", methods = ["GET", "POST"])
 def results():
+    global wasteLocation
+    global AQI
+    global carbonPPM
+    global naturalDisastors
     # scrape()
     naturalDisastors = ["list", "here"]
     wasteLocation = "amani"
