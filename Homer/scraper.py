@@ -40,6 +40,9 @@ def plant_scrape(zipcode):
     # can loop through the children with beautiful soup
     # may be a good idea to print out what html looks like
     # call html.findall(i.e. the second div class)
+
+print(plant_scrape(zipcode))
+
     '''words = ""
     for text in html:
         words += str(text)
