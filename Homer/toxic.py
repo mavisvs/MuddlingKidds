@@ -16,9 +16,11 @@ def getZip():
     zipcode = request.forms.get('zip')
 
 # Importing superfund site list 
-OldToxicData = pd.read_csv("toxic.csv")
+# OldToxicData = pd.read_csv("toxic.csv")
 
+toxicData = pd.read_csv("short-toxic.csv")
 # Cleaning up data accordingly
+'''
 dropCols = ['X', 'Y', 'FID', 'OBJECTID',
             'Site_EPA_ID', 'SEMS_ID', 'Region_ID', 
             'State', 'City', 'County', 'Status', 
@@ -35,21 +37,22 @@ dropCols = ['X', 'Y', 'FID', 'OBJECTID',
             'Site_has_had_a_Partial_Deletion',
             'CreationDate', 'Creator', 'EditDate',
             'Editor']
+'''
+#toxicData = OldToxicData.drop(dropCols, inplace = True, axis = 1)
 
-toxicData = OldToxicData.drop(dropCols, inplace = True, axis = 1)
-
-OldToxicData.to_csv("short-toxic.csv")
+#OldToxicData.to_csv("short-toxic.csv")
 
 # Searching for local superfund sites 
 
 def toxicSites(zipcode):
+    sites = []
     latitude, longitude = coordinate(zipcode) 
     lat = locationData['Latitude'] == latitude
     lon = locationData['Longitude'] == longitude
-    localSites = lat[locationData]
-    localSites = long[locationData]
-    
-    return localSites
+    localSites = lat[toxicData]
+    localSites = long[toxicData]
+    for name in toxicData["Site_Name"]:
+        sites.append(name)
+    return sites
 
-
-print(localToxicData)
+print toxicSites(zipcode)
