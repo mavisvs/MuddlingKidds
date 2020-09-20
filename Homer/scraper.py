@@ -30,7 +30,7 @@ def plant_scrape(zipcode):
         words += str(text).split()
 #https://public.opendatasoft.com/explore/dataset/us-zip-code-latitude-and-longitude/table/?q=45693
     # print(len(words))
-    [print(word) for word in words if word[:10] == 'class="tile"']
+    [print(word) for word in words if word[:10] == 'class = "commonName"']
     # [print(word) for word in words if word[:7] == 'title="']
     # print(html)
     # print(re.findall("<span", html))
@@ -42,7 +42,6 @@ plant_scrape("94560")
 
 
 
-[35801]
 
 def disaster_scrape():
     zip_url = "https://www.unitedstateszipcodes.org/" + zipcode + "/"

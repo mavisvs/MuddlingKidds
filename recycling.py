@@ -2,7 +2,7 @@
 from urllib.request import urlopen
 import re
 from flask import Flask, render_template, request
-
+zipcode = ""
 app = Flask(__name__)
 
 ourUrl = "https://search.earth911.com/?what=CFLs%2C+desktop+computers%2C+cell+phones%2C+etc...&where="
@@ -10,8 +10,10 @@ ourUrl = "https://search.earth911.com/?what=CFLs%2C+desktop+computers%2C+cell+ph
 #@app.route('/results', method="post") #route action, then method
 #zipcode = request.form['zip']
 @app.route('/results', method="post")
-zipcode = request.form['zip']
-zipcode = request.forms.get('zip')
+##zipcode = request.form['zip']
+def getZip():
+    global zipcode
+    zipcode = request.forms.get('zip')
 ourUrl += zipcode
 #TODO: Switch to an actual variable
 ourUrl += "&list_filter=all&max_distance=10&family_id=&latitude=&longitude=&country=&province=&city=&sponsor="
