@@ -1,8 +1,9 @@
-#Save the name, coordinates, site score, and site url
+#Save the name, coordinates, site score, and site ur
+import Homer
 import pandas as pd
 import numpy as np
-from scraper import coordinates
-from scraper import locationData
+from Homer.scraper import coordinates
+from Homer.scraper import locationData
 from flask import Flask, render_template, request
 zipcode = ""
 app = Flask(__name__)
@@ -36,7 +37,7 @@ OldToxicData = pd.read_csv("toxic.csv")
 #             'CreationDate', 'Creator', 'EditDate',
 #             'Editor']
 
-toxicData = OldToxicData.drop(dropCols, inplace = True, axis = 1)
+#toxicData = OldToxicData.drop(dropCols, inplace = True, axis = 1)
 
 OldToxicData.to_csv("short-toxic.csv")
 

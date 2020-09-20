@@ -3,9 +3,9 @@ from Homer import app#, db
 from flask import render_template, request, redirect
 # from Homer.models import Fact
 import re
-import Homer
 from bs4 import BeautifulSoup
 import requests
+import Homer.toxic
 
 wasteLocation = "amani"
 AQI = "was"
@@ -23,18 +23,16 @@ def results():
     global carbonPPM
     # global naturalDisastors
     # scrape()
-    naturalDisastors = disaster_scrape()
-    wasteLocation = "amani"
+    zipcode = request.args.get('zip')
+    naturalDisastors = disaster_scrape(zipcode)
+    wasteLocation = Homer.toxic.toxicSites(zipcode)
     AQI = "was"
     carbonPPM = "here"
-    zipcode = request.args.get('zip')
     return render_template("results.html", data={"zip":zipcode, "natDis":naturalDisastors, "waste":wasteLocation, "AQI":AQI, "carbon":carbonPPM})
+ 
 
-def 
-
-def disaster_scrape():
-    # url = "http://www.usa.com/" + zipcode + "-" + statecode + "-natural-disasters-extremes.htm"
-    url = "http://www.usa.com/94602-ca-natural-disasters-extremes.htm"
+def disaster_scrape(zipcode="94602", statecode="ca"):
+    url = "http://www.usa.com/" + zipcode + "-" + statecode + "-natural-disasters-extremes.htm"
     page = requests.get(url)
     html = BeautifulSoup(page.content, 'html.parser')
     words = ""

@@ -38,10 +38,8 @@
                     aqiLabel.style.color = "purple";
                     aqiLabel.append(" (Very bad)")
                 }
-
-
-
-
+            });</script>
+            });</script>
             });</script>
 
         <script>console.log("Finding Native Plants")
@@ -62,8 +60,37 @@
         <h1>Health Hazards</h1>
             <!-- Includes local toxic waste sites, seasonal AQI info, the carbon ppm -->
             <!-- include default messages depending on AQI value-->
-            <h2 class= "spacing">Local Toxic Waste: {{data["waste"]}}</h2>
-            <p></p>
+            <h2 class= "spacing">Local Toxic Waste: </h2>
+            <p>{{data["waste"][0], {% for site in {{data["waste"][1:]}} %}, {{site}}{% endfor %}</p>
+ s            <p></p>
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
             <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2>
             <p></p>
             <h2 class="spacing">Carbon ppm: {{data["carbon"]}}</h2>
