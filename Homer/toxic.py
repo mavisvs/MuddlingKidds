@@ -6,6 +6,7 @@ from scraper import locationData
 import Homer
 
 # from scraper import scrape_conversionWebsite
+
 zipcode = Homer.getZip() 
 
 # Importing superfund site list 

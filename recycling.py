@@ -18,4 +18,4 @@ html_bytes = pageRecycle.read()
 html = html_bytes.decode("utf-8")
 
 numResults = html.count("result-item")
-#TODO: print(numResults)
+#TODO: make this thing pop up on webpage print("This zipcode has at least " + numResults + " recycling centers")
