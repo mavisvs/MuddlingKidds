@@ -10,7 +10,7 @@
         <!-- <script src="../static/api.js"></script> -->
         <script>console.log("Finding AQI")
             fetch("https://api.weatherbit.io/v2.0/current?&postal_code="+document.location.href.split('?')[1]+"&country=US&key=9b56e1214a514320bd53f194caeec05f")
-            .then(res => res.json())
+            .then(res =>  res.json())
             .then(res=> {
                 const aqiLabel = document.getElementById("aqi-label");
                 let aqi = res["data"][0]["aqi"];
@@ -20,15 +20,27 @@
                 const locLabel = document.getElementById("location");
                 locLabel.innerHTML = city+", "+state;
 
+                let aqiNum = parseInt(aqi);
+                if(aqiNum <= 50) {
+                    aqiLabel.style.color = "green";
+                    aqiLabel.append(" (Good)")
+                }
+                else if(aqiNum > 50 && aqiNum <= 100) {
+                    aqiLabel.style.color = "yellow";
+                    aqiLabel.style.textShadow = "5px 5px 1px #ff0000, 10px 10px 1px #0000ff";
+                    aqiLabel.append(" (Poor)")
+                }
+                else if(aqiNum > 100 && aqiNum <= 150) {
+                    aqiLabel.style.color = "red";
+                    aqiLabel.append(" (Bad)")
+                }
+                else {
+                    aqiLabel.style.color = "purple";
+                    aqiLabel.append(" (Very bad)")
+                }
 
-                // function goPython(){
-                //     $.ajax({
-                //     url: "MYSCRIPT.py",
-                //     context: document.body
-                //     }).done(function() {
-                //     alert('finished python script');;
-                //     });
-                // }
+
+
 
             });</script>
 

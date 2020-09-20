@@ -4,6 +4,9 @@ from flask import Flask, session, request
 from flask import Flask, render_template, request
 zipcode = ""
 app = Flask(__name__)
+import re
+from bs4 import BeautifulSoup
+import requests
 
 import Homer.views
 
@@ -12,3 +15,4 @@ def getZip():
     global zipcode
     zipcode = request.args.get('zip')
     return zipcode
+
