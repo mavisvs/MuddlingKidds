@@ -1,8 +1,8 @@
 #Save the name, coordinates, site score, and site url
 import pandas as pd
 import numpy as np
-from scraper.py import coordinates
-from scraper.py import locationData
+from scraper import coordinates
+from scraper import locationData
 from flask import Flask, render_template, request
 zipcode = ""
 app = Flask(__name__)

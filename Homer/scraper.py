@@ -5,7 +5,16 @@ from bs4 import BeautifulSoup
 import re
 import requests
 import pandas as pd
+from flask import Flask, render_template, request
+zipcode = ""
+app = Flask(__name__)
 
+
+
+@app.route('/results', method="post")
+def getZip():
+    global zipcode
+    zipcode = request.forms.get('zip')
 #FLOODING WEBSITE INFO
 urlFlooding = "https://coast.noaa.gov/slr/#/layer/sce/0/-11581024.663779823/5095888.569004184/4/satellite/88/0.8/2050/interHigh/midAccretion"
 pageFlood = urlopen(urlFlooding) #returns an HTTPResponse object
