@@ -8,9 +8,14 @@
         <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
         <!-- <script src="../static/script.js"></script> -->
         <!-- <script src="../static/api.js"></script> -->
-        <link rel="extraStuff2" href="../static/api.js">
-        <script type="text/javascript" src="{{
-            url_for('static', filename='../static/api.js') }}"></script>
+        <script>console.log("Finding AQI")
+            fetch("https://api.weatherbit.io/v2.0/current/airquality?&postal_code="+document.location.href.split('?')[1]+"&country=US&key=9b56e1214a514320bd53f194caeec05f")
+            .then(res => res.json())
+            .then(res=> {
+                const aqiLabel = document.getElementById("aqi-label");
+                let aqi = res["data"][0]["aqi"];
+                aqiLabel.append(aqi);
+            });</script>
     </head>
     
     <body id= "results-body" style = "background-color: #ffffcc;">
@@ -28,8 +33,7 @@
             <!-- include default messages depending on AQI value-->
             <h2 class= "spacing">Local Toxic Waste: {{data["waste"]}}</h2>
             <p></p>
-            <h2 class= "spacing">Seasonal AQI: {{data["AQI"]}}</h2> <div id="AQI-div"></div>
-            <p></p>
+            <h2 class= "spacing" id="aqi-label">Air Quality Index (AQI): </h2> 
             <h2 class="spacing">Carbon ppm: {{data["carbon"]}}</h2>
             <p></p>
     
