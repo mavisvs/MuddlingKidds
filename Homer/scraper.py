@@ -15,10 +15,10 @@ locationData = pd.read_csv("zipcode.csv")
 
 def coordinate(zipcode):
     for row in locationData:
-        if row[0] = zipcode:
+        if row[0] == zipcode:
             latitude = row['Latitude']
             longitude = row['Longitude']
-    return [latitutde, longitude]
+    return [latitude, longitude]
     
 
 def plant_scrape(zipcode):
@@ -39,6 +39,9 @@ def plant_scrape(zipcode):
 
 plant_scrape("94560")
 
+
+
+[35801]
 
 def disaster_scrape():
     url = "http://www.usa.com/94602-ca-natural-disasters-extremes.htm"
