@@ -10,7 +10,7 @@ import pandas as pd
 import numpy as np
 from Homer.scraper import coordinate
 from Homer.scraper import locationData
-from recycling import allNearbyCents
+from urllib.request import urlopen
 
 wasteLocation = "amani"
 AQI = "was"
@@ -29,8 +29,9 @@ def results():
     zipcode = request.args.get('zip')
     naturalDisastors = disaster_scrape(zipcode)
     wasteLocation = toxicSites(zipcode)
-    recycle = {"placeholderKey":0}
-    return render_template("results.html", data={"zip":zipcode, "natDis":naturalDisastors, "waste":wasteLocation, "recycle":recycle})
+    recycle = allNearbyCents(zipcode)
+    data={"zip":zipcode, "natDis":naturalDisastors, "waste":wasteLocation, "recycle":recycle}
+    return render_template("results.html", data=data)
     
 @app.route("/susTips")
 def susTips():
@@ -54,20 +55,27 @@ def toxicSites(zipcode):
     
     return sites
 
-states = pd.read_csv('')
+stateSheet = pd.read_csv('Homer/static/states.csv')
 
 def state_converter(zipcode):
-    zipc = states['zip'] == zipcode
-    state = states[zipc]
+    zipcode = zipcode.lstrip("0")
+    if not zipcode:
+        return None
+    zipc = (stateSheet['zip'] == int(zipcode))
+    state = stateSheet[zipc]
+    state_ID = state['state_id']
+    try:
+        return state_ID.iloc[0]
+    except:
+        print("State code not found")
+        return None
     
 
-
-def plant_scrape(zipcode):
+def disaster_scrape(zipcode):
     statecode = state_converter(zipcode)
-    url = 'https://www.wildflower.org/collections/collection.php?collection='+ str(statecode)
-    
-
-def disaster_scrape(zipcode="94602", statecode="ca"):
+    if not statecode:
+        return [['N/A']*3]*3
+    statecode = statecode.lower()
     url = "http://www.usa.com/" + zipcode + "-" + statecode + "-natural-disasters-extremes.htm"
     page = requests.get(url)
     html = BeautifulSoup(page.content, 'html.parser')
@@ -110,9 +118,19 @@ def allNearbyCents(zipcode):
     lithiumUrl = "https://search.earth911.com/?what=Lithium-ion+Batteries&where="
     lithiumUrl += zipcode
     lithiumUrl += "&list_filter=all&max_distance=5&family_id=&latitude=&longitude=&country=&province=&city=&sponsor="
-    
+    bottleUrl = "https://search.earth911.com/?what=%233+Plastic+Bottles&where=" + zipcode + "&list_filter=all&max_distance=5&family_id=&latitude=&longitude=&country=&province=&city=&sponsor="
+    leadUrl = "https://search.earth911.com/?what=Lead-acid+Batteries+-+Non-automotive&where=" + zipcode + "&list_filter=all&max_distance=5&family_id=&latitude=&longitude=&country=&province=&city=&sponsor="     
     lithiumMin = numOfCents(lithiumUrl)
+    # raise Exception(lithiumMin)
     bottleMin = numOfCents(bottleUrl)
     leadMin = numOfCents(leadUrl)
     recyclePlants = {"Lithium Ion Battery Return Centers": lithiumMin, "Plastic Bottle Recycling Centers": bottleMin, "Lead Battery Return Locations": leadMin}
     return recyclePlants
+
+
+def numOfCents(url): #function takes in url and gives out least number of places within 5 mile radius
+  pageRecycle = urlopen(url) #returns an HTTPResponse object
+  html_bytes = pageRecycle.read()
+  html = html_bytes.decode("utf-8")
+  numResults = html.count("result-item")
+  return numResults

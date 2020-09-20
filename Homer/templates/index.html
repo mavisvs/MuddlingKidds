@@ -12,18 +12,18 @@
     <img src="../static/forest.jpeg" class="page-center background-img">
         
     <div class="page-center">
-        <h1 id="title" class="text-center">Welcome to Homer</h1>
-        <h3 id="about-us" class="text-center">Search your ZIP Code below to find relevant information on environmental hazards, recycling options, and more!</h3>
+        <h1 class="white-color title text-center">Welcome to Homer</h1>
+        <h3 id="about-us" class="white-color text-center">Search your ZIP Code below to find relevant information on environmental hazards, recycling options, and more!</h3>
 
         <script>
             // function redirect(link) {
             //     window.open(link);
             // }
         </script>
-        <form action="/results" method= "get" class="text-center">
+        <form action="/results" method= "get" class="white-color text-center">
             <!--zipcode should be limited to 5 numbers for best results -->
  
-            Zipcode: <input type="text" id=
+            ZIP Code: <input type="text" id=
                 "fzip" name="zip" size = "30" pattern="^[0-9]{5}(?:-[0-9]{4})?$"><br><br>
             <input type="submit" class="green-button" value="SUBMIT">
         </form>

@@ -26,17 +26,51 @@ html = html_bytes.decode("utf-8")
 
 locationData = pd.read_csv("Homer/static/zipcode.csv")
 
+def formZip(zipc):
+    zipc = str(zipc)
+    zipc = zipc.replace(".", "")[:-1]
+    zipc = (5-len(zipc))*"0" + zipc
+    return zipc
+
 def coordinate(zipcode):
-    notfirst = False
-    for i, row in locationData.iterrows():
-        zipc = str(row[0])
-        zipc = zipc.replace(".", "")[:-1]
-        zipc = (5-len(zipc))*"0" + zipc
+
+    if int(zipcode) > 99929:
+        return [10**10,10**10]
+
+    min_i = 0
+    max_i = len(locationData.index) - 1
+    old_i = 0
+
+    while max_i > min_i:
+
+        new_i = (min_i + max_i)//2
+        if old_i == new_i:
+            break
+        else:
+            old_i = new_i
+
+        zipc, lat, lng = locationData.iloc[new_i]
+        zipc = formZip(zipc)
         if zipc == zipcode:
-            latitude = row['LAT']
-            longitude = row['LNG']
-            return [latitude, longitude]
+            return [lat, lng]
+        elif int(zipc) < int(zipcode):
+            min_i = new_i
+        else:
+            max_i = new_i
+       
     return [10**10,10**10]
+
+
+
+    # for i, row in locationData.iterrows():
+    #     zipc = str(row[0])
+    #     zipc = zipc.replace(".", "")[:-1]
+    #     zipc = (5-len(zipc))*"0" + zipc
+    #     if zipc == zipcode:
+    #         latitude = row['LAT']
+    #         longitude = row['LNG']
+    #         return [latitude, longitude]
+    # return [10**10,10**10]
 
 df = pd.read_csv('Homer/static/zipsandstates.csv')
 to_drop = {'lat','lng','city','state_name',

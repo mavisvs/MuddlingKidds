@@ -42,12 +42,12 @@
 //    }
 
 
-console.log("Test")
-fetch("https://api.weatherbit.io/v2.0/current/airquality?&postal_code="+document.location.href.split('?')[1]+"&country=US&key=9b56e1214a514320bd53f194caeec05f")
-.then(res => res.json())
-.then(res=> {
-    const aqiLabel = document.getElementById("aqi-label");
-    aqiLabel.innerHTML = res["data"][0]["aqi"];
-});
-   }
+// console.log("Test")
+// fetch("https://api.weatherbit.io/v2.0/current/airquality?&postal_code="+document.location.href.split('?')[1]+"&country=US&key=9b56e1214a514320bd53f194caeec05f")
+// .then(res => res.json())
+// .then(res=> {
+//     const aqiLabel = document.getElementById("aqi-label");
+//     aqiLabel.innerHTML = res["data"][0]["aqi"];
+// });
+//    }
 

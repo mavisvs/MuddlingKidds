@@ -12,7 +12,7 @@
             .then(res=> {
                 const aqiLabel = document.getElementById("aqi-label");
                 let aqi = res["data"][0]["aqi"];
-                aqiLabel.append(aqi);
+                aqiLabel.innerHTML = "Air Quality Index (AQI): "+aqi;
                 let city = res["data"][0]["city_name"]
                 let state = res["data"][0]["state_code"]
                 const locLabel = document.getElementById("location");
@@ -21,20 +21,20 @@
                 let aqiNum = parseInt(aqi);
                 if(aqiNum <= 50) {
                     aqiLabel.style.color = "green";
-                    aqiLabel.append(" (Good)")
+                    aqiLabel.append(" (Good)");
                 }
                 else if(aqiNum > 50 && aqiNum <= 100) {
                     aqiLabel.style.color = "yellow";
-                    aqiLabel.style.textShadow = "5px 5px 1px #ff0000, 10px 10px 1px #0000ff";
-                    aqiLabel.append(" (Poor)")
+                    aqiLabel.style.textShadow = "2px 2px 5px black";
+                    aqiLabel.append(" (Poor)");
                 }
                 else if(aqiNum > 100 && aqiNum <= 150) {
                     aqiLabel.style.color = "red";
-                    aqiLabel.append(" (Bad)")
+                    aqiLabel.append(" (Bad)");
                 }
                 else {
                     aqiLabel.style.color = "purple";
-                    aqiLabel.append(" (Very bad)")
+                    aqiLabel.append(" (Very bad)");
                 }
             });</script>
 
@@ -47,34 +47,38 @@
             <input type="submit" value="Return to Search">
         </form> -->
 
-        <h1 class = "result-text" id="location"></h1>
+        <div class = "page-center">
+        <h1 class = "title result-text" id="location">Unknown Region</h1>
         <h1 class = "result-text-header">Prevalent Natural Disasters</h1>
-            <p class = "result-text">Earthquake Threat Level</p>
+            <p class = "result-text-header">Earthquake Threat Level</p>
             <p class = "result-text" id="disasterLabel">ZIP Code: {{data["natDis"][0][0]}}, State: {{data["natDis"][0][1]}}, USA: {{data["natDis"][0][2]}}</p>
-            <p class = "result-text">Volcano Threat Level</p>
+            <p class = "result-text-header">Volcano Threat Level</p>
             <p class = "result-text" id="disasterLabel">ZIP Code: {{data["natDis"][1][0]}}, State: {{data["natDis"][1][1]}}, USA: {{data["natDis"][1][2]}}</p>
-            <p class = "result-text">Tornado Threat Level</p>
+            <p class = "result-text-header">Tornado Threat Level</p>
             <p class = "result-text" id="disasterLabel">ZIP Code: {{data["natDis"][2][0]}}, State: {{data["natDis"][2][1]}}, USA: {{data["natDis"][2][2]}}</p>
         <h1 class = "result-text-header">Local Toxic Waste: </h1>
-            <p class = "result-text" id="toxicLabel">{% if 5>=data["waste"]|length %}
-                {{data["waste"][0]}}{% for site in {{data["waste"][1:]}} %}, {{site}}{% endfor %}{% endif %}
-            {% if data["waste"]|length>5 %}{% for site in {{data["waste"]}} %}{{site}}, {% endfor %}and more...{% endif %}</p> 
+            <p class = "result-text" id="toxicLabel">
+                {% if data["waste"]|length == 0 %} None Nearby {% endif %}
+                {% if (5>=data["waste"]|length) and (data["waste"]|length != 0) %}{{data["waste"][0]}}{% for site in data["waste"][1:] %}, {{site}}{% endfor %}{% endif %}
+
+            {% if data["waste"]|length>5 %}{% for site in data["waste"] %}{{site}}, {% endfor %}and more...{% endif %}</p> 
             <p></p>
-        <h1 cclass = "result-text" id="aqi-label">Air Quality Index (AQI): </h1>
+        <h1 class = "result-text" id="aqi-label">Air Quality Index (AQI): Data Unavailable</h1>
             <p></p>
     
-        <h1 class = "result-text-header">Number of Nearby Recycling Plants:</h1>
-        {% for key in {{data["recycle"]}}
-        <p class = "result-text-header"> {{key}}: {{data["recycle"]["key"]</p>
+        <h1 class = "result-text-header">Number of Recycling Plants in ~5 mi radius:</h1>
+        {% for key in data["recycle"] %}
+        <p class = "result-text-header"> {{key}}: {{data["recycle"][key]}}</p>
         {% endfor %}
 
     
-        <h1 class = "result-text-header">Sustainability</h1>
+        <h1 class = "result-text-header">Sustainability:</h1>
         <!--includes info on the region's average carbon emissions,
         local recycling centers, and how to be more sus at this home -->
-        <p>Interested in leading a more sustainable life?\
+        <p class="result-text">Interested in leading a more sustainable life? 
             Check out <a href="/susTips">these tips</a>
         </p>
+        </div>
 
     </body>
 

@@ -1,12 +1,12 @@
-#title {
-    font-family: "Palatino Linotype", Serif;
+.title {
+    font-family: "Monaco", Serif;
     font-size: 5vw;
     text-shadow: 2px 2px 5px black;
     margin: 0px;
 }
 
 #about-us {
-    font-family: "Palatino Linotype", Serif;
+    font-family: "Monaco", Serif;
     text-shadow: 2px 2px 5px black;
     font-size:2vw;
 }
@@ -16,10 +16,17 @@
     position: absolute;
     top: 50%;
     left: 50%;
-    
     transform: translate(-50%, -50%);
-    color: white;
 }
+
+.white-color {
+    color: white
+}
+
+.black-color {
+    color: black;
+}
+
 
 .text-center{
     text-align: center;
@@ -29,12 +36,13 @@
 .result-text {
     text-align: center;
     margin: 20px;
-    font: "Palatino Linotype";
+    color: black;
+    font: "Monaco";
 }
 
 .result-text-header {
     text-align: center;
-    font: "Palatino Linotype";
+    font: "Monaco";
 }
 
 .background-img {
@@ -44,7 +52,7 @@
 }
 
 .green-button {
-    font-family: Arial;
+    font-family: Monaco;
     font-size: 1vw;
     background: white;
     border: 2px black inset;

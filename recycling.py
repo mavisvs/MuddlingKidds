@@ -1,4 +1,5 @@
 #how many recycling centers within 10 miles are at some zipcode
+"""
 from urllib.request import urlopen
 import re
 import Homer 
@@ -27,3 +28,4 @@ def allNearbyCents():
 #TODO: make this thing pop up on webpage print("This zipcode has at least " + numResults + " recycling centers")
 
 #first thing - lithium ion battery centers, second - plastic bottles, lead batteries
+"""
