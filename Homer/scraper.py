@@ -36,22 +36,44 @@ def coordinate(zipcode):
 def plant_scrape(zipcode):
     page = requests.get("https://www.nwf.org/NativePlantFinder/Plants/Flowers-and-Grasses/q=" + zipcode)
     html = BeautifulSoup(page.content, 'html.parser')
+    print(html)
+    # can loop through the children with beautiful soup
+    # may be a good idea to print out what html looks like
+    # call html.findall(i.e. the second div class)
+
+print(plant_scrape(zipcode))
+
+    '''words = ""
+    for text in html:
+        words += str(text)
+    words.replace("\n"," ")
+    # print(words)
+    end = len('<span class="')
+    for start in range(len(words) - end):
+        if words[start:start+end] == '<span class="':
+            print(words[start:start+end+20])
+    # <span class="commonName">lupine</span>
+    
+    # tag --> 
+# print(plant_scrape(zipcode))
+
+'''
+
+# request.headers.get("location")
+
+def disaster_scrape():
+    # url = "http://www.usa.com/" + zipcode + "-" + statecode + "-natural-disasters-extremes.htm"
+    url = "http://www.usa.com/94602-ca-natural-disasters-extremes.htm"
+    page = requests.get(url)
+    html = BeautifulSoup(page.content, 'html.parser')
     words = ""
     for text in html:
         words += str(text)
-    print(words)
-    end = len('commonName')
+    words.replace("\n"," ")
+    target = '<div id="sb1"'
+    end = len(target)
     for start in range(len(words) - end):
-        if words[start:start+end] == "commonName":
-            print(words[start:start+end+20])
-    
-    
-    # tag --> 
-print(plant_scrape(zipcode))
+        if words[start:start+end] == target:
+            print(words[start:start+end+50])
 
-
-
-
-def disaster_scrape():
-    zip_url = "https://www.unitedstateszipcodes.org/" + zipcode + "/"
-    url = "http://www.usa.com/94602-ca-natural-disasters-extremes.htm"
+disaster_scrape()
