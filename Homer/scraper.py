@@ -24,7 +24,7 @@ def scrape_conversionWebsite(zipcode):
     html = BeautifulSoup(page.content, 'html.parser')
     # print(html)
     # print(re.findall("<span", html))
-    options = html.find_all('span', string=lambda text: bool(re.match("^[-+]?\d+(\.\d+)?$", text)))
+    options = html.find_all('span', string=lambda text: bool(re.match("^[-+]?\d+(\.\d+)?$", str(text))))
     print(options)
 
 scrape_conversionWebsite("94602")

@@ -1,9 +1,12 @@
 #Save the name, coordinates, site score, and site url
 import pandas as pd
 import numpy as np
+from scraper import scrape_conversionWebsite
 
-wasteData = pd.read_csv("toxic.csv")
+# Importing superfund site list 
+OldToxicData = pd.read_csv("toxic.csv")
 
+# Cleaning up data accordingly
 dropCols = ['X', 'Y', 'FID', 'OBJECTID',
             'Site_EPA_ID', 'SEMS_ID', 'Region_ID', 
             'State', 'City', 'County', 'Status', 
@@ -22,4 +25,19 @@ dropCols = ['X', 'Y', 'FID', 'OBJECTID',
             'Editor']
 
 
-wasteData.drop(dropCols, inplace = True, axis = 1)
+toxicData = OldToxicData.drop(dropCols, inplace = True, axis = 1)
+
+# Searching for local superfund sites 
+coordinates = scrape_conversionWebsite(zipcode) # Note that coordinates will be list type
+
+long = coordinates[0]
+lat = coordinates[1]
+
+is_long = wasteData['Longitude'] == long
+is_lat = wasteData['Latitude'] == lat
+
+# Presenting local superfund sites
+localToxicData = toxicData[is_long]
+localToxicData = localToxicData[is_lat]
+
+print(localToxicData)
