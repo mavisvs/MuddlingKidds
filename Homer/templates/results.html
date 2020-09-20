@@ -9,14 +9,14 @@
         <!-- <script src="../static/script.js"></script> -->
         <!-- <script src="../static/api.js"></script> -->
         <script>console.log("Finding AQI")
-            fetch("https://api.weatherbit.io/v2.0/current/airquality?&postal_code="+document.location.href.split('?')[1]+"&country=US&key=9b56e1214a514320bd53f194caeec05f")
+            fetch("https://api.weatherbit.io/v2.0/current?&postal_code="+document.location.href.split('?')[1]+"&country=US&key=9b56e1214a514320bd53f194caeec05f")
             .then(res => res.json())
             .then(res=> {
                 const aqiLabel = document.getElementById("aqi-label");
                 let aqi = res["data"][0]["aqi"];
                 aqiLabel.append(aqi);
-                let city = res["city_name"]
-                let state = res["state_code"]
+                let city = res["data"][0]["city_name"]
+                let state = res["data"][0]["state_code"]
                 const locLabel = document.getElementById("location");
                 locLabel.innerHTML = city+", "+state;
             });</script>
