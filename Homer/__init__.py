@@ -7,8 +7,8 @@ app = Flask(__name__)
 
 import Homer.views
 
-@app.route('/results', methods=["POST"])
+@app.route('/results', methods=["GET"])
 def getZip():
     global zipcode
-    zipcode = request.forms.get('zip')
+    zipcode = request.args.get('zip')
     return zipcode
