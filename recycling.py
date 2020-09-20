@@ -10,7 +10,7 @@ ourUrl = "https://search.earth911.com/?what=CFLs%2C+desktop+computers%2C+cell+ph
 #@app.route('/results', method="post") #route action, then method
 #zipcode = request.form['zip']
 @app.route('/results', method="post")
-zipcode = request.form["zip"]
+zipcode = request.form['zip']
 ourUrl += zipcode
 #TODO: Switch to an actual variable
 ourUrl += "&list_filter=all&max_distance=10&family_id=&latitude=&longitude=&country=&province=&city=&sponsor="
@@ -21,7 +21,3 @@ html = html_bytes.decode("utf-8")
 
 numResults = html.count("result-item")
 print(numResults)
-
-
-@app.route('/results', method="post") #route action, then method
-zipcode = request.forms.get('zip')

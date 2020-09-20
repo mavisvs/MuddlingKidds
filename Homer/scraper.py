@@ -4,6 +4,7 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup
 import re
 import requests
+import pandas as pd
 
 #FLOODING WEBSITE INFO
 urlFlooding = "https://coast.noaa.gov/slr/#/layer/sce/0/-11581024.663779823/5095888.569004184/4/satellite/88/0.8/2050/interHigh/midAccretion"
@@ -44,4 +45,5 @@ plant_scrape("94560")
 [35801]
 
 def disaster_scrape():
+    zip_url = "https://www.unitedstateszipcodes.org/94602/"
     url = "http://www.usa.com/94602-ca-natural-disasters-extremes.htm"
