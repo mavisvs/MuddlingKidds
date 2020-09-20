@@ -7,10 +7,7 @@ app = Flask(__name__)
 
 ourUrl = "https://search.earth911.com/?what=CFLs%2C+desktop+computers%2C+cell+phones%2C+etc...&where="
 
-#@app.route('/results', method="post") #route action, then method
-#zipcode = request.form['zip']
 @app.route('/results', method="post")
-##zipcode = request.form['zip']
 def getZip():
     global zipcode
     zipcode = request.forms.get('zip')

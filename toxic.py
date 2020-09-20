@@ -4,14 +4,16 @@ import numpy as np
 from scraper.py import coordinates
 from scraper.py import locationData
 from flask import Flask, render_template, request
-
+zipcode = ""
 app = Flask(__name__)
 # from scraper import scrape_conversionWebsite
 
 # zipcode = 
 
-@app.route('/results', method="post") #route action, then method
-zipcode = request.forms.get('zip')
+@app.route('/results', method="post")
+def getZip():
+    global zipcode
+    zipcode = request.forms.get('zip')
 
 # Importing superfund site list 
 OldToxicData = pd.read_csv("toxic.csv")
